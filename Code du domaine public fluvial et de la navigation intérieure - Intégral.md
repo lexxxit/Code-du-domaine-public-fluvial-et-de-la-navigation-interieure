@@ -1,5 +1,5 @@
 # Code du domaine public fluvial et de la navigation intérieure  
-Version Consolidée au 2004-06-01
+Version Consolidée au 2004-11-04
 
 # Livre Ier : Du domaine public fluvial
 
@@ -5250,7 +5250,8 @@ Les chambres de batellerie sont, auprès des pouvoirs publics et des diverses or
 les organismes représentatifs des intérêts professionnels ou économiques des patrons bateliers et des compagnons bateliers au
 service de ceux-ci.
 
-Leur création s'effectue avec le même caractère et avec les mêmes effets que celles des chambres de métiers.
+Leur création s'effectue avec le même caractère et avec les mêmes effets que celles des chambres de métiers et de
+l'artisanat.
 
 **Liens relatifs à cet article**
 
@@ -5258,9 +5259,17 @@ Leur création s'effectue avec le même caractère et avec les mêmes effets que
 
 	  - Décret n°56-1033 1956-10-13
 
+	**Modifié par**:
+
+	  - Décret n°2004-1164 du 2 novembre 2004 - art. 1 () JORF 4 novembre 2004
+
 	**Anciens textes**:
 
 	  - Décret-Loi 1938-11-12 art. 15
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
 ## Titre IV : Dispositions générales
