@@ -1,5 +1,5 @@
 # Code du domaine public fluvial et de la navigation intérieure  
-Version Consolidée au 1987-12-18
+Version Consolidée au 1990-01-01
 
 # Livre Ier : Du domaine public fluvial
 
@@ -525,6 +525,54 @@ qu'un accord se sera établi à ce sujet entre l'administration et les intéress
 
 ### Chapitre III : Servitudes.
 
+###### Article 15
+
+Les propriétaires riverains des fleuves et rivières inscrits sur la nomenclature des voies navigables ou flottables sont
+tenus, dans l'intérêt du service de la navigation et partout où il existe un chemin de halage, de laisser le long des bords
+desdits fleuves et rivières, ainsi que sur les îles où il en est besoin, un espace de 7,80 mètres de largeur.
+
+Ils ne peuvent planter d'arbres ni se clore par haies ou autrement qu'à une distance de 9,75 mètres du côté où les bateaux se
+tirent et de 3,25 mètres sur le bord où il n'existe pas de chemin de halage.
+
+Les propriétés riveraines d'un cours d'eau domanial rayé de la nomenclature des voies navigables ou flottables ou classé dans
+le domaine public par application de l'article 2-1 ainsi que les propriétés riveraines d'un lac domanial sont grevées sur
+chaque rive de cette dernière servitude de 3,25 mètres , dite servitude de "marchepied". Lorsqu'un cours d'eau est déjà grevé
+de la servitude prévue par le décret n° 59-96 du 7 janvier 1959, cette dernière servitude est maintenue.
+
+Tout contrevenant sera passible d'un amende de 1800 F et devra, en outre, remettre les lieux en état ou, à défaut, payer les
+frais de la remise en état d'office par l'administration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
+
+	**Cite**:
+
+	  - Décret n°59-96 1959-01-07
+	  - Code du domaine public fluvial et de la navigation - art. 2-1 (M)
+
+	**Modifié par**:
+
+	  - Loi n°64-1245 1964-12-16 art. 30, art. 31 JORF 18 décembre 1964
+	  - Décret n°80-567 du 18 juillet 1980 - art. 2 (V) JORF 23 juillet 1980
+	  - Décret n°85-956 1985-09-11 art. 2, art. 5 JORF 12 septembre 1985 en vigueur le 1er octobre 1985
+	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+
+	**Cité par**:
+
+	  - Décret n°89-391 du 15 juin 1989 - art. 7 (V)
+	  - Code de l'urbanisme - art. R*126-1, Annexe (V)
+	  - Code du domaine public fluvial et de la navigation - art. 19 (Ab)
+	  - Code rural ancien - art. 424 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°1898-04-08 art. 46
+	  - Loi n°1898-04-08 du 8 avril 1898 - art. 46 (Ab)
+
+
 ###### Article 16
 
 Lorsque l'intérêt du service de la navigation le permettra, les distances fixées par les deux premiers alinéas de l'article
@@ -774,6 +822,34 @@ Moulins de février 1566 et des ventes légalement consommées de biens nationau
 	  - Code général de la propriété des personnes publiqu - art. L3111-2 (V)
 
 
+###### Article 24
+
+Il est interdit :
+
+1° de dégrader, détruire ou enlever les ouvrages construits pour la sûreté et la facilité de la navigation et du halage sur
+les rivières et canaux navigables ou flottables ou le long de ces voies ;
+
+2° de faire aucun dommage aux ouvrages provisoires établis en vue de la construction ou de l'entretien des ouvrages visés à
+l'alinéa ci-dessus ;
+
+3° de naviguer sous les arches des ponts qui seraient fermés à la navigation du fait de tels travaux.
+
+Le contrevenant sera passible d'une amende de 3000 à 6000 F et devra, supporter les frais de réparations. Il devra, en outre
+dédommager les entrepreneurs chargés des travaux à dire d'experts nommés par les parties ou d'office.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
+
+	**Modifié par**:
+
+	  - Décret n°80-567 du 18 juillet 1980 - art. 2 (V) JORF 28 juillet 1980
+	  - Décret n°85-956 1985-09-11 art. 25 JORF 12 septembre 1985 en vigueur le 1er octobre 1985
+	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+
+
 ###### Article 25
 
 Aucun travail ne peut être exécuté, aucune prise d'eau ne peut être pratiquée sur le domaine public fluvial sans autorisation
@@ -879,6 +955,70 @@ d'office par l'administration.
 	  - Loi n°64-1245 1964-12-16 art. 32 JORF 18 décembre 1964
 	  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 décembre 1977
 	  - Loi n°85-835 du 7 août 1985 - art. 8 (VT) JORF 8 aout 1985 en vigueur le 1er octobre 1985
+
+
+###### Article 28
+
+Il est interdit :
+
+1. De jeter dans le lit des rivières et canaux domaniaux ou sur leurs bords des matières insalubres ou des objets
+quelconques, ni rien qui puisse embarrasser le lit des cours d'eau ou canaux ou y provoquer des atterrissements ;
+
+2. D'y planter des pieux ;
+
+3. D'y mettre rouir des chanvres ;
+
+4. De modifier le cours desdits rivières ou canaux par tranchées ou par quelque moyen que ce soit ;
+
+5. D'y extraire des matériaux ;
+
+6. D'extraire à moins de 11,70 m de la limite desdites rivières ou des bords desdits canaux, des terres, sables et autres
+matériaux.
+
+Le contrevenant sera passible d'une amende de 3000 à 6000 F et devra, en outre, remettre les lieux en état ou, à défaut,
+payer les frais de la remise en état d'office par l'administration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
+
+	**Créé par**:
+
+	  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956 rectificatif JORF 29 décembre 1956
+
+	**Modifié par**:
+
+	  - Décret n°85-956 1985-09-11 art. 25 JORF 12 septembre 1985 en vigueur le 1er octobre 1985
+	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*126-1, Annexe (V)
+
+
+###### Article 29
+
+Les riverains, les mariniers et autres personnes, sont tenus de faire enlever les pierres, terres, bois, pieux, débris de
+bateaux et autres empêchements qui, de leur fait ou du fait de personnes ou de choses à leur charge, se trouveraient sur le
+domaine public fluvial. Le contrevenant sera passible d'une amende de 3000 à 6000 F, de la confiscation de l'objet
+constituant l'obstacle et du remboursement des frais d'enlèvement d'office par l'administration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
+
+	**Créé par**:
+
+	  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956 rectificatif JORF 29 décembre 1956
+
+	**Modifié par**:
+
+	  - Décret n°85-956 1985-09-11 art. 2 5 JORF 12 septembre 1985 en vigueur le 1er octobre 1985
+	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1990 en vigueur le 1er janvier 1990
 
 
 ### Chapitre II : Gestion du domaine public fluvial
@@ -1520,6 +1660,42 @@ vallée.
 	  - Décret-loi 1935-10-30 art. 6
 
 
+###### Article 54
+
+Les infractions aux dispositions ci-dessus et aux décrets prévus à l'article 52 seront poursuivies comme contraventions de
+grande voirie et punies d'une amende de 3000 à 6000 F, sans préjudice, s'il y a lieu, de la démolition des ouvrages indûment
+établis et de la réparation des dommages causés au domaine public ou à ses dépendances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
+
+	**Modifié par**:
+
+	  - Décret n°60-357 1960-04-09 art. 1 JORF 14 avril 1960
+	  - Décret n°85-956 1985-09-11 art. 2 5 JORF 12 septembre 1985 en vigueur le 1er octobre 1985
+	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1990 en vigueur le 1er janvier 1990
+
+	**Cité par**:
+
+	  - Loi n°82-600 du 13 juillet 1982 - art. 5-1 (Ab)
+
+	**Anciens textes**:
+
+	  - Décret-loi 1935-10-13 art. 7
+
+	**Abrogé par**:
+
+	  - Loi n°92-3 1992-01-03 art. 46 I JORF 4 janvier 1992
+	  - Loi n°95-101 du 2 février 1995 - art. 20 () JORF 3 février 1995
+
+	**Cite**:
+
+	  - Code du domaine public fluvial et de la navigation - art. 52 (Ab)
+
+
 ### Chapitre III : Dispositions spéciales à la Loire et à ses affluents
 
 ###### Article 55
@@ -1562,6 +1738,80 @@ biens et des populations.
 	**Abrogé par**:
 
 	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+
+###### Article 57
+
+Pour l'ensemble des cours d'eau énumérés, il ne pourra être fait aucune plantation nouvelle ni aucune accrue tolérée sur les
+terrains compris entre les cours d'eau et les digues et levées sur les îles, sans une autorisation préfectorale prise sur
+l'avis des ingénieurs de la navigation à peine d'une amende de 3000 à 6000 F. Les plantations faites sans autorisation
+pourront, en outre, être arrachées aux frais des contrevenants à la suite d'un arrêté préfectoral pris sur l'avis des
+ingénieurs de la navigation, sans qu'il y ait besoin d'une mise en demeure préalable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
+
+	**Modifié par**:
+
+	  - Décret n°80-567 du 18 juillet 1980 - art. 2 (V) JORF 23 juillet 1980
+	  - Décret n°85-956 1985-09-11 art. 25 JORF 12 septembre 1985 en vigueur le 1er octobre 1985
+	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+
+
+###### Article 58
+
+Toute plantation ancienne ou accrue sur les digues ou levées, les terrains compris entre les cours d'eau et les digues ou
+levées ou sur les îles, qui serait reconnue faire obstacle à l'écoulement des eaux ou restreindre d'une façon nuisible le
+champ d'inondation, devra être supprimée en tout ou en partie dans le délai de deux mois sur l'ordre des ingénieurs, à peine
+d'une amende de 3000 à 6000 F. En cas d'inexécution dans le délai prescrit, l'enlèvement en sera fait aux frais du
+contrevenant sans qu'il soit besoin d'une mise en demeure préalable.
+
+Il ne sera dû d'indemnité que si la plantation avait fait antérieurement l'objet d'une autorisation régulière et compte tenu
+des conditions fixées par cette autorisation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
+
+	**Modifié par**:
+
+	  - Décret n°80-567 du 18 juillet 1980 - art. 2 (V) JORF 23 juillet 1980
+	  - Décret n°85-956 1985-09-11 art. 25 JORF 12 septembre 1985 en vigueur le 1er octobre 1985
+	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+
+
+###### Article 59
+
+Il est interdit d'élever aucune construction sur les terrains compris entre les digues et la rivière ni sur les digues et
+levées, ou sur les îles.
+
+Du côté du val, il est interdit de planter des arbres ou arbustes, de creuser des puits, caves, fossés, ou faire toutes
+autres excavations de terrain à moins de 19,50 m du pied des levées.
+
+Les façades des bâtiments, dans la zone des 19,50 m définis ci-dessus, devront être établies à 1,95 m au moins de l'arête
+inférieure du talus extérieur de la digue ou levée et l'intervalle compris entre ces façades et les talus voisins des levées
+ou digues devra être remblayé avec soin au niveau de leur couronnement. Les fondations des murs ne doivent pas excéder une
+profondeur de 0,50 m.
+
+Toute construction devra faire l'objet d'une autorisation préfectorale prise sur l'avis des ingénieurs de la navigation.
+Toute construction non autorisée donnera lieu à une amende de 2500 à 5000 F et à la démolition de la construction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
+
+	**Modifié par**:
+
+	  - Décret n°80-567 du 18 juillet 1980 - art. 2 (V) JORF 23 juillet 1980
+	  - Décret n°85-956 1985-09-11 art. 25 JORF 12 septembre 1985 en vigueur le 1er octobre 1985
+	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
 
 
 ###### Article 60
@@ -1795,6 +2045,52 @@ amende de la valeur de trois journées de travail pour chaque contravention.
 	  - Loi n°6 frimaire an VII art. 51
 
 
+###### Article 71
+
+Il est expressément défendu aux amodiataires, mariniers et autres personnes employées au service des bacs et bateaux
+d'exiger, dans aucun temps, autres et plus fortes sommes que celles portées aux tarifs à peine d'être condamnés par le
+tribunal de police, soit sur la réquisition des parties plaignantes, soit sur celle des agents de l'administration, à la
+restitution des sommes indûment perçues et, en outre, à une amende de 600 à 1300 F.
+
+En cas de récidive, la condamnation sera prononcée par le tribunal correctionnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-1033 1956-10-13
+
+	**Modifié par**:
+
+	  - Décret n°85-956 1985-09-11 art. 2 JORF 12 septembre 1985
+	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+
+	**Anciens textes**:
+
+	  - Loi n°6 frimaire an VII art. 52
+
+
+###### Article 72
+
+Si l'exaction est accompagnée d'injures, menaces, violences ou voies de faits, les prévenus seront traduits devant le
+tribunal correctionnel et condamnés, outre les réparations civiles et dommages-intérêts, à une amende qui pourra être de 600
+à 1300 F et un emprisonnement qui ne pourra excéder trois mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-1033 1956-10-13
+
+	**Modifié par**:
+
+	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+
+	**Anciens textes**:
+
+	  - Loi n°6 frimaire an VII art. 53
+
+
 ###### Article 73
 
 Les adjudicataires seront, dans tous les cas, civilement responsables des restitutions pécuniaires prononcées contre leurs
@@ -1833,6 +2129,52 @@ ingénieurs et leurs baux demeureront résiliés sans indemnité.
 	**Abrogé par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+
+###### Article 75
+
+Toute personne qui se soustrairait au paiement des sommes portées aux tarifs sera condamnée par le tribunal de police, outre
+la restitution des droits, à une amende de 600 à 1300 F.
+
+En cas de récidive, le tribunal prononcera, outre une amende de 6000 à 15000 F, un emprisonnement qui ne pourra être moindre
+d'un jour ni être de plus de trois mois, et l'affiche du jugement sera aux frais du contrevenant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-1033 1956-10-13
+
+	**Modifié par**:
+
+	  - Décret n°85-956 1985-09-11 art. 2 JORF 12 septembre 1985
+	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+
+	**Anciens textes**:
+
+	  - Loi n°6 frimaire an VII art. 56
+
+
+###### Article 76
+
+Si le refus de payer était accompagné d'injures, menaces, violences ou voies de fait, les coupables seront traduits devant le
+tribunal correctionnel et condamnés, outre les réparations civiles et dommages-intérêts, à une amende qui pourra être de 600
+à 1300 F et un emprisonnement qui ne pourra excéder trois mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-1033 1956-10-13
+
+	**Modifié par**:
+
+	  - Décret n°85-956 1985-09-11 art. 2 JORF 12 septembre 1985
+	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+
+	**Anciens textes**:
+
+	  - Loi n°6 frimaire an VII art. 57
 
 
 ###### Article 77
@@ -5669,6 +6011,53 @@ entreprises participant aux transports par navigation intérieure.
 	  - Loi n°94-576 du 12 juillet 1994 - art. 16 (Ab) JORF 13 juillet 1994
 
 
+###### Article 209
+
+Les infractions aux dispositions du présent titre ou à celles des arrêtés d'application, à l'exception des infractions aux
+ordres de réquisition dont les sanctions sont prononcées dans les conditions définies au dernier alinéa de l'article 204,
+sont punies d'une amende de 900 F et, en cas de récidive, de 9000 F. Les chiffres ci-dessus sont quadruplés lorsqu'il s'agit
+de contraventions aux prescriptions des articles 200 à 204, dernier alinéa excepté, du présent chapitre, ou aux dispositions
+réglementaires prises pour l'application de ces articles. Toutefois, les contrevenants auront la faculté de se libérer par le
+versement immédiat entre les mains de l'agent verbalisateur de la moitié du minimum de l'amende ainsi fixée.
+
+Les infractions sont constatées par les fonctionnaires et agents visés à l'article 208 ci-dessus. Les procès-verbaux sont
+dispensés de l'affirmation.
+
+En plus des sanctions pénales indiquées ci-dessus, toute infraction peut donner lieu à l'arrêt du bateau ou du remorqueur
+ayant servi à commettre l'infraction pour une durée de huit jours à un mois, ou à sa réquisition d'usage gratuite pour la
+même durée. En cas de nouvelle infraction, ces durées peuvent être triplées.
+
+Les sanctions prévues à l'alinéa ci-dessus sont prononcées par le directeur des Voies navigables de France. Elles peuvent
+faire l'objet, devant le ministre de l'équipement et du logement, d'un appel qui n'est pas suspensif.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-1033 1956-10-13
+
+	**Modifié par**:
+
+	  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 décembre 1977
+	  - Décret n°80-567 du 18 juillet 1980 - art. 2 (V) JORF du 23 juillet 1980
+	  - Décret n°85-956 1985-09-11 art. 2 JORF du 12 septembre 1985 en vigueur le 1er octobre 1985
+	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+
+	**Cité par**:
+
+	  - Arrêté du 1 décembre 1989 - art. 7 (V)
+	  - Code du domaine public fluvial et de la navigat... - art. 189-6 (VT)
+
+	**Cite**:
+
+	  - Code du domaine public fluvial et de la navigation - art. 208 (Ab)
+	  - Code du domaine public fluvial et de la navigation intérieure 200 à 204, 208
+
+	**Anciens textes**:
+
+	  - Loi n°1941-03-22 art. 29
+
+
 ###### Article 210
 
 Toutes modalités d'application des dispositions ci-dessus du présent titre sont prises par arrêté du ministre de l'équipement
@@ -5773,6 +6162,29 @@ et retards.
 	**Abrogé par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+
+###### Article 214
+
+Seront punis d'une amende de 3000 à 6000 F et, en cas de récidive, d'une amende de 6000 à 12000 F, les patrons, mariniers et
+charretiers, ainsi que toutes autres personnes participant à la conduite, à la traction ou au remorquage d'un bateau, qui,
+par des manoeuvres, des déplacements ou des stationnements, auront volontairement créé un obstacle à la circulation normale
+sur une voie de navigation intérieure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-1033 1956-10-13
+
+	**Modifié par**:
+
+	  - Décret n°85-956 1985-09-11 art. 2 JORF 12 septembre 1985
+	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+
+	**Anciens textes**:
+
+	  - Loi n°1930-07-18
 
 
 ###### Article 215
