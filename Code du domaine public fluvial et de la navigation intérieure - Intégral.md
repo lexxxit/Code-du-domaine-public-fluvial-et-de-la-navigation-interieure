@@ -1,5 +1,5 @@
 # Code du domaine public fluvial et de la navigation intérieure  
-Version Consolidée au 2004-11-04
+Version Consolidée au 2005-01-01
 
 # Livre Ier : Du domaine public fluvial
 
@@ -21,7 +21,7 @@ terrains submergés aient été acquis par l'Etat ou par son concessionnaire à 
 - Les rivières canalisées, les canaux de navigation, étangs ou réservoirs d'alimentation, contrefossés et autres
 dépendances ;
 
-- Les ports publics situés sur les voies navigables et leurs dépendances ;
+- Les ports intérieurs et leurs dépendances ;
 
 - Les ouvrages publics construits dans le lit ou sur les bords des voies navigables ou flottables pour la sûreté et la
 facilité de la navigation ou du halage ;
@@ -33,8 +33,8 @@ domaine public ;
 en vue d'assurer l'alimentation en eau des voies navigables, les besoins en eau de l'agriculture et de l'industrie,
 l'alimentation des populations ou la protection contre les inondations ;
 
-- les cours d'eaux, canaux, lacs et plans d'eau appartenant au domaine public fluvial des collectivités territoriales et de
-leurs groupements ;
+- les cours d'eau, canaux, lacs, plans d'eau et ports intérieurs appartenant au domaine public fluvial des collectivités
+territoriales et de leurs groupements ;
 
 - Les cours d'eau et les lacs appartenant au domaine public sont appelés cours d'eau et lacs domaniaux.
 
@@ -63,7 +63,15 @@ leurs groupements ;
 
 	**Modifié par**:
 
-	  - Loi n°2003-699 du 30 juillet 2003 - art. 56 () JORF 31 juillet 2003
+	  - Loi n°2004-809 du 13 août 2004 - art. 32 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiques L2111-7 (al. 1 à al. 9)
 
 
 ###### Article 1-1
@@ -87,6 +95,15 @@ même formulé la demande.
 
 Le transfert est refusé si la cohérence hydraulique ne peut pas être assurée.
 
+La collectivité territoriale ou le groupement de collectivités territoriales bénéficiaire du transfert succède dans
+l'ensemble des droits et obligations à l'égard des tiers à la personne publique gestionnaire de ce domaine avant la date du
+transfert.
+
+Pour l'application du présent article, le représentant de l'Etat dans le département communique aux collectivités
+territoriales ou groupements intéressés qui en font la demande toutes les informations dont il dispose sur le domaine public
+fluvial susceptible de leur être transféré dans un délai de six mois. Il assortit ces informations d'un diagnostic portant
+sur la faisabilité et le coût de l'enlèvement des sédiments, ainsi que d'une analyse sur leur nature.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -100,13 +117,65 @@ Le transfert est refusé si la cohérence hydraulique ne peut pas être assurée
 	  - Loi n°2007-1822 du 24 décembre 2007 - art. 117 (V)
 	  - Code du domaine public fluvial et de la navigation - art. 4 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-699 du 30 juillet 2003 - art. 56 () JORF 31 juillet 2003
+	  - Loi n°2004-809 du 13 août 2004 - art. 32 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiques L3113-1 (al. 2 à 6)
 
 	**Cite**:
 
 	  - Code du domaine public fluvial et de la navigation - art. 2-1 (M)
+
+
+###### Article 1-1-1
+
+Les cours d'eau et canaux ayant fait l'objet d'un transfert de compétence au profit de régions en application de la loi n°
+83-663 du 22 juillet 1983 complétant la loi n° 83-8 du 7 janvier 1983 relative à la répartition de compétences entre les
+communes, les départements, les régions et l'Etat avant la date d'entrée en vigueur de la loi n° 2004-809 du 13 août 2004
+relative aux libertés et responsabilités locales leur sont transférés de plein droit et en pleine propriété à leur demande
+ou, au plus tard, à l'expiration d'un délai de trois ans à compter de l'entrée en vigueur de la loi n° 2004-809 du 13 août
+2004 précitée, sauf si celles-ci s'y sont opposées par délibération prise avec un préavis de six mois avant l'échéance de ce
+délai. Pendant cette période, les régions exercent les mêmes compétences que celles confiées à l'article 1er-2 du présent
+code.
+
+Les régions ayant obtenu le transfert des cours d'eau et canaux peuvent déléguer, par convention, tout ou partie de leurs
+compétences à des collectivités territoriales qui en feraient la demande.
+
+Ces transferts sont réalisés à titre gratuit et ne donnent lieu au paiement d'aucune indemnité, droit, taxe ou honoraires.
+
+Toutefois, lorsque avant le 1er janvier 2005, une partie du domaine public fluvial a été concédée à une collectivité
+territoriale, cette dernière est prioritaire pour bénéficier du transfert de propriété.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
+
+	**Cite**:
+
+	  - Loi n°83-8 1983-01-07
+	  - Loi n°83-663 1983-07-22
+	  - Loi n°2004-809 2004-08-13
+
+	**Cité par**:
+
+	  - Décret n°91-796 du 20 août 1991 - art. 1 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
+
+	**Créé par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 32 () JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 
 ###### Article 1-2
@@ -181,8 +250,32 @@ peuvent faire l'objet d'un transfert.
 
 La collectivité territoriale ou le groupement est chargé de l'aménagement et de l'exploitation de son domaine. L'autorité
 exécutive de la collectivité territoriale ou du groupement exerce les pouvoirs de police y afférents, sous réserve des
-attributions dévolues aux maires et des compétences de l'Etat en matière de police de l'eau, de réglementation générale de la
-navigation et d'utilisation de l'énergie hydraulique.
+attributions dévolues aux maires et des compétences de l'Etat en matière de police de l'eau, de police de la navigation et
+d'utilisation de l'énergie hydraulique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
+
+	**Modifié par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 32 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+
+
+###### Article 1-5
+
+Les collectivités territoriales et leurs groupements sont compétents pour créer, aménager et exploiter les ports intérieurs
+dont ils sont ou deviennent propriétaires selon les dispositions prévues aux articles 1er-1 à 1er-3, à l'exception des ports
+d'intérêt national inscrits sur une liste fixée par décret en Conseil d'Etat.
+
+Le classement d'un port intérieur dans le domaine public et son déclassement du domaine public s'opèrent conformément aux
+dispositions d'une part de l'article 2-1, d'autre part des premier, troisième et dernier alinéas de l'article 4.
 
 **Liens relatifs à cet article**
 
@@ -192,7 +285,20 @@ navigation et d'utilisation de l'énergie hydraulique.
 
 	**Créé par**:
 
-	  - Loi n°2003-699 du 30 juillet 2003 - art. 56 () JORF 31 juillet 2003
+	  - Loi n°2004-809 du 13 août 2004 - art. 32 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiques L2111-12 (al. 2)
+
+	**Cite**:
+
+	  - Code du domaine public fluvial et de la navigation - art. 2-1 (M)
+	  - Code du domaine public fluvial et de la navigation - art. 4 (M)
 
 
 ###### Article 2
@@ -1376,12 +1482,12 @@ Ces avis devront être donnés dans le délai maximum de six mois à compter du 
 
 ###### Article 35
 
-Les titulaires d'autorisations de prise d'eau sur les cours d'eau domaniaux et sur les canaux de navigation sont assujettis à
-payer à l'Etat une redevance calculée d'après les bases fixées par un décret en Conseil d'Etat.
+Les titulaires d'autorisations de prise d'eau sur les ports intérieurs, les cours d'eau domaniaux et sur les canaux de
+navigation sont assujettis à payer à l'Etat une redevance calculée d'après les bases fixées par un décret en Conseil d'Etat.
 
-Sur les cours d'eau, sections de cours d'eau, canaux, lacs et plans d'eau appartenant à une collectivité territoriale ou un
-groupement, la redevance est perçue à son profit. Elle est établie par délibération de l'assemblée délibérante de la
-collectivité territoriale ou du groupement, dans les limites fixés par décret en Conseil d'Etat.
+Sur les cours d'eau, sections de cours d'eau, canaux, lacs et plans d'eau et ports intérieurs appartenant à une collectivité
+territoriale ou un groupement, la redevance est perçue à son profit. Elle est établie par délibération de l'assemblée
+délibérante de la collectivité territoriale ou du groupement, dans les limites fixés par décret en Conseil d'Etat.
 
 Les dispositions du présent article ne sont pas applicables aux cours d'eau domaniaux et aux canaux confiés à l'établissement
 public créé par l'article 67 de la loi du 27 février 1912 portant fixation du budget général des dépenses et des recettes de
@@ -1397,19 +1503,20 @@ l'exercice 1912.
 
 	  - TXT_SOURCE: Décret n°87-1026 du 17 décembre 1987
 	  - TXT_SOURCE: Décret n°87-1026 du 17 décembre 1987 - art. 2 (V)
-
-	**Cite**:
-
-	  - Loi n°1912-02-27 art. 67
+	  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
 
 	**Modifié par**:
 
-	  - Loi n°2003-699 du 30 juillet 2003 - art. 56 () JORF 31 juillet 2003
+	  - Loi n°2004-809 du 13 août 2004 - art. 32 () JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
 	  - Décret n°2005-992 du 16 août 2005 - art. 16 (Ab)
 	  - Code général de la propriété des personnes publ... - art. R2125-13 (VT)
+
+	**Cite**:
+
+	  - Loi n°1912-02-27 art. 67
 
 	**Anciens textes**:
 
