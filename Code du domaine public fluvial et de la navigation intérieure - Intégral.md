@@ -1,5 +1,5 @@
 # Code du domaine public fluvial et de la navigation intérieure  
-Version Consolidée au 1974-04-02
+Version Consolidée au 1974-10-16
 
 # Livre Ier : Du domaine public fluvial
 
@@ -1241,91 +1241,6 @@ Après le jugement définitif, la transaction ne peut porter que sur les peines 
 
 
 ## Titre IV : Défense contre les inondations
-
-### Chapitre Ier : Dispositions générales
-
-###### Article 45
-
-Les départements et les communes sont autorisés à exécuter, sous le contrôle du ministre de l'équipement et du logement, à
-leurs frais, avec ou sans subvention de l'Etat, et soit isolément, soit après constitution d'associations départementales ou
-interdépartementales, tous travaux de protection contre les inondations.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-	**Abrogé par**:
-
-	  - Décret n°74-851 du 8 octobre 1974 - art. 9 (Ab) JORF 16 octobre 1974
-
-	**Cité par**:
-
-	  - Décret n°74-851 du 8 octobre 1974 - art. 9 (Ab)
-	  - Code du domaine public fluvial et de la navigat... - art. 209 (VT)
-
-	**Anciens textes**:
-
-	  - Décret-loi 1938-11-12 art. 1
-
-
-###### Article 46
-
-Des décrets en Conseil d'Etat sur les propositions du ministre de l'intérieur et du ministre de l'équipement et du logement,
-fixeront éventuellement le mode de constitution et de fonctionnement des associations visées à l'article ci-dessus.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-	**Abrogé par**:
-
-	  - Décret n°74-851 du 8 octobre 1974 - art. 9 (Ab) JORF 16 octobre 1974
-
-	**Cité par**:
-
-	  - Décret n°74-851 du 8 octobre 1974 - art. 9 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret-loi 1938-11-12 art. 2
-
-
-###### Article 47
-
-Les départements, les communes et les associations dont la constitution est prévue à l'article 45 pourront être autorisés par
-un décret en Conseil d'Etat, à faire participer à leurs dépenses, tous les particuliers et toutes les collectivités
-intéressés aux travaux.
-
-Ce décret, après accomplissement d'une instruction dont les formes seront déterminées par un règlement d'administration
-publique, délimitera les zones dans lesquelles les intéressés seront appelés à contribuer aux dépenses, fixera la part
-contributive globale des intéressés aux dépenses, et arrêtera les bases générales de la répartition de cette contribution
-d'après le degré d'intérêt de chacun à l'exécution des travaux.
-
-Les rôles de répartition des sommes à recouvrer seront dressés sous la surveillance des préfets intéressés, et rendus
-exécutoires par eux, chacun en ce qui concerne son département.
-
-Le recouvrement sera fait dans les mêmes formes et avec les mêmes garanties qu'en matière de contributions directes.
-
-Le privilège ainsi créé prendra rang immédiatement après celui du Trésor public.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-	**Abrogé par**:
-
-	  - Décret n°74-851 du 8 octobre 1974 - art. 9 (Ab) JORF 16 octobre 1974
-
-	**Anciens textes**:
-
-	  - Décret-loi 1938-11-12 art. 3
-
 
 ### Chapitre II : Travaux dans les vallées submersibles
 
