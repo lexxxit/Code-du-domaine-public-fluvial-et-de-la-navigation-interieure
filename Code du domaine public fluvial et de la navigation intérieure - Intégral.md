@@ -1,5 +1,5 @@
 # Code du domaine public fluvial et de la navigation intérieure  
-Version Consolidée au 1980-10-13
+Version Consolidée au 1984-04-18
 
 # Livre Ier : Du domaine public fluvial
 
@@ -831,22 +831,6 @@ pour la délivrance des autorisations.
 
 ### Chapitre II : Gestion du domaine public fluvial
 
-###### Article 30
-
-Les ingénieurs en chef de la navigation assurent sous l'autorité du ministre des travaux publics, la gestion du domaine
-public fluvial.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-	**Cité par**:
-
-	  - Décret n°95-260 du 8 mars 1995 - art. 2 (VD)
-
-
 ###### Article 33
 
 En matière d'établissement ayant pour effet de modifier le régime, le cours ou le niveau des eaux, et en matière de prise
@@ -918,39 +902,6 @@ payer à l'Etat une redevance calculée d'après les bases fixées par un règle
 
 	  - Loi n°1898-04-08 art. 44
 	  - Loi n°1898-04-08 du 8 avril 1898 - art. 44 (Ab)
-
-
-#### Section 1 : Dispositions d'ordre général
-
-###### Article 31
-
-Ils ont délégation permanente des préfets pour effectuer tous actes d'administration de ce domaine.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-	**Anciens textes**:
-
-	  - Décret-loi 1934-07-19 art. 2
-
-
-###### Article 32
-
-Les ingénieurs en chef de la navigation ont délégation permanente pour autoriser les occupations temporaires du domaine
-public fluvial.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-	**Anciens textes**:
-
-	  - Décret-loi 1934-07-19 art. 2
 
 
 #### Section 2 : Dispositions particulières aux prises d'eau sur les cours d'eau domaniaux.
