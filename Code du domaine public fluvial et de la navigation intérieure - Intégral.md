@@ -1,5 +1,5 @@
 # Code du domaine public fluvial et de la navigation intérieure  
-Version Consolidée au 1994-07-13
+Version Consolidée au 1996-06-06
 
 # Livre Ier : Du domaine public fluvial
 
@@ -5285,29 +5285,6 @@ contraventions en matière de grande voirie et punies des mêmes peines.
 	**Nouveaux textes**:
 
 	  - Code des transports - art. L4463-1 (M)
-
-
-### Chapitre IV : Fret
-
-###### Article 199
-
-Il est établi auprès de chaque direction régionale une chambre syndicale de courtiers de fret.
-
-Sont seuls admis à représenter les tiers aux bourses d'affrètement organisées dans la circonscription de la direction
-régionale les courtiers de fret inscrits à cette chambre syndicale et qui en observent le règlement.
-
-Les règlements des diverses chambres sont approuvés par les directeurs des Voies navigables de France.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1944-06-03 art. 2
-	  - Loi n°1941-03-22 art. 13
-
-	**Codifié par**:
-
-	  - Décret n°56-1033 1956-10-13
 
 
 ### Chapitre V : Modalités d'exécution des contrats, contrôle et sanctions
