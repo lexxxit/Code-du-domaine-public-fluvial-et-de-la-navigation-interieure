@@ -1,5 +1,5 @@
 # Code du domaine public fluvial et de la navigation intérieure  
-Version Consolidée au 2001-01-17
+Version Consolidée au 2001-01-17 00:00:01 +0100
 
 # Livre Ier : Du domaine public fluvial
 
@@ -5287,16 +5287,16 @@ A défaut de convention écrite définissant les rapports entre les parties au c
 
 	**Codifié par**:
 
-	  - Décret n°56-1033 1956-10-13
+	  - Décret n°56-1033 du 13 octobre 1956
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Loi n°2001-43 du 16 janvier 2001 - art. 21 () JORF 17 janvier 2001
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 	**Cite**:
 
-	  - Code du domaine public fluvial et de la navigation - art. 189-6 (M)
-	  - Code du domaine public fluvial et de la navigation - art. 189-7 (V)
+	  - Code du domaine public fluvial et de la navigation intérieure - art. 189-6
+	  - Code du domaine public fluvial et de la navigation intérieure - art. 189-7
 
 
 ###### Article 189-9
