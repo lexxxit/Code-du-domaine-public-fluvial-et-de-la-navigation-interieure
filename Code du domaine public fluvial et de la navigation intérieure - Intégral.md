@@ -1,5 +1,5 @@
 # Code du domaine public fluvial et de la navigation intérieure  
-Version Consolidée au 1990-01-01
+Version Consolidée au 1990-12-30
 
 # Livre Ier : Du domaine public fluvial
 
@@ -1064,37 +1064,6 @@ Un décret en Conseil d'Etat fixe les modalités d'application présent article.
 	  - Loi n°1898-04-08 du 8 avril 1898 - art. 43 (Ab)
 
 
-###### Article 35
-
-Les titulaires d'autorisation de prise d'eau sur les cours d'eau domaniaux et sur les canaux de navigation sont assujettis à
-payer à l'Etat une redevance calculée d'après les bases fixées par un règlement d'administration publique.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-	**Modifié par**:
-
-	  - Loi n°64-1245 1964-12-16 art. 32 JORF 18 décembre 1964
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°87-1026 du 17 décembre 1987
-	  - TXT_SOURCE: Décret n°87-1026 du 17 décembre 1987 - art. 2 (V)
-
-	**Cité par**:
-
-	  - Décret n°2005-992 du 16 août 2005 - art. 16 (Ab)
-	  - Code général de la propriété des personnes publ... - art. R2125-13 (VT)
-
-	**Anciens textes**:
-
-	  - Loi n°1898-04-08 art. 44
-	  - Loi n°1898-04-08 du 8 avril 1898 - art. 44 (Ab)
-
-
 #### Section 2 : Dispositions particulières aux prises d'eau sur les cours d'eau domaniaux.
 
 ###### Article 34
@@ -1123,6 +1092,44 @@ Ces avis devront être donnés dans le délai maximum de six mois à compter du 
 	**Abrogé par**:
 
 	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+
+###### Article 35
+
+Les titulaires d'autorisations de prise d'eau sur les cours d'eau domaniaux et sur les canaux de navigation sont assujettis à
+payer à l'Etat une redevance calculée d'après les bases fixées par un règlement d'administration publique.
+
+Les dispositions du présent article ne sont pas applicables aux cours d'eau domaniaux et aux canaux confiés à l'établissement
+public créé par l'article 67 de la loi du 27 février 1912 portant fixation du budget général des dépenses et des recettes de
+l'exercice 1912.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°87-1026 du 17 décembre 1987
+	  - TXT_SOURCE: Décret n°87-1026 du 17 décembre 1987 - art. 2 (V)
+
+	**Modifié par**:
+
+	  - Loi n°90-1168 1990-12-29 art. 124 V JORF 30 décembre 1990
+
+	**Cité par**:
+
+	  - Décret n°2005-992 du 16 août 2005 - art. 16 (Ab)
+	  - Code général de la propriété des personnes publ... - art. R2125-13 (VT)
+
+	**Cite**:
+
+	  - Loi n°1912-02-27 art. 67
+
+	**Anciens textes**:
+
+	  - Loi n°1898-04-08 du 8 avril 1898 - art. 44 (Ab)
 
 
 ###### Article 36
