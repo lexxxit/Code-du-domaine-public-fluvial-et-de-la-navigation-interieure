@@ -1,5 +1,5 @@
 # Code du domaine public fluvial et de la navigation intérieure  
-Version Consolidée au 1984-06-30
+Version Consolidée au 1985-10-01
 
 # Livre Ier : Du domaine public fluvial
 
@@ -839,6 +839,26 @@ pour la délivrance des autorisations.
 
 	  - Loi n°1898-04-08 art. 45
 	  - Loi n°1898-04-08 du 8 avril 1898 - art. 45 (Ab)
+
+
+###### Article 27
+
+Il est interdit, de construire ou de laisser subsister sur les rivères et canaux domaniaux ou le long de ces voies, des
+ouvrages quelconques susceptibles de nuire à l'écoulement des eaux ou à la navigation. Le contrevenant sera passible d'une
+amende de 180 à 15000 F et devra, en outre démolir les ouvrages établis ou, à défaut, payer les frais de la démolition
+d'office par l'administration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
+
+	**Modifié par**:
+
+	  - Loi n°64-1245 1964-12-16 art. 32 JORF 18 décembre 1964
+	  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 décembre 1977
+	  - Loi n°85-835 du 7 août 1985 - art. 8 (VT) JORF 8 aout 1985 en vigueur le 1er octobre 1985
 
 
 ### Chapitre II : Gestion du domaine public fluvial
