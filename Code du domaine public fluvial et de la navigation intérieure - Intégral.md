@@ -1,5 +1,5 @@
 # Code du domaine public fluvial et de la navigation intérieure  
-Version Consolidée au 1964-12-18
+Version Consolidée au 1969-02-07
 
 # Livre Ier : Du domaine public fluvial
 
@@ -4867,31 +4867,6 @@ participation de l'Etat dans les entreprises intéressant la navigation fluviale
 
 
 # Livre V : De l'exploitation et de la modernisation des voies navigables
-
-## Titre Ier : Outillage
-
-###### Article 181
-
-L'installation et l'exploitation d'outillages mis à la disposition du public sur les voies de navigation intérieure et sur
-toutes autres dépendances du domaine public fluvial sont réglées par les articles 35 à 41 du code des ports maritimes.
-
-Pour l'application du présent article, l'ingénieur en chef du service de la navigation est substitué à l'ingénieur en chef du
-service maritime spécialisé.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-1033 1956-10-13
-
-	**Abrogé par**:
-
-	  - Décret n°69-140 1969-02-06 art. 1 JORF du 7 février 1969
-
-	**Cite**:
-
-	  - Code des ports maritimes 35 à 41
-
 
 ## Titre II : Voies ferrées des quais
 
