@@ -1,5 +1,5 @@
 # Code du domaine public fluvial et de la navigation intérieure  
-Version Consolidée au 2001-01-17 00:00:01 +0100
+Version Consolidée au 2002-01-01
 
 # Livre Ier : Du domaine public fluvial
 
@@ -563,8 +563,8 @@ le domaine public par application de l'article 2-1 ainsi que les propriétés ri
 chaque rive de cette dernière servitude de 3,25 mètres , dite servitude de "marchepied". Lorsqu'un cours d'eau est déjà grevé
 de la servitude prévue par le décret n° 59-96 du 7 janvier 1959, cette dernière servitude est maintenue.
 
-Tout contrevenant sera passible d'un amende de 1800 F et devra, en outre, remettre les lieux en état ou, à défaut, payer les
-frais de la remise en état d'office par l'administration.
+Tout contrevenant sera passible d'un amende de 274 euros et devra, en outre, remettre les lieux en état ou, à défaut, payer
+les frais de la remise en état d'office par l'administration.
 
 **Liens relatifs à cet article**
 
@@ -577,13 +577,6 @@ frais de la remise en état d'office par l'administration.
 	  - Décret n°59-96 1959-01-07
 	  - Code du domaine public fluvial et de la navigation - art. 2-1 (M)
 
-	**Modifié par**:
-
-	  - Loi n°64-1245 1964-12-16 art. 30, art. 31 JORF 18 décembre 1964
-	  - Décret n°80-567 du 18 juillet 1980 - art. 2 (V) JORF 23 juillet 1980
-	  - Décret n°85-956 1985-09-11 art. 2, art. 5 JORF 12 septembre 1985 en vigueur le 1er octobre 1985
-	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
-
 	**Cité par**:
 
 	  - Décret n°89-391 du 15 juin 1989 - art. 7 (V)
@@ -591,10 +584,26 @@ frais de la remise en état d'office par l'administration.
 	  - Code du domaine public fluvial et de la navigation - art. 19 (Ab)
 	  - Code rural ancien - art. 424 (M)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiques L2131-2 (al. 1 à 3)
+
 	**Anciens textes**:
 
-	  - Loi n°1898-04-08 art. 46
 	  - Loi n°1898-04-08 du 8 avril 1898 - art. 46 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article 16
@@ -826,8 +835,8 @@ l'alinéa ci-dessus ;
 
 3° De naviguer sous les arches des ponts qui seraient fermés à la navigation du fait de tels travaux.
 
-Le contrevenant sera passible d'une amende de 1000 à 80000 F. Il devra supporter les frais de réparations. Il devra, en outre
-dédommager les entrepreneurs chargés des travaux à dire d'experts nommés par les parties ou d'office.
+Le contrevenant sera passible d'une amende de 150 à 12000 euros. Il devra supporter les frais de réparations. Il devra, en
+outre dédommager les entrepreneurs chargés des travaux à dire d'experts nommés par les parties ou d'office.
 
 **Liens relatifs à cet article**
 
@@ -837,7 +846,20 @@ dédommager les entrepreneurs chargés des travaux à dire d'experts nommés par
 
 	**Modifié par**:
 
-	  - Loi n°92-3 1992-01-03 art. 28 JORF 4 janvier 1992
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiqu - art. L2132-8 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article 25
@@ -845,7 +867,7 @@ dédommager les entrepreneurs chargés des travaux à dire d'experts nommés par
 Aucun travail ne peut être exécuté, aucune prise d'eau ne peut être pratiquée sur le domaine public fluvial sans autorisation
 de l'administration.
 
-Le défaut d'autorisation sera puni d'une amende de 1000 à 80000 F.
+Le défaut d'autorisation sera puni d'une amende de 150 à 12000 euros.
 
 En cas de condamnation pour infraction aux dispositions du présent article, le tribunal fixe, s'il y a lieu, les mesures à
 prendre pour faire cesser l'infraction ou en éviter la récidive et le délai dans lequel ces mesures devront être exécutées,
@@ -870,27 +892,40 @@ cette somme lui sera restituée au fur et à mesure de l'exécution des travaux 
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code rural 463
-	  - Code du domaine public fluvial et de la navigation - art. 26 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-	**Modifié par**:
-
-	  - Loi n°87-565 du 22 juillet 1987 - art. 47 () JORF 23 juillet 1987
 
 	**Cité par**:
 
 	  - Loi n°92-3 du 3 janvier 1992 - art. 31 (Ab)
 	  - Code de l'environnement - art. L211-7 (M)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiques L2124-8 (al. 1 et 4)
+
+	**Cite**:
+
+	  - Code du domaine public fluvial et de la navigation - art. 26 (Ab)
+	  - Code rural 463
+
 	**Anciens textes**:
 
 	  - Loi n°1898-04-08 du 8 avril 1898 - art. 40 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article 26
@@ -931,7 +966,7 @@ pour la délivrance des autorisations.
 
 Il est interdit, de construire ou de laisser subsister sur les rivières et canaux domaniaux ou le long de ces voies, des
 ouvrages quelconques susceptibles de nuire à l'écoulement des eaux ou à la navigation. Le contrevenant sera passible d'une
-amende de 1000 à 80000 F et devra, en outre, démolir les ouvrages établis ou, à défaut, payer les frais de la démolition
+amende de 150 à 12000 euros et devra, en outre, démolir les ouvrages établis ou, à défaut, payer les frais de la démolition
 d'office par l'administration.
 
 **Liens relatifs à cet article**
@@ -942,7 +977,20 @@ d'office par l'administration.
 
 	**Modifié par**:
 
-	  - Loi n°92-3 1992-01-03 art. 28 JORF 4 janvier 1992
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiqu - art. L2132-6 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article 28
@@ -963,7 +1011,7 @@ quelconques, ni rien qui puisse embarrasser le lit des cours d'eau ou canaux ou 
 6. D'extraire à moins de 11,70 m de la limite desdites rivières ou des bords desdits canaux, des terres, sables et autres
 matériaux.
 
-Le contrevenant sera passible d'une amende de 1000 à 80000 F et devra, en outre, remettre les lieux en état ou, à défaut,
+Le contrevenant sera passible d'une amende 150 à 12000 euros et devra, en outre, remettre les lieux en état ou, à défaut,
 payer les frais de la remise en état d'office par l'administration.
 
 **Liens relatifs à cet article**
@@ -974,18 +1022,31 @@ payer les frais de la remise en état d'office par l'administration.
 
 	**Modifié par**:
 
-	  - Loi n°92-3 1992-01-03 art. 28 JORF 4 janvier 1992
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiqu - art. L2132-7 (V)
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*126-1, Annexe (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article 29
 
 Les riverains, les mariniers et autres personnes sont tenus de faire enlever les pierres, terres, bois, pieux, débris de
 bateaux et autres empêchements qui, de leur fait ou du fait de personnes ou de choses à leur charge, se trouveraient sur le
-domaine public fluvial. Le contrevenant sera passible d'une amende de 1000 à 80000 F, de la confiscation de l'objet
+domaine public fluvial. Le contrevenant sera passible d'une amende de 150 à 12000 euros, de la confiscation de l'objet
 constituant l'obstacle et du remboursement des frais d'enlèvement d'office par l'administration.
 
 **Liens relatifs à cet article**
@@ -996,7 +1057,20 @@ constituant l'obstacle et du remboursement des frais d'enlèvement d'office par 
 
 	**Modifié par**:
 
-	  - Loi n°92-3 1992-01-03 art. 28 JORF 4 janvier 1992
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiqu - art. L2132-9 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ### Chapitre II : Gestion du domaine public fluvial
@@ -1013,8 +1087,8 @@ Lorsque l'installation, l'ouvrage, l'activité ou les travaux doivent être réa
 départements, il est statué par un arrêté conjoint des préfets des départements intéressés.
 
 Toutefois, en cas de désaccord du maire de l'une des communes sur le territoire desquelles l'enquête a été ouverte, et si
-l'objet de l'enquête fait partie d'un projet d'infrastructure du domaine public fluvial d'un coût supérieur à 12 millions de
-francs, il est statué par décret en Conseil d'Etat.
+l'objet de l'enquête fait partie d'un projet d'infrastructure du domaine public fluvial d'un coût supérieur à 1829388,21
+euros, il est statué par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -1033,13 +1107,22 @@ francs, il est statué par décret en Conseil d'Etat.
 
 	**Modifié par**:
 
-	  - Décret n°93-742 du 29 mars 1993 - art. 46 () JORF 30 mars 1993
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 	**Anciens textes**:
 
 	  - Loi n°1898-04-08 du 8 avril 1898 - art. 41 (Ab)
 	  - Loi n°1898-04-08 du 8 avril 1898 - art. 42 (Ab)
 	  - Loi n°1898-04-08 du 8 avril 1898 - art. 43 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article 34
@@ -1415,7 +1498,7 @@ biens et des populations.
 
 Pour l'ensemble des cours d'eau énumérés, il ne pourra être fait aucune plantation nouvelle ni aucune accrue tolérée sur les
 terrains compris entre les cours d'eau et les digues et levées sur les îles, sans une autorisation préfectorale prise sur
-l'avis des ingénieurs de la navigation à peine d'une amende de 1000 à 80000 F. Les plantations faites sans autorisation
+l'avis des ingénieurs de la navigation à peine d'une amende de 12000 euros. Les plantations faites sans autorisation
 pourront, en outre, être arrachées aux frais des contrevenants à la suite d'un arrêté préfectoral pris sur l'avis des
 ingénieurs de la navigation, sans qu'il y ait besoin d'une mise en demeure préalable.
 
@@ -1427,7 +1510,20 @@ ingénieurs de la navigation, sans qu'il y ait besoin d'une mise en demeure pré
 
 	**Modifié par**:
 
-	  - Loi n°92-3 1992-01-03 art. 28 JORF 4 janvier 1992
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiqu - art. L2124-17 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article 58
@@ -1435,8 +1531,8 @@ ingénieurs de la navigation, sans qu'il y ait besoin d'une mise en demeure pré
 Toute plantation ancienne ou accrue sur les digues ou levées, les terrains compris entre les cours d'eau et les digues ou
 levées ou sur les îles, qui serait reconnue faire obstacle à l'écoulement des eaux ou resteindre d'une façon nuisible le
 champ d'inondation, devra être supprimée en tout ou en partie dans le délai de deux mois sur l'ordre des ingénieurs, à peine
-d'une amende de 1000 à 80000 F. En cas d'inexécution dans le délai prescrit, l'enlèvement en sera fait aux frais du
-contrevenant sans qu'il soit besoin d'une mise en demeure préalable.
+d'une amende de 12000 euros. En cas d'inexécution dans le délai prescrit, l'enlèvement en sera fait aux frais du contrevenant
+sans qu'il soit besoin d'une mise en demeure préalable.
 
 Il ne sera dû d'indemnité que si la plantation avait fait antérieurement l'objet d'une autorisation régulière et compte tenu
 des conditions fixées par cette autorisation.
@@ -1449,7 +1545,20 @@ des conditions fixées par cette autorisation.
 
 	**Modifié par**:
 
-	  - Loi n°92-3 1992-01-03 art. 28 JORF 4 janvier 1992
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiqu - art. L2124-17 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article 59
@@ -1467,7 +1576,7 @@ une profondeur de 0,50 mètre.
 
 Toute construction devra faire l'objet d'une autorisation préfectorale prise sur l'avis des ingénieurs de la navigation.
 
-Toute construction non autorisée donnera lieu à une amende de 1000 à 80000 F et à la démolition de la construction.
+Toute construction non autorisée donnera lieu à une amende de 12000 euros et à la démolition de la construction.
 
 **Liens relatifs à cet article**
 
@@ -1477,20 +1586,46 @@ Toute construction non autorisée donnera lieu à une amende de 1000 à 80000 F 
 
 	**Modifié par**:
 
-	  - Loi n°92-3 1992-01-03 art. 28 JORF 4 janvier 1992
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiqu - art. L2124-18 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article 60
 
 Il est interdit de laisser paître des chevaux, boeufs, vaches, chèvres, moutons, porcs et autres bestiaux sur le couronnement
 et le talus des banquettes et des digues ou levées non plus qu'entre ces digues ou levées et la rivière à peine d'une amende
-de 60 à 72 F pour chaque bête et de réparation des dommages.
+de 9 à 10 euros pour chaque bête et de réparation des dommages.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article 61
@@ -1747,18 +1882,27 @@ En cas de récidive, la condamnation sera prononcée par le tribunal correctionn
 ###### Article 72
 
 Si l'exaction est accompagnée d'injures, menaces, violences ou voies de faits, les prévenus seront traduits devant le
-tribunal correctionnel et condamnés, outre les réparations civiles et dommages-intérêts, à une amende qui pourra être de
-25000 F et un emprisonnement qui ne pourra excéder trois mois.
+tribunal correctionnel et condamnés, outre les réparations civiles et dommages-intérêts, à une amende qui pourra être de 3750
+euros et un emprisonnement qui ne pourra excéder trois mois.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°56-1033 1956-10-13
+	  - Décret n°56-1033 du 13 octobre 1956
 
 	**Modifié par**:
 
-	  - Décret n°92-1336 1992-12-16 art. 322, 329 JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article 73
@@ -1830,19 +1974,27 @@ troisième classe.
 ###### Article 76
 
 Si le refus de payer était accompagné d'injures, menaces, violences ou voies de fait, les coupables seront traduits devant le
-tribunal correctionnel et condamnés, outre les réparations civiles et dommages-intérêts, à une amende qui pourra être de
-25000 F et un emprisonnement qui ne pourra excéder trois mois.
+tribunal correctionnel et condamnés, outre les réparations civiles et dommages-intérêts, à une amende qui pourra être de 3750
+euros et un emprisonnement qui ne pourra excéder trois mois.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°56-1033 1956-10-13
+	  - Décret n°56-1033 du 13 octobre 1956
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article 77
@@ -2225,13 +2377,13 @@ a été publié au   JORF n° 73 du 27 mars 2013.
 
 ###### Article 87
 
-Est punie de trois ans d'emprisonnement et de 300000 F d'amende l'application à un bateau d'un certificat d'immatriculation
-autre que celui qui a été établi pour ce bateau.
+Est punie de trois ans d'emprisonnement et de 45 000 euros d'amende l'application à un bateau d'un certificat
+d'immatriculation autre que celui qui a été établi pour ce bateau.
 
-Sont punies d'une amende de 60000 F les infractions à l'interdiction de double immatriculation prévue à l'article 78 du
+Sont punies d'une amende de 9 000 euros les infractions à l'interdiction de double immatriculation prévue à l'article 78 du
 présent code.
 
-Sont punies d'une amende de 25000 F les infractions :
+Sont punies d'une amende de 3 750 euros les infractions :
 
 1° A l'obligation d'immatriculation prévue à l'article 78 ;
 
@@ -2248,15 +2400,28 @@ propriétaire propriétaires ;
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 154 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L4142-1 (V)
+	  - Code des transports - art. L4142-2 (V)
+	  - Code des transports - art. L4142-3 (V)
 
 	**Cite**:
 
-	  - Code du domaine public fluvial et de la navigation - art. 78 (V)
-	  - Code du domaine public fluvial et de la navigation - art. 84 (V)
-	  - Code du domaine public fluvial et de la navigation - art. 85 (V)
+	  - Code du domaine public fluvial et de la navigation intérieure - art. 78
+	  - Code du domaine public fluvial et de la navigation intérieure - art. 84
+	  - Code du domaine public fluvial et de la navigation intérieure - art. 85
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article 88
@@ -3788,8 +3953,8 @@ d'inscription hypothécaire ;
 
 ###### Article 138
 
-Est puni d'une amende de 25000 F tout propriétaire ou chef d'entreprise qui a fait naviguer un bateau à vapeur sans un permis
-de navigation délivré par l'autorité administrative dans les conditions fixées par règlement d'administration publique.
+Est puni d'une amende de 3750 euros tout propriétaire ou chef d'entreprise qui a fait naviguer un bateau à vapeur sans un
+permis de navigation délivré par l'autorité administrative dans les conditions fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -3799,34 +3964,50 @@ de navigation délivré par l'autorité administrative dans les conditions fixé
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article 139
 
 Le propriétaire ou chef d'entreprise qui a continué à faire naviguer un bateau à vapeur dont le permis a été suspendu ou
-retiré en vertu dudit règlement encourt une amende de 25000 F.
+retiré en vertu dudit règlement encourt une amende de 3 750 euros.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°56-1033 1956-10-13
+	  - Décret n°56-1033 du 13 octobre 1956
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article 140
 
-Est puni d'une amende de 25000 F tout propriétaire de bateau à vapeur ou chef d'entreprise qui fait usage d'une chaudière non
-revêtue des timbres constatant qu'elle a été soumise aux épreuves prescrites par règlement d'administration publique, ou qui,
-après avoir fait faire à une chaudière ou partie de chaudière, des changements ou réparations notables, a fait usage hors le
-cas de force majeure, de la chaudière réparée ou modifiée sans qu'elle ait été soumise à la pression d'épreuve correspondant
-au numéro du timbre dont elle est frappée.
+Est puni d'une amende de 3 750 euros tout propriétaire de bateau à vapeur ou chef d'entreprise qui fait usage d'une chaudière
+non revêtue des timbres constatant qu'elle a été soumise aux épreuves prescrites par décret en Conseil d'Etat, ou qui, après
+avoir fait faire à une chaudière ou partie de chaudière, des changements ou réparations notables, a fait usage hors le cas de
+force majeure, de la chaudière réparée ou modifiée sans qu'elle ait été soumise à la pression d'épreuve correspondant au
+numéro du timbre dont elle est frappée.
 
 **Liens relatifs à cet article**
 
@@ -3834,19 +4015,23 @@ au numéro du timbre dont elle est frappée.
 
 	  - Décret n°56-1033 1956-10-13
 
-	**Anciens textes**:
-
-	  - Loi n°1856-07-21 art. 10
-
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article 141
 
-Est puni d'une amende de 25000 F à tout propriétaire de bateau à vapeur ou chef d'entreprise qui, après avoir obtenu un
+Est puni d'une amende de 3 750 euros à tout propriétaire de bateau à vapeur ou chef d'entreprise qui, après avoir obtenu un
 permis de navigation, fait naviguer ce bateau sans se conformer aux prescriptions qui lui ont été imposées en vertu des
 règlements d'administration publique en ce qui concerne les appareils de sûreté dont les chaudières doivent être pourvues,
 l'emplacement des chaudières et machines et les séparations entre cet emplacement et les salles destinées aux passagers.
@@ -3858,30 +4043,46 @@ dispositions du local ont cessé de satisfaire à ces prescriptions.
 
 	**Codifié par**:
 
-	  - Décret n°56-1033 1956-10-13
+	  - Décret n°56-1033 du 13 octobre 1956
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article 142
 
-Est puni d'une amende de 25000 F tout propriétaire de bateau à vapeur ou chef d'entreprise qui a confié la conduite du bateau
-ou de l'appareil moteur à un capitaine ou à un mécanicien non pourvu des certificats de capacité exigés par les règlements
-d'administration publique.
+Est puni d'une amende de 3 750 euros tout propriétaire de bateau à vapeur ou chef d'entreprise qui a confié la conduite du
+bateau ou de l'appareil moteur à un capitaine ou à un mécanicien non pourvu des certificats de capacité exigés par les
+règlements d'administration publique.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°56-1033 1956-10-13
+	  - Décret n°56-1033 du 13 octobre 1956
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article 143
@@ -3923,32 +4124,40 @@ l'intérieur des chaudières, soit pour alimenter d'eau les chaudières, ont ét
 
 ###### Article 144
 
-Est puni d'une amende de 25000 F et, en outre, d'un emprisonnement de trois mois, le mécanicien ou chauffeur qui, sans ordre,
-a surchargé les soupapes, faussé ou paralysé les appareils de sûreté.
+Est puni d'une amende de 3 750 euros et, en outre, d'un emprisonnement de trois mois, le mécanicien ou chauffeur qui, sans
+ordre, a surchargé les soupapes, faussé ou paralysé les appareils de sûreté.
 
 Lorsque la surcharge des soupapes a eu lieu, hors du cas de force majeure, par ordre du capitaine ou du chef de manoeuvre qui
-le remplace, le capitaine ou le chef de manoeuvre qui a donné l'ordre est puni d'une amende de 25000 F et peut être condamné
-à un emprisonnement de deux mois.
+le remplace, le capitaine ou le chef de manoeuvre qui a donné l'ordre est puni d'une amende de 3 750 euros et peut être
+condamné à un emprisonnement de deux mois.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°56-1033 1956-10-13
+	  - Décret n°56-1033 du 13 octobre 1956
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 	**Cité par**:
 
 	  - Code du domaine public fluvial et de la navigat... - art. 148 (VT)
 
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+
 
 ###### Article 145
 
-Est puni d'une amende de 25000 F et d'un emprisonnement de trois mois, le mécanicien d'un bateau à vapeur qui aura laissé
+Est puni d'une amende de 3 750 euros et d'un emprisonnement de trois mois, le mécanicien d'un bateau à vapeur qui aura laissé
 descendre l'eau dans la chaudière au niveau des conduits de la flamme et de la fumée.
 
 **Liens relatifs à cet article**
@@ -3959,7 +4168,16 @@ descendre l'eau dans la chaudière au niveau des conduits de la flamme et de la 
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article 146
@@ -4001,7 +4219,7 @@ départ, au passage sous les ponts et à l'arrivée des bateaux, ou de prévenir
 ###### Article 147
 
 Dans le cas où, par inobservation des règlements, le capitaine d'un bateau à vapeur a heurté, endommagé ou mis en péril un
-autre bateau, il est puni d'une amende de 25000 F et peut être condamné, en outre, à un emprisonnement de trois mois.
+autre bateau, il est puni d'une amende de 3 750 euros et peut être condamné, en outre, à un emprisonnement de trois mois.
 
 **Liens relatifs à cet article**
 
@@ -4011,7 +4229,16 @@ autre bateau, il est puni d'une amende de 25000 F et peut être condamné, en ou
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article 148
@@ -4068,8 +4295,8 @@ titre.
 ###### Article 150
 
 Si les contraventions prévues aux articles précédents ont occasionné des blessures, la peine sera de six mois
-d'emprisonnement et l'amende de 25000 F, si elles ont occasionné la mort d'une ou plusieurs personnes, l'emprisonnement sera
-de cinq ans et l'amende de 25000 F.
+d'emprisonnement et l'amende de 3 750 euros, si elles ont occasionné la mort d'une ou plusieurs personnes, l'emprisonnement
+sera de cinq ans et l'amende de 3 750 euros.
 
 **Liens relatifs à cet article**
 
@@ -4079,11 +4306,20 @@ de cinq ans et l'amende de 25000 F.
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 	**Cité par**:
 
 	  - Code du domaine public fluvial et de la navigat... - art. 151 (VT)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article 151
@@ -5460,7 +5696,7 @@ contraventions en matière de grande voirie et punies des mêmes peines.
 
 ###### Article 209
 
-Est puni d'une amende de 100000 F le fait pour tout prestataire de transport public de marchandises par voie navigable,
+Est puni d'une amende de 15000 euros le fait pour tout prestataire de transport public de marchandises par voie navigable,
 auxiliaire de transport ou loueur de bateaux de marchandises avec équipage, d'offrir ou de pratiquer un prix inférieur au
 coût de la prestation qui ne permet pas de couvrir les charges entraînées par les obligations légales et réglementaires,
 notamment en matière sociale et de sécurité, ainsi que les charges de carburant et d'entretien, les amortissements ou les
@@ -5507,7 +5743,12 @@ L'action est prescrite dans un délai d'un an à compter de la date de fin d'ex�
 
 	**Modifié par**:
 
-	  - Loi n°2001-43 du 16 janvier 2001 - art. 22 () JORF 17 janvier 2001
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ### Chapitre VI : Coordination des transports
@@ -5582,7 +5823,7 @@ et retards.
 
 ###### Article 214
 
-Seront punis d'une amende de 1000 à 80000 F, les patrons, mariniers et charretiers, ainsi que toutes autres personnes
+Seront punis d'une amende de 150 à 12000 euros, les patrons, mariniers et charretiers, ainsi que toutes autres personnes
 participant à la conduite, à la traction ou au remorquage d'un bateau, qui, par des manoeuvres, des déplacements ou des
 stationnements, auront volontairement créé un obstacle à la circulation normale sur une voie de navigation intérieure.
 
@@ -5592,13 +5833,26 @@ stationnements, auront volontairement créé un obstacle à la circulation norma
 
 	  - Décret n°56-1033 1956-10-13
 
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L4273-1 (V)
+
 	**Anciens textes**:
 
 	  - Loi n°1930-07-18
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°92-3 1992-01-03 art. 28 JORF 4 janvier 1992
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article 215
