@@ -1,5 +1,5 @@
 # Code du domaine public fluvial et de la navigation intérieure  
-Version Consolidée au 1990-12-30
+Version Consolidée au 1992-01-01
 
 # Livre Ier : Du domaine public fluvial
 
@@ -187,8 +187,7 @@ Les décrets de concession sont pris après avis des ministres chargés respecti
 l'industrie et du commerce et du ministre chargé de la tutelle de l'organisme concessionnaire. Ces avis sont sollicités par
 le ministre des travaux publics, après accomplissement des formalités ci-après ;
 
-a) Consultation de l'Office national de la navigation et des services civils, départements et chambres de commerce
-intéressés ;
+a) Consultation des Voies navigables de France et des services civils, départements et chambres de commerce intéressés ;
 
 b) Si la voie considérée n'a pas cessé d'être fréquentée par la navigation ou utilisée pour le flottage depuis plus de deux
 ans, consultation des organisations professionnelles de la batellerie.
@@ -198,23 +197,22 @@ Les avis non fournis dans le délai d'un mois au titre des consultations prévue
 Dans les cours d'eau et les lacs concédés en exécution du présent article, le droit de pêche reste exercé au profit de l'Etat
 en exécution de l'article 403 du code rural.
 
+**Nota:**
+
+Conformément à l'ordonnance n° 2010-1307 du 28 octobre 2010, article 16, l'article 5 est abrogé à compter de la publication
+des dispositions réglementaires du code général de la propriété des personnes publiques en ce qu'il prévoit les modalités de
+la consultation par l'autorité administrative des établissements, des collectivités territoriales et des organisations
+professionnelles mentionnés aux a et b de cet article.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural 403
-
-	**Anciens textes**:
-
-	  - Décret n°55-805 1955-06-18 art. 2
 
 	**Codifié par**:
 
-	  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
+	  - Décret n°56-1033 du 13 octobre 1956
 
 	**Modifié par**:
 
-	  - Loi n°64-1245 1964-12-16 art. 32 JORF 18 décembre 1964
+	  - Loi n°91-1385 du 31 décembre 1991 - art. 1 (VT) JORF 1er janvier 1992
 
 	**Cité par**:
 
@@ -225,12 +223,30 @@ en exécution de l'article 403 du code rural.
 	  - Code de l'environnement - art. L211-7 (M)
 	  - Code de l'environnement - art. R435-32 (V)
 
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiqu - art. L2124-7 (V)
+	  - Code général de la propriété des personnes publ... - art. R2124-57 (V)
+
+	**Cite**:
+
+	  - Code rural 403
+
+	**Liens**:
+
+	  - SPEC_APPLI: Date de fin de vigueur indéterminée
+
 
 ###### Article 6
 
 Les décrets de radiation sont pris après consultation :
 
-a) De l'office national de la navigation et des services civils, départements et chambres de commerce intéressés ;
+a) De Voies navigables de France et des services civils, départements et chambres de commerce intéressés ;
 
 b) Des organisations professionnelles de la batellerie.
 
@@ -249,13 +265,21 @@ radiation avant le 18 juin 1955.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°55-805 1955-06-18 art. 3
-
 	**Codifié par**:
 
 	  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
+
+	**Modifié par**:
+
+	  - Loi n°91-1385 du 31 décembre 1991 - art. 1 (VT) JORF 1er janvier 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiques L2124-12 (al. 6 et 7)
 
 
 ###### Article 7
@@ -602,38 +626,6 @@ ministériel.
 
 	  - Loi n°1898-04-08 art. 47
 	  - Loi n°1898-04-08 du 8 avril 1898 - art. 47 (Ab)
-
-
-###### Article 17
-
-Dans l'intérêt de l'approvisionnement de Paris, les propriétaires des terrains proches des rivières navigables ou flottables
-du bassin de la Seine sont tenus de souffrir, moyennant indemnité, l'utilisation de leurs terres en nature de prés ou de
-labours par les marchands de bois pour y faire les amas de leurs bois, soit pour les charger en bateaux, soit pour les mettre
-en trains.
-
-Afin que les propriétaires puissent être payés par chacun des marchands de bois ceux-ci seront tenus de faire marquer leur
-bois de leur marque particulière et des disposer par piles de 2,60 m de hauteur et de 30 m de longueur en ne laissant entre
-les piles qu'une distance de 0,65 m.
-
-L'enlèvement des bois ne pourra être fait qu'après payement aux propriétaires de l'indemnité d'occupation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-	**Créé par**:
-
-	  - Décret n°56-1033 1956-10-13 art. 30, JORF 16 octobre 1956
-
-	**Abrogé par**:
-
-	  - Loi n°92-3 1992-01-03 art. 46 I JORF 4 janvier 1992
-
-	**Anciens textes**:
-
-	  - Ordonnance 1672-12-23 art. 14, art. 15
 
 
 ###### Article 18
@@ -1390,318 +1382,6 @@ Après le jugement définitif, la transaction ne peut porter que sur les peines 
 
 
 ## Titre IV : Défense contre les inondations
-
-### Chapitre II : Travaux dans les vallées submersibles
-
-###### Article 48
-
-Sont soumis aux dispositions du présent titre l'établissement ou le maintien des digues, remblais, dépôts de matières
-emcombrantes, clôtures, plantations, constructions, ou de tous autres ouvrages susceptibles de faire obstacle à l'écoulement
-des eaux ou de restreindre d'une manière nuisible le champ des inondations sur les parties submersibles des vallées des cours
-d'eau ci-après désignés :
-
-Seine, Aube, Yonne, Armançon, Marne, Ornain, Saulx, Surmelin, Grand-Morin, Oise, Aisne ;
-
-Meuse, Chiers, Sambre ;
-
-Moselle, Meurthe ;
-
-Loire, Arroux, Allier, Cher, Indre, Vienne, Maine, Loir, Sarthe, Mayenne ;
-
-Rhône, Séran, Furans, Ain, Ognon, Saône, Doubs, Isère, Romanche, Drac, Drôme, Ardèche, Cèze, Ouvèze, Durance, Gardon ;
-
-Garonne, Neste, Salat, Ariège, Tarn, Thoré, Dadou, Aveyron, Gers, Save, Baise ;
-
-Adour ;
-
-Tech ;
-
-Têt ;
-
-Aude, Argent-Double ;
-
-Orb ;
-
-Hérault ;
-
-Var ;
-
-Le Fresquel, en aval du pont du C.D. n° 4 à Bram ;
-
-L'Orbiel, en aval du pont du Moulin-de-vie, à Conques ;
-
-La Cesse, en aval du pont du canal du Midi ;
-
-L'Orbieu, en aval de Fabrezan ;
-
-Le Lot, en aval de Castelmoron ;
-
-L'Yèvre, dans la section comprise entre Bourges inclus et le confluent avec le Cher.
-
-L'Auron, affluent de l'Yèvre, dans la partie de sa vallée correspondant au cours de la rivière, dans la ville de Bourges,
-entre le quartier de Lazenay à l'amont et les abattoirs à l'aval.
-
-La Moselotte, affluent de la Moselle.
-
-Le Virdoule (départements du Gard et de l'Hérault).
-
-La Creuse dans les départements de la Creuse (à partir, à l'amont, du pont donnant passage au chemin départemental 23 sur la
-commune de Saint-Quentin), de l'Indre, d'Indre-et-Loire et de la Vienne, et de la vallée de la rivière la Beauze, affluent de
-la Creuse, dans la section située à l'aval du barrage alimentant en eau la ville d'Aubusson.
-
-Des décrets rendus en Conseil d'Etat pris après enquête pourront apporter à la liste ci-dessus des additions ou modifications
-que l'expérience ferait apparaître comme désirables.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-	**Modifié par**:
-
-	  - Décret n°60-357 1960-04-09 art. 1 JORF 14 avril 1960
-
-	**Anciens textes**:
-
-	  - Décret-loi 1935-10-30 art. 1
-
-	**Cité par**:
-
-	  - Loi n°82-600 du 13 juillet 1982 - art. 5-1 (Ab)
-	  - Code de l'environnement - art. L562-6 (V)
-	  - Code du domaine public fluvial et de la navigation - art. 50 (Ab)
-	  - Code du domaine public fluvial et de la navigation - art. 51 (Ab)
-	  - Code du domaine public fluvial et de la navigation - art. 52 (Ab)
-
-	**Abrogé par**:
-
-	  - Loi n°92-3 1992-01-03 art. 46 I JORF 4 janvier 1992
-	  - Loi n°95-101 du 2 février 1995 - art. 20 () JORF 3 février 1995
-
-
-###### Article 49
-
-Les surfaces considérées comme submersibles, au sens du présent chapitre, sont indiquées sur des plans tenus à la disposition
-des intéressés.
-
-Pour les vallées protégées par des digues ou levées de toute nature, les plans ne tiennent pas nécessairement compte de
-l'existence de ces ouvrages.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-	**Modifié par**:
-
-	  - Décret n°60-357 1960-04-09 art. 1 JORF 14 avril 1960
-
-	**Anciens textes**:
-
-	  - Décret-loi 1935-10-30 art. 2
-
-	**Cité par**:
-
-	  - Loi n°82-600 du 13 juillet 1982 - art. 5-1 (Ab)
-
-	**Abrogé par**:
-
-	  - Loi n°92-3 1992-01-03 art. 46 I JORF 4 janvier 1992
-	  - Loi n°95-101 du 2 février 1995 - art. 20 () JORF 3 février 1995
-
-
-###### Article 50
-
-Aucun ouvrage, aucune plantation ou obstacle visé à l'article 48 ne pourra être établi sur les parties submersibles des
-vallées sans qu'une déclaration ait été préalablement faite à l'administration par lettre recommandée, avec accusé de
-réception.
-
-L'administration aura, pendant un délai qui commencera à courir à dater de l'accusé de réception susvisé, la faculté
-d'interdire l'exécution des travaux ou d'ordonner les modifications nécessaires pour assurer le libre écoulement des eaux ou
-la conservation des champs d'inondation.
-
-Les travaux ne devront pas être commencés avant l'expiration de ce délai.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-	**Modifié par**:
-
-	  - Décret n°60-357 1960-04-09 art. 1 JORF 14 avril 1960
-
-	**Cité par**:
-
-	  - Loi n°82-600 du 13 juillet 1982 - art. 5-1 (Ab)
-	  - Décret n°92-218 du 4 mars 1992 - art. 3 (V)
-	  - Décret n°94-608 du 13 juillet 1994 - art. 3 (V)
-	  - Décret n°94-608 du 13 juillet 1994 - art. 4 (V)
-	  - Code de l'urbanisme - art. R*442-6-4 (Ab)
-	  - Code du domaine public fluvial et de la navigation - art. 52 (Ab)
-
-	**Abrogé par**:
-
-	  - Loi n°92-3 1992-01-03 art. 46 I JORF 4 janvier 1992
-	  - Loi n°95-101 du 2 février 1995 - art. 20 () JORF 3 février 1995
-
-	**Cite**:
-
-	  - Code du domaine public fluvial et de la navigation - art. 48 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret-loi 1935-10-30 art. 3
-
-
-###### Article 51
-
-Les digues, remblais, dépôts de matières encombrantes, clôtures, plantations, constructions ou autres ouvrages établis
-antérieurement au 18 avril 1975 sur les parties submersibles des vallées désignées à l'article 48 ci-dessus et qui seront
-reconnus faire obstacle à l'écoulement des eaux ou restreindre d'une manière nuisible le champ des inondations, pourront être
-modifiés ou supprimés, sauf le payement, s'il y a lieu, d'indemnités de dommage.
-
-Il en sera de même pour les ouvrages régulièrement établis sous l'empire du présent titre dans le cas où pour les motifs ci-
-dessus visés leur modification ou leur suppression viendrait à être reconnue nécessaire.
-
-La modification ou la suppression seront prononcées par décrets rendus en Conseil d'Etat, après enquête.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-	**Anciens textes**:
-
-	  - Décret-loi 1935-10-30 art. 4
-
-	**Modifié par**:
-
-	  - Ordonnance 58-997 1958-10-23 art. 56 JORF 24 octobre 1958
-
-	**Cité par**:
-
-	  - Loi n°82-600 du 13 juillet 1982 - art. 5-1 (Ab)
-	  - Code du domaine public fluvial et de la navigat... - art. 209 (VT)
-
-	**Abrogé par**:
-
-	  - Loi n°92-3 1992-01-03 art. 46 I JORF 4 janvier 1992
-	  - Loi n°95-101 du 2 février 1995 - art. 20 () JORF 3 février 1995
-
-	**Cite**:
-
-	  - Code du domaine public fluvial et de la navigation - art. 48 (Ab)
-
-
-###### Article 52
-
-Un règlement d'administration publique déterminera toutes les mesures administratives d'ordre général à prendre, notamment :
-
-- les mesures relatives à l'établissement et à la mise à la disposition du public des plans définissant les parties
-submersibles des vallées ;
-
-- les formes de la déclaration prévue à l'article 50 et le délai imparti à l'administration pour notifier, s'il y a lieu, son
-opposition ;
-
-- les formes des enquêtes prescrites aux articles 48 et 53.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-	**Cite**:
-
-	  - Code du domaine public fluvial et de la navigation - art. 48 (Ab)
-	  - Code du domaine public fluvial et de la navigation - art. 50 (Ab)
-	  - Code du domaine public fluvial et de la navigation - art. 53 (Ab)
-
-	**Cité par**:
-
-	  - Code du domaine public fluvial et de la navigation - art. 54 (Ab)
-	  - Loi n°82-600 du 13 juillet 1982 - art. 5-1 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret-loi 1935-10-30 art. 5
-
-	**Abrogé par**:
-
-	  - Loi n°92-3 1992-01-03 art. 46 I JORF 4 janvier 1992
-	  - Loi n°95-101 du 2 février 1995 - art. 20 () JORF 3 février 1995
-
-
-###### Article 53
-
-Des décrets rendus en Conseil d'Etat, pris après enquête, détermineront les dispositions techniques applicables dans chaque
-vallée.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-	**Créé par**:
-
-	  - Décret n°56-1033 1956-10-13 art. 1 JORF 16 octobre 1956
-
-	**Cité par**:
-
-	  - Loi n°82-600 du 13 juillet 1982 - art. 5-1 (Ab)
-	  - Code du domaine public fluvial et de la navigation - art. 52 (Ab)
-
-	**Abrogé par**:
-
-	  - Loi n°92-3 1992-01-03 art. 46 I JORF 4 janvier 1992
-	  - Loi n°95-101 du 2 février 1995 - art. 20 () JORF 3 février 1995
-
-	**Anciens textes**:
-
-	  - Décret-loi 1935-10-30 art. 6
-
-
-###### Article 54
-
-Les infractions aux dispositions ci-dessus et aux décrets prévus à l'article 52 seront poursuivies comme contraventions de
-grande voirie et punies d'une amende de 3000 à 6000 F, sans préjudice, s'il y a lieu, de la démolition des ouvrages indûment
-établis et de la réparation des dommages causés au domaine public ou à ses dépendances.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
-
-	**Modifié par**:
-
-	  - Décret n°60-357 1960-04-09 art. 1 JORF 14 avril 1960
-	  - Décret n°85-956 1985-09-11 art. 2 5 JORF 12 septembre 1985 en vigueur le 1er octobre 1985
-	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1990 en vigueur le 1er janvier 1990
-
-	**Cité par**:
-
-	  - Loi n°82-600 du 13 juillet 1982 - art. 5-1 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret-loi 1935-10-13 art. 7
-
-	**Abrogé par**:
-
-	  - Loi n°92-3 1992-01-03 art. 46 I JORF 4 janvier 1992
-	  - Loi n°95-101 du 2 février 1995 - art. 20 () JORF 3 février 1995
-
-	**Cite**:
-
-	  - Code du domaine public fluvial et de la navigation - art. 52 (Ab)
-
 
 ### Chapitre III : Dispositions spéciales à la Loire et à ses affluents
 
@@ -4532,7 +4212,7 @@ dommages de guerre.
 
 ###### Article 156
 
-L'office national de la navigation est autorisé à emprunter, en vue de mettre à la disposition de la société prévue à
+Les Voies navigables de France sont autorisées à emprunter, en vue de mettre à la disposition de la société prévue à
 l'article précédent, les fonds nécessaires au financement des dépenses de reconstruction non couvertes par la participation
 financière de l'Etat, ainsi qu'au financement des dépenses de renouvellement du parc fluvial. Ces emprunts bénéficieront de
 la garantie de l'Etat.
@@ -4541,7 +4221,7 @@ Les prêts consentis à ses membres par la société seront amortissables en tre
 dépenses de reconstruction laissées à la charge des sinistrés seront assortis d'un taux d'intérêt maximum de 3 % pour les
 patrons bateliers au sens de l'article 159 du présent code, et de 4,50 % pour les autres membres. Ces taux maxima seront
 portés respectivement à 4 et 5 % en ce qui concerne les dépenses de renouvellement de la flotte fluviale. La différence entre
-ces taux et le taux effectif, frais et charges compris, des emprunts contractés par l'office national de la navigation fera
+ces taux et le taux effectif, frais et charges compris, des emprunts contractés par les Voies navigables de France feront
 l'objet d'une bonification de l'Etat.
 
 **Liens relatifs à cet article**
@@ -4550,13 +4230,17 @@ l'objet d'une bonification de l'Etat.
 
 	  - Décret n°56-1033 1956-10-13
 
+	**Modifié par**:
+
+	  - Loi n°91-1385 du 31 décembre 1991 - art. 1 (VT) JORF 1er janvier 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
 	**Cité par**:
 
 	  - Code du domaine public fluvial et de la navigat... - art. 158 (VT)
-
-	**Anciens textes**:
-
-	  - Loi n°1946-04-27 art. 59
 
 
 ###### Article 157
@@ -4643,7 +4327,7 @@ susvisée ou par les membres de sa famille.
 ###### Article 160
 
 Il est tenu, dans chaque bureau d'immatriculation français des bateaux de navigation intérieure, un répertoire des patrons
-bateliers. Les renseignements qui y sont contenus sont centralisés par l'office national de la navigation.
+bateliers. Les renseignements qui y sont contenus sont centralisés par les Voies navigables de France.
 
 Tout patron batelier doit être inscrit dans le répertoire des patrons bateliers du lieu d'immatriculation de son bateau. Si
 le patron batelier possède deux bateaux, ceux-ci doivent être obligatoirement immatriculés au même lieu. Toutefois, en ce qui
@@ -4668,6 +4352,18 @@ Toute personne intéressée peut prendre connaissance des indications figurant s
 	**Codifié par**:
 
 	  - Décret n°56-1033 1956-10-13
+
+	**Modifié par**:
+
+	  - Loi n°91-1385 du 31 décembre 1991 - art. 1 (VT) JORF 1er janvier 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L4432-6 (V)
 
 	**Cité par**:
 
@@ -4988,25 +4684,35 @@ sont, dans les mêmes conditions, fixés au bureau d'immatriculation de Paris.
 Toutefois, il est délivré à ce compagnon batelier une carte de compagnon batelier, distincte de celle spécifiée à l'article
 170 ci-dessus, mais constituant pour l'intéressé, spécialement aux effets de l'article 172 ci-après, la carte d'identité
 prévue à l'article 160 du présent livre. Cette carte est délivrée, suivant le cas, soit par l'autorité chargée de la tenue du
-répertoire prévu à l'article 160, et dans le ressort de laquelle se trouve domicilié l'employeur concerné, soit par l'office
-national de la navigation.
+répertoire prévu à l'article 160, et dans le ressort de laquelle se trouve domicilié l'employeur concerné, soit par les Voies
+navigables de France.
+
+**Nota:**
+
+Conformément à l'article 9 de l'ordonnance n° 2010-1307 du 28 octobre 2010, à l'article 171 abrogé par l'article 7 de ladite
+ordonnance les deux premiers alinéas sont maintenus en vigueur jusqu'à la publication des dispositions réglementaires du code
+des transports.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°56-1033 1956-10-13
+	  - Décret n°56-1033 du 13 octobre 1956
+
+	**Modifié par**:
+
+	  - Loi n°91-1385 du 31 décembre 1991 - art. 1 (VT) JORF 1er janvier 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 	**Cite**:
 
-	  - Code civil - art. 102 (V)
-	  - Code du domaine public fluvial et de la navigation - art. 160 (M)
-	  - Code du domaine public fluvial et de la navigation - art. 170 (V)
-	  - Code du domaine public fluvial et de la navigation - art. 172 (V)
-
-	**Anciens textes**:
-
-	  - Décret-Loi 1938-11-12 art. 13
+	  - Code civil - art. 102
+	  - Code du domaine public fluvial et de la navigation intérieure - art. 160
+	  - Code du domaine public fluvial et de la navigation intérieure - art. 170
+	  - Code du domaine public fluvial et de la navigation intérieure - art. 172
 
 
 ###### Article 172
@@ -5107,20 +4813,33 @@ conditions d'application du présent livre.
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
-# Livre IV : Office national de la navigation
+# Livre IV : Voies navigables de France
 
 ###### Article 176
 
-L'office national de la navigation est un établissement public à caractère industriel et commercial doté de la personnalité
-civile et de l'autonomie financière. Il fonctionne sous l'autorité du ministre de l'équipement et du logement. Il est chargé,
-dans les conditions définies par les articles 177 à 180 ci-après, de l'étude de tous problèmes administratifs, ainsi que de
-toutes questions d'exploitation concernant l'utilisation des voies navigables.
+Voies navigables de France est un établissement public à caractère industriel et commercial doté de la personnalité civile et
+de l'autonomie financière. Il fonctionne sous l'autorité du ministre de l'équipement et du logement. Il est chargé, dans les
+conditions définies par les articles 177 à 180 ci-après, de l'étude de tous problèmes administratifs, ainsi que de toutes
+questions d'exploitation concernant l'utilisation des voies navigables.
+
+**Nota:**
+
+Conformément à l'article 9 de l'ordonnance n° 2010-1307 du 28 octobre 2010, l'article 176 abrogé par l'article 7 de ladite
+ordonnance  est maintenu en vigueur jusqu'à la publication des dispositions réglementaires du code des transports.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°56-1033 1956-10-13
+	  - Décret n°56-1033 du 13 octobre 1956
+
+	**Modifié par**:
+
+	  - Loi n°91-1385 du 31 décembre 1991 - art. 1 (VT) JORF 1er janvier 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 	**Cité par**:
 
@@ -5129,12 +4848,12 @@ toutes questions d'exploitation concernant l'utilisation des voies navigables.
 
 	**Cite**:
 
-	  - Code du domaine public fluvial et de la navigation intérieure 177 à 180
+	  - Code du domaine public fluvial et de la navigation intérieure
 
 
 ###### Article 177
 
-L'office national de la navigation est chargé des missions suivantes :
+Voies navigables de France est chargé des missions suivantes :
 
 1° Il élabore et propose au ministre de l'équipement et du logement toute réglementation concernant l'exploitation des voies
 navigables, les activités ou professions qui s'y rattachent, ainsi que tous règlements de police de la navigation.
@@ -5163,9 +4882,9 @@ Il organise et gère les bureaux d'affrètement.
 
 Il met en oeuvre la législation relative au régime d'assurance d'Etat pour les corps de bateaux de navigation intérieure.
 
-Il a autorisé pour organiser, prescrire et contrôler les mouvements de bateaux nécessités par les programmes de transports
+Il a autorité pour organiser, prescrire et contrôler les mouvements de bateaux nécessités par les programmes de transports
 dont l'exécution lui est confiée. Il propose, le cas échéant, au ministre de l'équipement et du logement des réquisitions
-prévues par la législation en vigueur.
+prévues par la législation en vigueur;
 
 4° Il centralise tous les renseignements et les statistiques intéressant l'exploitation technique et commerciale des voies
 navigables et en assure, s'il y a lieu, la publication ;
@@ -5173,19 +4892,37 @@ navigables et en assure, s'il y a lieu, la publication ;
 5° Il perçoit, pour le compte de qui il appartient, les taxes instituées par la législation sur l'affrètement, la
 coordination des transports, et les péages qui viendraient à être établis pour l'usage de certaines voies navigables.
 
+**Nota:**
+
+Conformément à l'article 9 de l'ordonnance n° 2010-1307 du 28 octobre 2010, l'article 177 abrogé par l'article 7 de ladite
+ordonnance  est maintenu en vigueur jusqu'à la publication des dispositions réglementaires du code des transports.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°56-1033 1956-10-13
+
+	**Modifié par**:
+
+	  - Loi n°91-1385 du 31 décembre 1991 - art. 1 (VT) JORF 1er janvier 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
 ###### Article 178
 
-L'office national de la navigation peut organiser, en se conformant à la législation en vigueur, toutes installations propres
-à favoriser le développement de la navigation intérieure, solliciter toutes concessions, assurer toute exploitation, soit
+Voies navigables de France peut organiser, en se conformant à la législation en vigueur, toutes installations propres à
+favoriser le développement de la navigation intérieure, solliciter toutes concessions, assurer toute exploitation, soit
 directement, soit par société filiale, soit par voie d'affermage, exploiter le matériel acquis par lui ou qui lui a été remis
 en gérance.
+
+**Nota:**
+
+Conformément à l'article 9 de l'ordonnance n° 2010-1307 du 28 octobre 2010, l'article 178 abrogé par l'article 7 de ladite
+ordonnance est maintenu en vigueur jusqu'à la publication des dispositions réglementaires du code des transports.
 
 **Liens relatifs à cet article**
 
@@ -5193,39 +4930,57 @@ en gérance.
 
 	  - Décret n°56-1033 1956-10-13
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°1940-11-11 art. 3
+	  - Loi n°91-1385 du 31 décembre 1991 - art. 1 (VT) JORF 1er janvier 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
 ###### Article 179
 
-Dans tous les cas où l'office national de la navigation est chargé d'une exploitation concernant la navigation fluviale,
-cette exploitation peut être assurée soit en régie directe, soit par une société à laquelle l'office apporte son droit à
+Dans tous les cas où Voies navigables de France est chargé d'une exploitation concernant la navigation fluviale, cette
+exploitation peut être assurée soit en régie directe, soit par une société à laquelle l'établissement apporte son droit à
 l'exploitation et, éventuellement, du matériel et des capitaux.
 
-Dans cette société, les administrateurs représentant l'office seront en nombre proportionnel à la part de l'office dans
-l'ensemble du capital. Ils seront, sur la proposition du directeur de l'office, désignés par le ministre de l'économie et des
-finances et par le ministre de l'équipement et du logement. Lorsque la participation de l'office dans une entreprise dépasse
-50 % du capital, le président est également nommé suivant cette procédure ; les administrateurs représentant l'office doivent
-être alors en majorité.
+Dans cette société, les administrateurs représentant l'établissement seront en nombre proportionnel à la part de
+l'établissement dans l'ensemble du capital. Ils seront, sur la proposition du directeur de l'établissement, désignés par le
+ministre de l'économie et des finances et par le ministre de l'équipement et du logement. Lorsque la participation de
+l'établissement dans une entreprise dépasse 50 % du capital, le président est également nommé suivant cette procédure ; les
+administrateurs représentant l'établissement doivent être alors en majorité.
+
+**Nota:**
+
+Conformément à l'article 9 de l'ordonnance n° 2010-1307 du 28 octobre 2010, l'article 179 abrogé par l'article 7 de ladite
+ordonnance  est maintenu en vigueur jusqu'à la publication des dispositions réglementaires du code des transports.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°56-1033 1956-10-13
+	  - Décret n°56-1033 du 13 octobre 1956
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°1940-11-11 art. 22
+	  - Loi n°91-1385 du 31 décembre 1991 - art. 1 (VT) JORF 1er janvier 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
 ###### Article 180
 
-L'office national de la navigation a vocation légale pour la gestion de la flotte fluviale et du matériel intéressant la
-navigation intérieure, dont l'Etat est ou deviendrait propriétaire. Il a de même vocation légale pour gérer toute
-participation de l'Etat dans les entreprises intéressant la navigation fluviale.
+Voies navigables de France a vocation légale pour la gestion de la flotte fluviale et du matériel intéressant la navigation
+intérieure, dont l'Etat est ou deviendrait propriétaire. Il a de même vocation légale pour gérer toute participation de
+l'Etat dans les entreprises intéressant la navigation fluviale.
+
+**Nota:**
+
+Conformément à l'article 9 de l'ordonnance n° 2010-1307 du 28 octobre 2010, l'article 180 abrogé par l'article 7 de ladite
+ordonnance est maintenu en vigueur jusqu'à la publication des dispositions réglementaires du code des transports.
 
 **Liens relatifs à cet article**
 
@@ -5233,9 +4988,13 @@ participation de l'Etat dans les entreprises intéressant la navigation fluviale
 
 	  - Décret n°56-1033 1956-10-13
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°1940-11-11 art. 23
+	  - Loi n°91-1385 du 31 décembre 1991 - art. 1 (VT) JORF 1er janvier 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
 # Livre V : De l'exploitation et de la modernisation des voies navigables
@@ -6240,9 +5999,9 @@ matières dangereuses sur les voies de navigation intérieure et dans les ports 
 
 ###### Article 217
 
-En vue d'augmenter les dotations que l'Etat consacre à l'amélioration et à la modernisation des voies navigables, l'office
-national de la navigation est autorisé à percevoir des taxes sur l'ensemble du réseau de navigation intérieure ou sur
-certaines voies ou sections de voies faisant partie de ce réseau.
+En vue d'augmenter les dotations que l'Etat consacre à l'amélioration et à la modernisation des voies navigables, Voies
+navigables de France est autorisé à percevoir des taxes sur l'ensemble du réseau de navigation intérieure ou sur certaines
+voies ou sections de voies faisant partie de ce réseau.
 
 **Liens relatifs à cet article**
 
@@ -6250,16 +6009,20 @@ certaines voies ou sections de voies faisant partie de ce réseau.
 
 	  - Décret n°56-1033 1956-10-13
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°53-301 1953-04-08 art. 1
+	  - Loi n°91-1385 du 31 décembre 1991 - art. 1 (VT) JORF 1er janvier 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
 ###### Article 218
 
 Les recettes provenant des taxes sont affectées, après déduction des frais relatifs à leur perception :
 
-Soit au service d'emprunts contractés par l'office national de la navigation ;
+Soit au service d'emprunts contractés par Voies navigables de France ;
 
 Soit au service des allocations fournies par le même établissement,
 
@@ -6268,13 +6031,17 @@ intérieure.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°53-301 1953-04-09 art. 2
-
 	**Codifié par**:
 
 	  - Décret n°56-1033 1956-10-13
+
+	**Modifié par**:
+
+	  - Loi n°91-1385 du 31 décembre 1991 - art. 1 (VT) JORF 1er janvier 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
 ###### Article 219
@@ -6325,7 +6092,7 @@ finances.
 L'arrêté mentionne la nature des travaux d'amélioration auxquels les taxes sont affectées dans le cadre des programmes
 généraux de modernisation et d'équipement.
 
-L'institution des taxes est précédée d'une enquête comportant la consultation de l'office national de la navigation.
+L'institution des taxes est précédée d'une enquête comportant la consultation des Voies navigables de France.
 
 Les arrêtés peuvent être notifiés suivant la même procédure, notamment en ce qui concerne le taux des taxes et la consistance
 des travaux auxquels ces taxes s'appliquent. Les taxes sont supprimées lorsque les charges financières auxquelles elles
@@ -6333,13 +6100,17 @@ permettent de faire face sont entièrement réglées.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°53-301 1953-04-09 art. 4
-
 	**Codifié par**:
 
 	  - Décret n°56-1033 1956-10-13
+
+	**Modifié par**:
+
+	  - Loi n°91-1385 du 31 décembre 1991 - art. 1 (VT) JORF 1er janvier 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 	**Cité par**:
 
@@ -6348,9 +6119,9 @@ permettent de faire face sont entièrement réglées.
 
 ###### Article 221
 
-Les taxes sont payables par le transporteur. Elles sont perçues par les agents de l'office national de la navigation ou,
-éventuellement par les agents de l'Etat affectés au service de la voie navigable, agissant pour le compte de l'office
-national de la navigation, aux lieux et conditions prévus par l'arrêté d'institution.
+Les taxes sont payables par le transporteur. Elles sont perçues par les agents de Voies navigables de France ou,
+éventuellement, par les agents de l'Etat affectés au service de la voie navigable, agissant pour le compte de Voies
+navigables de France, aux lieux et conditions prévus par l'arrêté d'institution.
 
 **Liens relatifs à cet article**
 
@@ -6361,6 +6132,14 @@ national de la navigation, aux lieux et conditions prévus par l'arrêté d'inst
 	**Codifié par**:
 
 	  - Décret n°56-1033 1956-10-13
+
+	**Modifié par**:
+
+	  - Loi n°91-1385 du 31 décembre 1991 - art. 1 (VT) JORF 1er janvier 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
 ###### Article 222
@@ -6384,62 +6163,69 @@ Le non-paiement des taxes entraîne l'interdiction de circulation du bateau auqu
 
 ###### Article 224
 
-L'office national de la navigation est habilité à accepter les contributions volontaires effectuées par des établissements ou
+Voies navigables de France est habilité à accepter les contributions volontaires effectuées par des établissements ou
 collectivités publics et organismes privés ou des particuliers, à titre de participation volontaire aux travaux
 d'amélioration et de modernisation des voies navigables.
 
-Ces contributions volontaires sont affectées par l'office national de la navigation aux opérations prévues par le présent
-titre dans les mêmes conditions que les taxes.
+Ces contributions volontaires sont affectées par Voies navigables de France aux opérations prévues par le présent titre dans
+les mêmes conditions que les taxes.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°53-301 1953-04-09 art. 8
-
 	**Codifié par**:
 
-	  - Décret n°56-1033 1956-10-13
+	  - Décret n°56-1033 du 13 octobre 1956
+
+	**Modifié par**:
+
+	  - Loi n°91-1385 du 31 décembre 1991 - art. 1 (VT) JORF 1er janvier 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
 ###### Article 225
 
 La liste des travaux d'amélioration et de modernisation financés en tout ou partie dans les conditions prévues par le présent
 titre est arrêtée chaque année par le ministre de l'équipement et du logement, sur proposition du conseil d'administration de
-l'office national de la navigation.
+Voies navigables de France.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°53-301 1953-04-09 art. 9
-
 	**Codifié par**:
 
-	  - Décret n°56-1033 1956-10-13
+	  - Décret n°56-1033 du 13 octobre 1956
 
 	**Modifié par**:
 
-	  - Décret n°74-266 1974-03-26 art. 1 JORF 02 avril 1974
+	  - Loi n°91-1385 du 31 décembre 1991 - art. 1 (VT) JORF 1er janvier 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
 ###### Article 226
 
-Les emprunts de l'office national de la navigation, gagés sur les taxes et versements prévus par le présent titre, sont
-autorisés par décrets pris sur le rapport du ministre de l'équipement et du logement et du ministre de l'économie et des
-finances.
+Les emprunts de Voies navigables de France, gagés sur les taxes et versements prévus par le présent titre, sont autorisés par
+décrets pris sur le rapport du ministre de l'équipement et du logement et du ministre de l'économie et des finances.
 
 Ces emprunts bénéficient de la garantie de l'Etat.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°53-301 1953-04-09 art. 10
-
 	**Codifié par**:
 
-	  - Décret n°56-1033 1956-10-13
+	  - Décret n°56-1033 du 13 octobre 1956
+
+	**Modifié par**:
+
+	  - Loi n°91-1385 du 31 décembre 1991 - art. 1 (VT) JORF 1er janvier 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
 # Livre VI : Dispositions particulières
