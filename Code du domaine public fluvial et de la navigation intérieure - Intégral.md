@@ -1,5 +1,5 @@
 # Code du domaine public fluvial et de la navigation intérieure  
-Version Consolidée au 1996-10-02
+Version Consolidée au 2001-01-17
 
 # Livre Ier : Du domaine public fluvial
 
@@ -5095,17 +5095,54 @@ des ports maritimes.
 
 ###### Article 189
 
-Pour l'application du présent chapitre, est considérée comme effectuant un transport privé, toute personne physique ou morale
-transportant, avec des bateaux dont elle est propriétaire, des marchandises lui appartenant ou faisant l'objet de son
-commerce, de son industrie ou de son exploitation.
+Dans le domaine des transports nationaux et internationaux de marchandises par voie navigable, les contrats sont librement
+conclus entre les parties concernées et les prix librement négociés.
 
-Ces transports ne doivent constituer qu'une activité accessoire et complémentaire de l'activité principale exercée par la
-personne physique ou morale visée à l'alinéa précédent.
+**Liens relatifs à cet article**
 
-Tous les autres transports sont des transports publics.
+	**Codifié par**:
 
-Les bateaux utilisés aux transports privés ne peuvent pas participer aux transports publics, sauf dérogations accordées par
-le directeur de l'office national de la navigation.
+	  - Décret n°56-1033 du 13 octobre 1956
+
+	**Modifié par**:
+
+	  - Loi n°2001-43 du 16 janvier 2001 - art. 21 () JORF 17 janvier 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+
+###### Article 189-1
+
+Les chargeurs et les transporteurs ont le libre choix entre trois types de contrats : des contrats à temps, des contrats au
+tonnage, des contrats de voyages simple ou multiples.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-1033 du 13 octobre 1956
+
+	**Créé par**:
+
+	  - Loi n°2001-43 du 16 janvier 2001 - art. 21 () JORF 17 janvier 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L4451-1 (V)
+	  - Code des transports - art. L4451-2 (V)
+
+
+###### Article 189-2
+
+Le contrat à temps est celui par lequel le transporteur met un ou plusieurs bateaux et leur équipage à la disposition
+exclusive d'un donneur d'ordre pour une durée déterminée afin de transporter les marchandises que lui confie ce dernier
+contre le paiement d'une somme d'argent déterminée à la journée.
 
 **Liens relatifs à cet article**
 
@@ -5113,13 +5150,202 @@ le directeur de l'office national de la navigation.
 
 	  - Décret n°56-1033 1956-10-13
 
-	**Anciens textes**:
+	**Créé par**:
 
-	  - Loi n°1941-03-22 art. 6
+	  - Loi n°2001-43 du 16 janvier 2001 - art. 21 () JORF 17 janvier 2001
 
-	**Modifié par**:
+	**Abrogé par**:
 
-	  - Loi n°71-422 1971-06-10 art. 1 I, II JORF 11 juin 1971
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+
+###### Article 189-3
+
+Le contrat au tonnage est celui par lequel le transporteur s'engage à transporter pendant une période fixée par le contrat un
+tonnage déterminé contre le paiement d'un fret à la tonne.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-1033 1956-10-13
+
+	**Créé par**:
+
+	  - Loi n°2001-43 du 16 janvier 2001 - art. 21 () JORF 17 janvier 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+
+###### Article 189-4
+
+Le contrat de voyage simple est celui par lequel le transporteur s'engage à faire un voyage déterminé. Le contrat de voyages
+multiples porte sur une série de voyages successifs par un même bateau.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-1033 1956-10-13
+
+	**Créé par**:
+
+	  - Loi n°2001-43 du 16 janvier 2001 - art. 21 () JORF 17 janvier 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+
+###### Article 189-5
+
+Le transporteur peut, sous sa responsabilité, sous-traiter le contrat, en tout ou partie, à un transporteur public de
+marchandises par voie navigable.
+
+Le contrat de sous-traitance est soumis à l'ensemble des règles applicables au transport public de marchandises.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-1033 du 13 octobre 1956
+
+	**Créé par**:
+
+	  - Loi n°2001-43 du 16 janvier 2001 - art. 21 () JORF 17 janvier 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L4452-1 (V)
+
+
+###### Article 189-6
+
+Tout contrat de transport public de marchandises par voie navigable doit comporter des clauses précisant la nature et l'objet
+du transport, les modalités d'exécution du service en ce qui concerne le transport proprement dit et les conditions
+d'enlèvement et de livraison des objets transportés, les obligations respectives de l'expéditeur, du transporteur et du
+destinataire et le prix du transport ainsi que celui des prestations accessoires prévues.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-1033 1956-10-13
+
+	**Créé par**:
+
+	  - Loi n°2001-43 du 16 janvier 2001 - art. 21 () JORF 17 janvier 2001
+
+	**Cité par**:
+
+	  - Code du domaine public fluvial et de la navigat... - art. 189-8 (VT)
+
+
+###### Article 189-7
+
+Tout contrat de location d'un bateau de marchandises avec équipage doit comporter des clauses précisant les obligations
+respectives des parties dans les conditions d'emploi de l'équipage et dans l'exécution des opérations de transport.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-1033 du 13 octobre 1956
+
+	**Créé par**:
+
+	  - Loi n°2001-43 du 16 janvier 2001 - art. 21 () JORF 17 janvier 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L4454-1 (V)
+
+	**Cité par**:
+
+	  - Code du domaine public fluvial et de la navigat... - art. 189-8 (VT)
+
+
+###### Article 189-8
+
+Des contrats types sont établis par décret après avis des organismes professionnels concernés et du Conseil national des
+transports.
+
+A défaut de convention écrite définissant les rapports entre les parties au contrat sur les matières mentionnées à l'article
+189-6 et à l'article 189-7, les clauses des contrats types s'appliquent de plein droit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-1033 1956-10-13
+
+	**Créé par**:
+
+	  - Loi n°2001-43 du 16 janvier 2001 - art. 21 () JORF 17 janvier 2001
+
+	**Cite**:
+
+	  - Code du domaine public fluvial et de la navigation - art. 189-6 (M)
+	  - Code du domaine public fluvial et de la navigation - art. 189-7 (V)
+
+
+###### Article 189-9
+
+Toute entreprise, établie en France et utilisant des bateaux de navigation intérieure pour le transport de marchandises, doit
+faire inscrire dans un fichier tenu par "Voies navigables de France", selon des modalités fixées par décret, lesdits bateaux
+porteurs ou non porteurs lui appartenant ou exploités par elle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-1033 du 13 octobre 1956
+
+	**Créé par**:
+
+	  - Loi n°2001-43 du 16 janvier 2001 - art. 21 () JORF 17 janvier 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L4421-2 (V)
+
+
+###### Article 189-10
+
+Les personnes qui effectuent un transport de marchandises par voie navigable présentent à toute réquisition des agents
+chargés du contrôle un document leur permettant de déterminer la nature juridique du transport effectué.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-1033 1956-10-13
+
+	**Créé par**:
+
+	  - Loi n°2001-43 du 16 janvier 2001 - art. 21 () JORF 17 janvier 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L4461-1 (M)
 
 
 ###### Article 190
@@ -5234,22 +5460,29 @@ contraventions en matière de grande voirie et punies des mêmes peines.
 
 ###### Article 209
 
-Les infractions aux dispositions du présent titre ou à celles des arrêtés d'application, à l'exception des infractions aux
-ordres de réquisition dont les sanctions sont prononcées dans les conditions définies au dernier alinéa de l'article 204,
-sont punies d'une amende de 900 F et, en cas de récidive, de 9000 F. Les chiffres ci-dessus sont quadruplés lorsqu'il s'agit
-de contraventions aux prescriptions des articles 200 à 204, dernier alinéa excepté, du présent chapitre, ou aux dispositions
-réglementaires prises pour l'application de ces articles. Toutefois, les contrevenants auront la faculté de se libérer par le
-versement immédiat entre les mains de l'agent verbalisateur de la moitié du minimum de l'amende ainsi fixée.
+Est puni d'une amende de 100000 F le fait pour tout prestataire de transport public de marchandises par voie navigable,
+auxiliaire de transport ou loueur de bateaux de marchandises avec équipage, d'offrir ou de pratiquer un prix inférieur au
+coût de la prestation qui ne permet pas de couvrir les charges entraînées par les obligations légales et réglementaires,
+notamment en matière sociale et de sécurité, ainsi que les charges de carburant et d'entretien, les amortissements ou les
+loyers des bateaux, les frais de péage, les frais de documents de transport, les timbres fiscaux et, pour les entreprises
+unipersonnelles, la rémunération du chef d'entreprise.
 
-Les infractions sont constatées par les fonctionnaires et agents visés à l'article 208 ci-dessus. Les procès-verbaux sont
-dispensés de l'affirmation.
+Les personnes morales peuvent être déclarées pénalement responsables, dans les conditions prévues par l'article 121-2 du code
+pénal, de l'infraction prévue au présent article.
 
-En plus des sanctions pénales indiquées ci-dessus, toute infraction peut donner lieu à l'arrêt du bateau ou du remorqueur
-ayant servi à commettre l'infraction pour une durée de huit jours à un mois, ou à sa réquisition d'usage gratuite pour la
-même durée. En cas de nouvelle infraction, ces durées peuvent être triplées.
+La peine encourue par les personnes morales est l'amende suivant les modalités prévues à l'article 131-38 du code pénal.
 
-Les sanctions prévues à l'alinéa ci-dessus sont prononcées par le directeur des Voies navigables de France. Elles peuvent
-faire l'objet, devant le ministre de l'équipement et du logement, d'un appel qui n'est pas suspensif.
+Les infractions sont recherchées et constatées dans les conditions prévues aux articles 45 (premier et troisième alinéas),
+46, 47, 51 et 52 de l'ordonnance n° 86-1243 du 1er décembre 1986 relative à la liberté des prix et de la concurrence. Le
+procureur de la République est préalablement avisé des opérations envisagées. Les procès-verbaux qui font foi jusqu'à preuve
+du contraire lui sont transmis sans délai. Copie en est adressée à l'intéressé.
+
+Le transporteur public de marchandises par voie navigable, l'auxiliaire de transport ou le loueur de bateaux de marchandises
+avec équipage évincé en raison d'un prix trop bas, la Chambre nationale de la battellerie artisanale, les organisations
+professionnelles de transporteurs par voie navigable, d'auxiliaires de transport et de loueurs de bateaux de marchandises
+avec équipage, représentatives au niveau national, peuvent se porter partie civile.
+
+L'action est prescrite dans un délai d'un an à compter de la date de fin d'exécution du contrat.
 
 **Liens relatifs à cet article**
 
@@ -5257,47 +5490,58 @@ faire l'objet, devant le ministre de l'équipement et du logement, d'un appel qu
 
 	  - Décret n°56-1033 1956-10-13
 
-	**Modifié par**:
+	**Cite**:
 
-	  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 décembre 1977
-	  - Décret n°80-567 du 18 juillet 1980 - art. 2 (V) JORF du 23 juillet 1980
-	  - Décret n°85-956 1985-09-11 art. 2 JORF du 12 septembre 1985 en vigueur le 1er octobre 1985
-	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+	  - Ordonnance 86-1243 1986-12-01 art. 45, art. 46, art. 47, art. 51, art. 52
+	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 46 (Ab)
+	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 47 (Ab)
+	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 51 (Ab)
+	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 52 (M)
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-38 (M)
 
 	**Cité par**:
 
 	  - Arrêté du 1 décembre 1989 - art. 7 (V)
 	  - Code du domaine public fluvial et de la navigat... - art. 189-6 (VT)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code du domaine public fluvial et de la navigation - art. 208 (Ab)
-	  - Code du domaine public fluvial et de la navigation intérieure 200 à 204, 208
-
-	**Anciens textes**:
-
-	  - Loi n°1941-03-22 art. 29
+	  - Loi n°2001-43 du 16 janvier 2001 - art. 22 () JORF 17 janvier 2001
 
 
 ### Chapitre VI : Coordination des transports
 
 ###### Article 212
 
-Des arrêtés du ministre de l'équipement et du logement, pris après consultation des Voies navigables de France et du conseil
-supérieur des transports, réglementent, en fonction des besoins de l'économie, la composition du parc de la batellerie
-notamment en ce qui concerne le nombre des bateaux des diverses catégories, la reconstitution du parc, le renouvellement des
-bateaux déchirés, la motorisation et les spécifications techniques des bateaux et la cession à des transporteurs publics de
-bateaux appartenant à des transporteurs privés.
+Voies navigables de France est chargé de la gestion du fonds de la navigation intérieure prévu au 1 de l'article 3 du
+règlement (CE) n° 718/1999 du Conseil, du 29 mars 1999, relatif à une politique de capacité des flottes communautaires dans
+la navigation intérieure en vue de promouvoir le transport par voie navigable.
+
+Voies navigables de France établit et recouvre, sous les mêmes garanties et sanctions qu'en matière d'impôts directs, la
+contribution spéciale au fonds de la navigation intérieure prévue à l'article 4 du règlement du 29 mars 1999 susvisé.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°56-1033 1956-10-13
+	  - Décret n°56-1033 du 13 octobre 1956
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°1941-03-22 art. 25
+	  - Loi n°2001-43 du 16 janvier 2001 - art. 24 () JORF 17 janvier 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L4311-6 (V)
+
+	**Cite**:
+
+	  - Règlement CE 99-718 1999-03-29 art. 3, art. 4
 
 
 ## Titre V : Police de la navigation
