@@ -1,5 +1,5 @@
 # Code du domaine public fluvial et de la navigation intérieure  
-Version Consolidée au 1969-02-07
+Version Consolidée au 1971-06-11
 
 # Livre Ier : Du domaine public fluvial
 
@@ -5048,6 +5048,35 @@ l'exploitation commerciale.
 
 ### Chapitre III : Contrats de transports
 
+###### Article 189
+
+Pour l'application du présent chapitre, est considérée comme effectuant un transport privé, toute personne physique ou morale
+transportant, avec des bateaux dont elle est propriétaire, des marchandises lui appartenant ou faisant l'objet de son
+commerce, de son industrie ou de son exploitation.
+
+Ces transports ne doivent constituer qu'une activité accessoire et complémentaire de l'activité principale exercée par la
+personne physique ou morale visée à l'alinéa précédent.
+
+Tous les autres transports sont des transports publics.
+
+Les bateaux utilisés aux transports privés ne peuvent pas participer aux transports publics, sauf dérogations accordées par
+le directeur de l'office national de la navigation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-1033 1956-10-13
+
+	**Anciens textes**:
+
+	  - Loi n°1941-03-22 art. 6
+
+	**Modifié par**:
+
+	  - Loi n°71-422 1971-06-10 art. 1 I, II JORF 11 juin 1971
+
+
 ###### Article 190
 
 A peine de nullité absolue, tout contrat de transport par voie de navigation intérieure est constaté par un document écrit.
@@ -5072,6 +5101,48 @@ ministre de l'équipement et du logement.
 	**Anciens textes**:
 
 	  - Loi n°1941-03-22 art. 7
+
+
+###### Article 191
+
+Le contrat au voyage, qu'il ait pour objet un voyage déterminé (contrat au voyage simple) ou une série de voyages successifs
+effectués par un même bateau (contrat de voyages multiples), est obligatoirement conclu dans un bureau d'affrètement et selon
+des taux de fret fixés comme il est dit à l'article 200 du présent code. Toutefois, lorsqu'un contrat de voyages multiples
+concerne l'exécution d'une partie des transports faisant l'objet d'un contrat au tonnage, les conditions et le taux de fret
+sont ceux qui sont prévus par le contrat au tonnage.
+
+Le contrat au voyage est libellé conformément à des types fixés par arrêté du ministre chargé des transports.
+
+Le contrat au voyage simple doit être conclu suivant le tour de rôle établi par le bureau d'affrètement. Le contrat de
+voyages multiples doit être conclu suivant les modalités d'attribution prévues par le règlement intérieur du bureau
+d'affrètement.
+
+Les règlements intérieurs des bureaux d'affrètement ou des décisions spéciales du directeur de l'office national de la
+navigation peuvent dispenser du tour de rôle ou des modalités d'attribution prévues à l'alinéa précédent et même des frets
+obligatoires les contrats au voyage portant, soit sur des transports exceptionnels, soit sur des transports dont les
+conditions particulières justifient cette dispense, ou les contrats au voyage conclus dans certains bureaux d'affrètement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-1033 1956-10-13
+
+	**Modifié par**:
+
+	  - Loi n°71-422 1971-06-10 art. 2 JORF 11 juin 1971
+
+	**Cite**:
+
+	  - Code du domaine public fluvial et de la navigation - art. 200 (Ab)
+
+	**Cité par**:
+
+	  - Code du domaine public fluvial et de la navigation - art. 201 (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°1941-03-22 art. 8
 
 
 ###### Article 192
