@@ -1,5 +1,5 @@
 # Code du domaine public fluvial et de la navigation intérieure  
-Version Consolidée au 1979-07-13
+Version Consolidée au 1980-08-06
 
 # Livre Ier : Du domaine public fluvial
 
@@ -3716,6 +3716,48 @@ L'article 820 du code de procédure civile est abrogé en ce qui concerne les ba
 	  - Loi n°1917-07-05 art. 42
 
 
+### Chapitre VI : Dispositions générales
+
+###### Article 137
+
+Un décret en Conseil d'Etat détermine les conditions d'application du présent titre, et notamment :
+
+1° Les conditions dans lesquelles il sera procédé au jaugeage et les localités où seront établis les bureaux de jaugeage et
+d'immatriculation ;
+
+2° L'organisation et le fonctionnement des services prévus par le présent titre ;
+
+3° Le mode suivant lequel les registres seront tenus ainsi que les conditions dans lesquelles seront reçues les demandes
+d'inscription à y insérer conformément à ce titre ;
+
+4° Les rétributions auxquelles pourront donner lieu notamment l'inscription des hypothèques et la délivrance des certificats
+d'inscription hypothécaire ;
+
+5° Le mode de constitution des impositions aux dispositions du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-1033 du 13 octobre 1956
+
+	**Modifié par**:
+
+	  - Décret n°80-621 1980-07-31 art. 2 JORF 6 août 1980
+
+	**Cité par**:
+
+	  - Code du domaine public fluvial et de la navigat... - art. 80 (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°1917-07-05 art. 50
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+
 ## Titre II : Réglementation de l'usage d'appareils à pression de vapeur ou de gaz à bord, pénalités
 
 ###### Article 138
@@ -5258,6 +5300,33 @@ voiture avec ou sans réserve, dûment signée de l'expéditeur ou du destinatai
 	**Anciens textes**:
 
 	  - Loi n°1941-03-22 art. 12
+
+
+###### Article 197
+
+Les patrons et mariniers sont tenus de déclarer, aux agents commissionnés à cet effet, la nature et le poids de leurs
+chargements.
+
+Ils doivent, en outre, présenter à toute réquisition, auxdits agents, leurs connaissements et lettres de voiture. Un décret
+en Conseil d'Etat détermine les conditions dans lesquelles les déclarations doivent être effectuées et vérifiées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-1033 du 13 octobre 1956
+
+	**Modifié par**:
+
+	  - Décret n°80-621 1980-07-31 art. 2 JORF 6 août 1980
+
+	**Anciens textes**:
+
+	  - Loi n°1889-02-19 art. 2
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
 ###### Article 198
