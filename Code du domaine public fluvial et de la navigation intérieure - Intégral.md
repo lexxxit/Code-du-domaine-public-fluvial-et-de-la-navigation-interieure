@@ -1,5 +1,5 @@
 # Code du domaine public fluvial et de la navigation intérieure  
-Version Consolidée au 1992-01-01
+Version Consolidée au 1992-01-04
 
 # Livre Ier : Du domaine public fluvial
 
@@ -818,15 +818,15 @@ Moulins de février 1566 et des ventes légalement consommées de biens nationau
 
 Il est interdit :
 
-1° de dégrader, détruire ou enlever les ouvrages construits pour la sûreté et la facilité de la navigation et du halage sur
+1° De dégrader, détruire ou enlever les ouvrages construits pour la sûreté et la facilité de la navigation et du halage sur
 les rivières et canaux navigables ou flottables ou le long de ces voies ;
 
-2° de faire aucun dommage aux ouvrages provisoires établis en vue de la construction ou de l'entretien des ouvrages visés à
+2° De faire aucun dommage aux ouvrages provisoires établis en vue de la construction ou de l'entretien des ouvrages visés à
 l'alinéa ci-dessus ;
 
-3° de naviguer sous les arches des ponts qui seraient fermés à la navigation du fait de tels travaux.
+3° De naviguer sous les arches des ponts qui seraient fermés à la navigation du fait de tels travaux.
 
-Le contrevenant sera passible d'une amende de 3000 à 6000 F et devra, supporter les frais de réparations. Il devra, en outre
+Le contrevenant sera passible d'une amende de 1000 à 80000 F. Il devra supporter les frais de réparations. Il devra, en outre
 dédommager les entrepreneurs chargés des travaux à dire d'experts nommés par les parties ou d'office.
 
 **Liens relatifs à cet article**
@@ -837,9 +837,7 @@ dédommager les entrepreneurs chargés des travaux à dire d'experts nommés par
 
 	**Modifié par**:
 
-	  - Décret n°80-567 du 18 juillet 1980 - art. 2 (V) JORF 28 juillet 1980
-	  - Décret n°85-956 1985-09-11 art. 25 JORF 12 septembre 1985 en vigueur le 1er octobre 1985
-	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+	  - Loi n°92-3 1992-01-03 art. 28 JORF 4 janvier 1992
 
 
 ###### Article 25
@@ -931,9 +929,9 @@ pour la délivrance des autorisations.
 
 ###### Article 27
 
-Il est interdit, de construire ou de laisser subsister sur les rivères et canaux domaniaux ou le long de ces voies, des
+Il est interdit, de construire ou de laisser subsister sur les rivières et canaux domaniaux ou le long de ces voies, des
 ouvrages quelconques susceptibles de nuire à l'écoulement des eaux ou à la navigation. Le contrevenant sera passible d'une
-amende de 180 à 15000 F et devra, en outre démolir les ouvrages établis ou, à défaut, payer les frais de la démolition
+amende de 1000 à 80000 F et devra, en outre, démolir les ouvrages établis ou, à défaut, payer les frais de la démolition
 d'office par l'administration.
 
 **Liens relatifs à cet article**
@@ -944,9 +942,7 @@ d'office par l'administration.
 
 	**Modifié par**:
 
-	  - Loi n°64-1245 1964-12-16 art. 32 JORF 18 décembre 1964
-	  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 décembre 1977
-	  - Loi n°85-835 du 7 août 1985 - art. 8 (VT) JORF 8 aout 1985 en vigueur le 1er octobre 1985
+	  - Loi n°92-3 1992-01-03 art. 28 JORF 4 janvier 1992
 
 
 ###### Article 28
@@ -967,7 +963,7 @@ quelconques, ni rien qui puisse embarrasser le lit des cours d'eau ou canaux ou 
 6. D'extraire à moins de 11,70 m de la limite desdites rivières ou des bords desdits canaux, des terres, sables et autres
 matériaux.
 
-Le contrevenant sera passible d'une amende de 3000 à 6000 F et devra, en outre, remettre les lieux en état ou, à défaut,
+Le contrevenant sera passible d'une amende de 1000 à 80000 F et devra, en outre, remettre les lieux en état ou, à défaut,
 payer les frais de la remise en état d'office par l'administration.
 
 **Liens relatifs à cet article**
@@ -976,14 +972,9 @@ payer les frais de la remise en état d'office par l'administration.
 
 	  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
 
-	**Créé par**:
-
-	  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956 rectificatif JORF 29 décembre 1956
-
 	**Modifié par**:
 
-	  - Décret n°85-956 1985-09-11 art. 25 JORF 12 septembre 1985 en vigueur le 1er octobre 1985
-	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+	  - Loi n°92-3 1992-01-03 art. 28 JORF 4 janvier 1992
 
 	**Cité par**:
 
@@ -992,9 +983,9 @@ payer les frais de la remise en état d'office par l'administration.
 
 ###### Article 29
 
-Les riverains, les mariniers et autres personnes, sont tenus de faire enlever les pierres, terres, bois, pieux, débris de
+Les riverains, les mariniers et autres personnes sont tenus de faire enlever les pierres, terres, bois, pieux, débris de
 bateaux et autres empêchements qui, de leur fait ou du fait de personnes ou de choses à leur charge, se trouveraient sur le
-domaine public fluvial. Le contrevenant sera passible d'une amende de 3000 à 6000 F, de la confiscation de l'objet
+domaine public fluvial. Le contrevenant sera passible d'une amende de 1000 à 80000 F, de la confiscation de l'objet
 constituant l'obstacle et du remboursement des frais d'enlèvement d'office par l'administration.
 
 **Liens relatifs à cet article**
@@ -1003,14 +994,9 @@ constituant l'obstacle et du remboursement des frais d'enlèvement d'office par 
 
 	  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956
 
-	**Créé par**:
-
-	  - Décret n°56-1033 1956-10-13 JORF 16 octobre 1956 rectificatif JORF 29 décembre 1956
-
 	**Modifié par**:
 
-	  - Décret n°85-956 1985-09-11 art. 2 5 JORF 12 septembre 1985 en vigueur le 1er octobre 1985
-	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1990 en vigueur le 1er janvier 1990
+	  - Loi n°92-3 1992-01-03 art. 28 JORF 4 janvier 1992
 
 
 ### Chapitre II : Gestion du domaine public fluvial
@@ -1431,7 +1417,7 @@ biens et des populations.
 
 Pour l'ensemble des cours d'eau énumérés, il ne pourra être fait aucune plantation nouvelle ni aucune accrue tolérée sur les
 terrains compris entre les cours d'eau et les digues et levées sur les îles, sans une autorisation préfectorale prise sur
-l'avis des ingénieurs de la navigation à peine d'une amende de 3000 à 6000 F. Les plantations faites sans autorisation
+l'avis des ingénieurs de la navigation à peine d'une amende de 1000 à 80000 F. Les plantations faites sans autorisation
 pourront, en outre, être arrachées aux frais des contrevenants à la suite d'un arrêté préfectoral pris sur l'avis des
 ingénieurs de la navigation, sans qu'il y ait besoin d'une mise en demeure préalable.
 
@@ -1443,17 +1429,15 @@ ingénieurs de la navigation, sans qu'il y ait besoin d'une mise en demeure pré
 
 	**Modifié par**:
 
-	  - Décret n°80-567 du 18 juillet 1980 - art. 2 (V) JORF 23 juillet 1980
-	  - Décret n°85-956 1985-09-11 art. 25 JORF 12 septembre 1985 en vigueur le 1er octobre 1985
-	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+	  - Loi n°92-3 1992-01-03 art. 28 JORF 4 janvier 1992
 
 
 ###### Article 58
 
 Toute plantation ancienne ou accrue sur les digues ou levées, les terrains compris entre les cours d'eau et les digues ou
-levées ou sur les îles, qui serait reconnue faire obstacle à l'écoulement des eaux ou restreindre d'une façon nuisible le
+levées ou sur les îles, qui serait reconnue faire obstacle à l'écoulement des eaux ou resteindre d'une façon nuisible le
 champ d'inondation, devra être supprimée en tout ou en partie dans le délai de deux mois sur l'ordre des ingénieurs, à peine
-d'une amende de 3000 à 6000 F. En cas d'inexécution dans le délai prescrit, l'enlèvement en sera fait aux frais du
+d'une amende de 1000 à 80000 F. En cas d'inexécution dans le délai prescrit, l'enlèvement en sera fait aux frais du
 contrevenant sans qu'il soit besoin d'une mise en demeure préalable.
 
 Il ne sera dû d'indemnité que si la plantation avait fait antérieurement l'objet d'une autorisation régulière et compte tenu
@@ -1467,9 +1451,7 @@ des conditions fixées par cette autorisation.
 
 	**Modifié par**:
 
-	  - Décret n°80-567 du 18 juillet 1980 - art. 2 (V) JORF 23 juillet 1980
-	  - Décret n°85-956 1985-09-11 art. 25 JORF 12 septembre 1985 en vigueur le 1er octobre 1985
-	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+	  - Loi n°92-3 1992-01-03 art. 28 JORF 4 janvier 1992
 
 
 ###### Article 59
@@ -1478,15 +1460,16 @@ Il est interdit d'élever aucune construction sur les terrains compris entre les
 levées, ou sur les îles.
 
 Du côté du val, il est interdit de planter des arbres ou arbustes, de creuser des puits, caves, fossés, ou faire toutes
-autres excavations de terrain à moins de 19,50 m du pied des levées.
+autres excavations de terrain à moins de 19,50 mètres du pied des levées.
 
-Les façades des bâtiments, dans la zone des 19,50 m définis ci-dessus, devront être établies à 1,95 m au moins de l'arête
-inférieure du talus extérieur de la digue ou levée et l'intervalle compris entre ces façades et les talus voisins des levées
-ou digues devra être remblayé avec soin au niveau de leur couronnement. Les fondations des murs ne doivent pas excéder une
-profondeur de 0,50 m.
+Les façades des bâtiments, dans la zone des 19,50 mètres définis ci-dessus, devront être établies à 1,95 mètre au moins de
+l'arête inférieure du talus extérieur de la digue ou levée et l'intervalle compris entre ces façades et les talus voisins des
+levées ou digues devra être remblayé avec soin au niveau de leur couronnement. Les fondations des murs ne doivent pas excéder
+une profondeur de 0,50 mètre.
 
 Toute construction devra faire l'objet d'une autorisation préfectorale prise sur l'avis des ingénieurs de la navigation.
-Toute construction non autorisée donnera lieu à une amende de 2500 à 5000 F et à la démolition de la construction.
+
+Toute construction non autorisée donnera lieu à une amende de 1000 à 80000 F et à la démolition de la construction.
 
 **Liens relatifs à cet article**
 
@@ -1496,9 +1479,7 @@ Toute construction non autorisée donnera lieu à une amende de 2500 à 5000 F e
 
 	**Modifié par**:
 
-	  - Décret n°80-567 du 18 juillet 1980 - art. 2 (V) JORF 23 juillet 1980
-	  - Décret n°85-956 1985-09-11 art. 25 JORF 12 septembre 1985 en vigueur le 1er octobre 1985
-	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+	  - Loi n°92-3 1992-01-03 art. 28 JORF 4 janvier 1992
 
 
 ###### Article 60
@@ -5932,10 +5913,9 @@ et retards.
 
 ###### Article 214
 
-Seront punis d'une amende de 3000 à 6000 F et, en cas de récidive, d'une amende de 6000 à 12000 F, les patrons, mariniers et
-charretiers, ainsi que toutes autres personnes participant à la conduite, à la traction ou au remorquage d'un bateau, qui,
-par des manoeuvres, des déplacements ou des stationnements, auront volontairement créé un obstacle à la circulation normale
-sur une voie de navigation intérieure.
+Seront punis d'une amende de 1000 à 80000 F, les patrons, mariniers et charretiers, ainsi que toutes autres personnes
+participant à la conduite, à la traction ou au remorquage d'un bateau, qui, par des manoeuvres, des déplacements ou des
+stationnements, auront volontairement créé un obstacle à la circulation normale sur une voie de navigation intérieure.
 
 **Liens relatifs à cet article**
 
@@ -5943,14 +5923,13 @@ sur une voie de navigation intérieure.
 
 	  - Décret n°56-1033 1956-10-13
 
-	**Modifié par**:
-
-	  - Décret n°85-956 1985-09-11 art. 2 JORF 12 septembre 1985
-	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
-
 	**Anciens textes**:
 
 	  - Loi n°1930-07-18
+
+	**Modifié par**:
+
+	  - Loi n°92-3 1992-01-03 art. 28 JORF 4 janvier 1992
 
 
 ###### Article 215
