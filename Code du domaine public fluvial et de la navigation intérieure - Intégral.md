@@ -1,5 +1,5 @@
 # Code du domaine public fluvial et de la navigation intérieure  
-Version Consolidée au 1993-03-30
+Version Consolidée au 1994-03-01
 
 # Livre Ier : Du domaine public fluvial
 
@@ -1697,18 +1697,26 @@ commandement.
 ###### Article 70
 
 Il est enjoint aux amodiataires, mariniers et autres personnes employées au service des bacs de se conformer aux dispositions
-contenues dans le présent titre, à peine d'être responsables des suites de leur négligence et être en outre passibles d'une
-amende de la valeur de trois journées de travail pour chaque contravention.
+contenues dans le présent titre, à peine d'être responsables des suites de leur négligence et être en outre passibles de
+l'amende prévue par le 3° de l'article 131-13 du code pénal pour les contraventions de la troisième classe.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°56-1033 1956-10-13
+	  - Décret n°56-1033 du 13 octobre 1956
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°6 frimaire an VII art. 51
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 326 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Cite**:
+
+	  - Code pénal - art. 131-13
 
 
 ###### Article 71
@@ -1716,7 +1724,8 @@ amende de la valeur de trois journées de travail pour chaque contravention.
 Il est expressément défendu aux amodiataires, mariniers et autres personnes employées au service des bacs et bateaux
 d'exiger, dans aucun temps, autres et plus fortes sommes que celles portées aux tarifs à peine d'être condamnés par le
 tribunal de police, soit sur la réquisition des parties plaignantes, soit sur celle des agents de l'administration, à la
-restitution des sommes indûment perçues et, en outre, à une amende de 600 à 1300 F.
+restitution des sommes indûment perçues et, en outre, à l'amende prévue par le 3° de l'article 131-13 du code pénal pour les
+contravention de la troisième classe.
 
 En cas de récidive, la condamnation sera prononcée par le tribunal correctionnel.
 
@@ -1728,19 +1737,18 @@ En cas de récidive, la condamnation sera prononcée par le tribunal correctionn
 
 	**Modifié par**:
 
-	  - Décret n°85-956 1985-09-11 art. 2 JORF 12 septembre 1985
-	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 326 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Loi n°6 frimaire an VII art. 52
+	  - Code pénal - art. 131-13 (M)
 
 
 ###### Article 72
 
 Si l'exaction est accompagnée d'injures, menaces, violences ou voies de faits, les prévenus seront traduits devant le
-tribunal correctionnel et condamnés, outre les réparations civiles et dommages-intérêts, à une amende qui pourra être de 600
-à 1300 F et un emprisonnement qui ne pourra excéder trois mois.
+tribunal correctionnel et condamnés, outre les réparations civiles et dommages-intérêts, à une amende qui pourra être de
+25000 F et un emprisonnement qui ne pourra excéder trois mois.
 
 **Liens relatifs à cet article**
 
@@ -1750,11 +1758,7 @@ tribunal correctionnel et condamnés, outre les réparations civiles et dommages
 
 	**Modifié par**:
 
-	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
-
-	**Anciens textes**:
-
-	  - Loi n°6 frimaire an VII art. 53
+	  - Décret n°92-1336 1992-12-16 art. 322, 329 JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 
 ###### Article 73
@@ -1800,32 +1804,34 @@ ingénieurs et leurs baux demeureront résiliés sans indemnité.
 ###### Article 75
 
 Toute personne qui se soustrairait au paiement des sommes portées aux tarifs sera condamnée par le tribunal de police, outre
-la restitution des droits, à une amende de 600 à 1300 F.
-
-En cas de récidive, le tribunal prononcera, outre une amende de 6000 à 15000 F, un emprisonnement qui ne pourra être moindre
-d'un jour ni être de plus de trois mois, et l'affiche du jugement sera aux frais du contrevenant.
+la restitution des droits, à l'amende prévue par le 3° de l'article 131-13 du code pénal pour les contraventions de la
+troisième classe.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°56-1033 1956-10-13
+	  - Décret n°56-1033 du 13 octobre 1956
 
 	**Modifié par**:
 
-	  - Décret n°85-956 1985-09-11 art. 2 JORF 12 septembre 1985
-	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 326 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 327 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
-	**Anciens textes**:
+	**Abrogé par**:
 
-	  - Loi n°6 frimaire an VII art. 56
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Cite**:
+
+	  - Code pénal - art. 131-13
 
 
 ###### Article 76
 
 Si le refus de payer était accompagné d'injures, menaces, violences ou voies de fait, les coupables seront traduits devant le
-tribunal correctionnel et condamnés, outre les réparations civiles et dommages-intérêts, à une amende qui pourra être de 600
-à 1300 F et un emprisonnement qui ne pourra excéder trois mois.
+tribunal correctionnel et condamnés, outre les réparations civiles et dommages-intérêts, à une amende qui pourra être de
+25000 F et un emprisonnement qui ne pourra excéder trois mois.
 
 **Liens relatifs à cet article**
 
@@ -1835,12 +1841,8 @@ tribunal correctionnel et condamnés, outre les réparations civiles et dommages
 
 	**Modifié par**:
 
-	  - Décret n°85-956 1985-09-11 art. 2 JORF 12 septembre 1985
-	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
-
-	**Anciens textes**:
-
-	  - Loi n°6 frimaire an VII art. 57
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 
 ###### Article 77
@@ -2223,18 +2225,18 @@ a été publié au   JORF n° 73 du 27 mars 2013.
 
 ###### Article 87
 
-Est punie des peines visées à l'article 162 du code pénal l'application à un bateau d'un certificat d'immatriculation autre
-que celui qui a été établi pour ce bateau.
+Est punie de trois ans d'emprisonnement et de 300000 F d'amende l'application à un bateau d'un certificat d'immatriculation
+autre que celui qui a été établi pour ce bateau.
 
-Sont punies d'une amende de 3600 à 60000 F les infractions à l'interdiction de double immatriculation prévue à l'article 78
-du présent code.
+Sont punies d'une amende de 60000 F les infractions à l'interdiction de double immatriculation prévue à l'article 78 du
+présent code.
 
-Sont punies d'une amende de 360 à 3600 F les infractions :
+Sont punies d'une amende de 25000 F les infractions :
 
 1° A l'obligation d'immatriculation prévue à l'article 78 ;
 
 2° Aux prescriptions de l'article 84, ladite amende étant, dans ce cas, à la charge solidaire du capitaine ou patron et du
-propriétaire ;
+propriétaire propriétaires ;
 
 3° Aux prescriptions de l'article 85 du présent code.
 
@@ -2244,9 +2246,14 @@ propriétaire ;
 
 	  - Décret n°56-1033 1956-10-13
 
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 154 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
 	**Cite**:
 
-	  - Code pénal 162
 	  - Code du domaine public fluvial et de la navigation - art. 78 (V)
 	  - Code du domaine public fluvial et de la navigation - art. 84 (V)
 	  - Code du domaine public fluvial et de la navigation - art. 85 (V)
@@ -3616,22 +3623,31 @@ ordonnance est maintenu en vigueur jusqu'à la publication des dispositions rég
 
 ###### Article 132
 
-Tout fait tendant à détourner frauduleusement un bateau grevé d'une hypothèque régulièrement inscrite est puni des peines
-portées à l'article 408 du code pénal.
+Tout fait tendant à détourner frauduleusement un bateau grevé d'une hypothèque régulièrement inscrite est puni des peines de
+l'abus de confiance prévues par les articles 314-1 et 314-10 du code pénal.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°56-1033 1956-10-13
+	  - Décret n°56-1033 du 13 octobre 1956
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 155 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L4143-1 (V)
 
 	**Cite**:
 
-	  - Code pénal 408
-
-	**Anciens textes**:
-
-	  - Loi n°1917-07-05 art. 45
+	  - Code pénal - art. 314-1
+	  - Code pénal - art. 314-10
 
 
 ###### Article 133
@@ -3772,9 +3788,8 @@ d'inscription hypothécaire ;
 
 ###### Article 138
 
-Est puni d'une amende de 240 à 4800 F tout propriétaire ou chef d'entreprise qui a fait naviguer un bateau à vapeur sans un
-permis de navigation délivré par l'autorité administrative dans les conditions fixées par règlement d'administration
-publique.
+Est puni d'une amende de 25000 F tout propriétaire ou chef d'entreprise qui a fait naviguer un bateau à vapeur sans un permis
+de navigation délivré par l'autorité administrative dans les conditions fixées par règlement d'administration publique.
 
 **Liens relatifs à cet article**
 
@@ -3782,16 +3797,16 @@ publique.
 
 	  - Décret n°56-1033 1956-10-13
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°1856-07-21 art. 8
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 
 ###### Article 139
 
 Le propriétaire ou chef d'entreprise qui a continué à faire naviguer un bateau à vapeur dont le permis a été suspendu ou
-retiré en vertu dudit règlement encourt une amende de 960 à 9600 F et peut être condamné, en outre, à un emprisonnement d'un
-mois à un an.
+retiré en vertu dudit règlement encourt une amende de 25000 F.
 
 **Liens relatifs à cet article**
 
@@ -3799,18 +3814,19 @@ mois à un an.
 
 	  - Décret n°56-1033 1956-10-13
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°1856-07-21 art. 9
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 
 ###### Article 140
 
-Est puni d'une amende de 960 à 9600 F tout propriétaire de bateau à vapeur ou chef d'entreprise qui fait usage d'une
-chaudière non revêtue des timbres constatant qu'elle a été soumise aux épreuves prescrites par règlement d'administration
-publique, ou qui, après avoir fait faire à une chaudière ou partie de chaudière, des changements ou réparations notables, a
-fait usage hors le cas de force majeure, de la chaudière réparée ou modifiée sans qu'elle ait été soumise à la pression
-d'épreuve correspondant au numéro du timbre dont elle est frappée.
+Est puni d'une amende de 25000 F tout propriétaire de bateau à vapeur ou chef d'entreprise qui fait usage d'une chaudière non
+revêtue des timbres constatant qu'elle a été soumise aux épreuves prescrites par règlement d'administration publique, ou qui,
+après avoir fait faire à une chaudière ou partie de chaudière, des changements ou réparations notables, a fait usage hors le
+cas de force majeure, de la chaudière réparée ou modifiée sans qu'elle ait été soumise à la pression d'épreuve correspondant
+au numéro du timbre dont elle est frappée.
 
 **Liens relatifs à cet article**
 
@@ -3822,10 +3838,15 @@ d'épreuve correspondant au numéro du timbre dont elle est frappée.
 
 	  - Loi n°1856-07-21 art. 10
 
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
 
 ###### Article 141
 
-Est puni d'une amende de 480 à 9600 F tout propriétaire de bateau à vapeur ou chef d'entreprise qui, après avoir obtenu un
+Est puni d'une amende de 25000 F à tout propriétaire de bateau à vapeur ou chef d'entreprise qui, après avoir obtenu un
 permis de navigation, fait naviguer ce bateau sans se conformer aux prescriptions qui lui ont été imposées en vertu des
 règlements d'administration publique en ce qui concerne les appareils de sûreté dont les chaudières doivent être pourvues,
 l'emplacement des chaudières et machines et les séparations entre cet emplacement et les salles destinées aux passagers.
@@ -3839,16 +3860,17 @@ dispositions du local ont cessé de satisfaire à ces prescriptions.
 
 	  - Décret n°56-1033 1956-10-13
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°1856-07-21 art. 11
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 
 ###### Article 142
 
-Est puni d'une amende de 480 à 4800 F tout propriétaire de bateau à vapeur ou chef d'entreprise qui a confié la conduite du
-bateau ou de l'appareil moteur à un capitaine ou à un mécanicien non pourvu des certificats de capacité exigés par les
-règlements d'administration publique.
+Est puni d'une amende de 25000 F tout propriétaire de bateau à vapeur ou chef d'entreprise qui a confié la conduite du bateau
+ou de l'appareil moteur à un capitaine ou à un mécanicien non pourvu des certificats de capacité exigés par les règlements
+d'administration publique.
 
 **Liens relatifs à cet article**
 
@@ -3856,14 +3878,16 @@ règlements d'administration publique.
 
 	  - Décret n°56-1033 1956-10-13
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°1856-07-21 art. 12
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 
 ###### Article 143
 
-Est puni d'une amende de 120 à 1200 F le capitaine d'un bateau à vapeur si, par suite de sa négligence :
+Est puni de l'amende prévue au 5° de l'article 131-13 du code pénal pour les contraventions de la cinquième classe le
+capitaine d'un bateau à vapeur si, par suite de sa négligence :
 
 1° La pression de la vapeur dans les chaudières a été portée au-dessus de la limite fixée par le permis de navigation ;
 
@@ -3874,7 +3898,19 @@ l'intérieur des chaudières, soit pour alimenter d'eau les chaudières, ont ét
 
 	**Codifié par**:
 
-	  - Décret n°56-1033 1956-10-13
+	  - Décret n°56-1033 du 13 octobre 1956
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 326 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Cite**:
+
+	  - Code pénal - art. 131-13
 
 	**Cité par**:
 
@@ -3887,32 +3923,33 @@ l'intérieur des chaudières, soit pour alimenter d'eau les chaudières, ont ét
 
 ###### Article 144
 
-Est puni d'une amende de 120 à 1200 F et, en outre, d'un emprisonnement de trois jours à trois mois, le mécanicien ou
-chauffeur qui, sans ordre, a surchargé les soupapes, faussé ou paralysé les appareils de sûreté.
+Est puni d'une amende de 25000 F et, en outre, d'un emprisonnement de trois mois, le mécanicien ou chauffeur qui, sans ordre,
+a surchargé les soupapes, faussé ou paralysé les appareils de sûreté.
 
 Lorsque la surcharge des soupapes a eu lieu, hors du cas de force majeure, par ordre du capitaine ou du chef de manoeuvre qui
-le remplace, le capitaine ou le chef de manoeuvre qui a donné l'ordre est puni d'une amende de 480 à 4800 F et peut être
-condamné à un emprisonnement de six jours à deux mois.
+le remplace, le capitaine ou le chef de manoeuvre qui a donné l'ordre est puni d'une amende de 25000 F et peut être condamné
+à un emprisonnement de deux mois.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°56-1033 1956-10-13
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 	**Cité par**:
 
 	  - Code du domaine public fluvial et de la navigat... - art. 148 (VT)
 
-	**Anciens textes**:
-
-	  - Loi n°1856-07-21 art. 14
-
 
 ###### Article 145
 
-Est puni d'une amende de 60 à 600 F et d'un emprisonnement de trois jours à un mois, le mécanicien d'un bateau à vapeur qui
-aura laissé descendre l'eau dans la chaudière au niveau des conduits de flamme et de la fumée.
+Est puni d'une amende de 25000 F et d'un emprisonnement de trois mois, le mécanicien d'un bateau à vapeur qui aura laissé
+descendre l'eau dans la chaudière au niveau des conduits de la flamme et de la fumée.
 
 **Liens relatifs à cet article**
 
@@ -3920,15 +3957,16 @@ aura laissé descendre l'eau dans la chaudière au niveau des conduits de flamme
 
 	  - Décret n°56-1033 1956-10-13
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°1856-07-21 art. 15
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 
 ###### Article 146
 
-Est puni d'une amende de 120 à 1200 F le capitaine d'un bateau à vapeur qui a contrevenu aux dispositions des règlements
-d'administration publique ou des arrêtés des préfets rendus en vertu de ces règlements en ce qui concerne.
+Est puni de l'amende prévue au 5° de l'article 131-13 du code pénal pour les infractions de la cinquième classe le capitaine
+d'un bateau à vapeur qui a contrevenu aux dispositions des règlements d'administration publique ou des arrêtés des préfets
+rendus en vertu de ces règlements en ce qui concerne.
 
 1° Le nombre des passagers qui peuvent être reçus à bord ;
 
@@ -3941,22 +3979,29 @@ départ, au passage sous les ponts et à l'arrivée des bateaux, ou de prévenir
 
 	**Codifié par**:
 
-	  - Décret n°56-1033 1956-10-13
+	  - Décret n°56-1033 du 13 octobre 1956
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 326 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Cite**:
+
+	  - Code pénal - art. 131-13
 
 	**Cité par**:
 
 	  - Code du domaine public fluvial et de la navigat... - art. 148 (VT)
 
-	**Anciens textes**:
-
-	  - Loi n°1856-07-21 art. 16
-
 
 ###### Article 147
 
 Dans le cas où, par inobservation des règlements, le capitaine d'un bateau à vapeur a heurté, endommagé ou mis en péril un
-autre bateau il est puni d'une amende de 120 à 1200 F et peut être condamné, en outre, à un emprisonnement de six jours à
-trois mois.
+autre bateau, il est puni d'une amende de 25000 F et peut être condamné, en outre, à un emprisonnement de trois mois.
 
 **Liens relatifs à cet article**
 
@@ -3964,9 +4009,9 @@ trois mois.
 
 	  - Décret n°56-1033 1956-10-13
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°1856-07-21 art. 17
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 
 ###### Article 148
@@ -4022,9 +4067,9 @@ titre.
 
 ###### Article 150
 
-Si les contraventions prévues aux articles précédents ont occasionné des blessures, la peine sera de huit jours à six mois
-d'emprisonnement et l'amende de 120 à 2400 F ; si elles ont occasionné la mort d'une ou plusieurs personnes, l'emprisonnement
-sera de six mois à cinq ans et l'amende de 720 à 7200 F.
+Si les contraventions prévues aux articles précédents ont occasionné des blessures, la peine sera de six mois
+d'emprisonnement et l'amende de 25000 F, si elles ont occasionné la mort d'une ou plusieurs personnes, l'emprisonnement sera
+de cinq ans et l'amende de 25000 F.
 
 **Liens relatifs à cet article**
 
@@ -4032,19 +4077,20 @@ sera de six mois à cinq ans et l'amende de 720 à 7200 F.
 
 	  - Décret n°56-1033 1956-10-13
 
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
 	**Cité par**:
 
 	  - Code du domaine public fluvial et de la navigat... - art. 151 (VT)
-
-	**Anciens textes**:
-
-	  - Loi n°1856-07-21 art. 20
 
 
 ###### Article 151
 
 Les contraventions aux règlements sur la police des bateaux à vapeur, autres que celles qui sont frappées de peines spéciales
-par les articles qui précèdent, sont punies d'une amende de 40 à 240 F.
+par les articles qui précèdent, sont punies de l'amende prévue au 4° de l'article 131-13 du code pénal pour les
+contraventions de la quatrième classe.
 
 Les peines édictées par l'article 150 ci-dessus sont applicables si les contraventions prévues à l'alinéa précédent ont
 occasionné des blessures ou la mort d'une ou plusieurs personnes.
@@ -4053,15 +4099,20 @@ occasionné des blessures ou la mort d'une ou plusieurs personnes.
 
 	**Codifié par**:
 
-	  - Décret n°56-1033 1956-10-13
+	  - Décret n°56-1033 du 13 octobre 1956
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 326 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 	**Cite**:
 
-	  - Code du domaine public fluvial et de la navigation - art. 150 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°1900-04-18 art. 2
+	  - Code pénal - art. 131-13
+	  - Code du domaine public fluvial et de la navigation intérieure - art. 150
 
 
 ###### Article 152
