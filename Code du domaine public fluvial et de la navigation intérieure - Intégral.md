@@ -1,5 +1,5 @@
 # Code du domaine public fluvial et de la navigation intérieure  
-Version Consolidée au 1994-03-01
+Version Consolidée au 1994-07-13
 
 # Livre Ier : Du domaine public fluvial
 
@@ -5091,122 +5091,6 @@ des ports maritimes.
 
 ## Titre IV : Exploitation commerciale des voies navigables
 
-### Chapitre Ier : Dispositions générales
-
-###### Article 185
-
-Le directeur de l'office national de la navigation sous l'autorité du ministre des transports, dirige l'exploitation des
-voies navigables, conformément aux règlements intervenus et à intervenir pour son application.
-
-L'exécution des ordres du directeur de l'office national de la navigation est assurée par les ingénieurs en chef de la
-navigation, directeurs régionaux, qui prennent toutes décisions locales laissées à leur initiative.
-
-L'étendue des directions régionales et les conditions dans lesquelles les ingénieurs en chef et ingénieurs de la navigation
-prêtent leur concours aux directeurs régionaux sont fixées par arrêté du ministre de l'équipement et du logement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-1033 1956-10-13
-
-	**Anciens textes**:
-
-	  - Loi n°1941-03-22 art. 1
-
-	**Abrogé par**:
-
-	  - Loi n°94-576 du 12 juillet 1994 - art. 16 (Ab) JORF 13 juillet 1994
-
-
-### Chapitre II : Réglementation de l'affrètement
-
-###### Article 186
-
-Des arrêtés du ministre de l'équipement et du logement créent un bureau d'affrètement dans chacun des principaux centres de
-chargement.
-
-Les bureaux d'affrètement fonctionnent sous l'autorité du directeur de l'office national de la navigation par l'intermédiaire
-du directeur régional.
-
-L'office national de la navigation assure la gestion des bureaux et inscrit dans son budget leurs recettes et leurs dépenses.
-Les directeurs et le personnel des bureaux d'affrètement sont nommés par le directeur de l'office.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-1033 1956-10-13
-
-	**Anciens textes**:
-
-	  - Loi n°1941-03-22 art. 3
-
-	**Abrogé par**:
-
-	  - Loi n°94-576 du 12 juillet 1994 - art. 16 (Ab) JORF 13 juillet 1994
-
-
-###### Article 187
-
-Les bureaux d'affrètement ont pour mission :
-
-1° De réunir et publier tous renseignements sur les besoins des transports et les ressources en matériel fluvial de la
-région ;
-
-2° De mettre en relation les transporteurs et les chargeurs qui font appel à leur intervention ;
-
-3° D'organiser un tour de rôle d'affrètement entre les bateaux dont l'inscription à ce tour pour leur chargement est
-obligatoire en vertu des dispositions du présent titre ;
-
-4° D'afficher les demandes fermes de transports dont ils ont été saisis et les listes de bateaux inscrits au tour de rôle ;
-
-5° D'une manière générale, de surveiller l'application des frets, des tarifs et des prix, de participer au contrôle des
-transports par navigation intérieure et à toutes opérations ayant pour but leur bonne exécution conformément aux lois et
-règlements en vigueur ;
-
-6° De percevoir pour le compte des organismes intéressés toutes taxes dont ils sont chargés d'assurer le recouvrement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-1033 1956-10-13
-
-	**Anciens textes**:
-
-	  - Loi n°1941-03-22 art. 4
-
-	**Abrogé par**:
-
-	  - Loi n°94-576 du 12 juillet 1994 - art. 16 (Ab) JORF 13 juillet 1994
-
-
-###### Article 188
-
-Un règlement intérieur établi par l'office national de la navigation, fixe les règles de fonctionnement de chaque bureau et
-les modalités de détail pour l'application du présent texte.
-
-Un arrêté pris conjointement par le ministre de l'équipement et du logement et le ministre de l'économie et des finances,
-fixe le montant et les conditions de recouvrement des taxes que les bureaux d'affrètement sont autorisés à percevoir sur les
-transporteurs, les expéditeurs et les courtiers de fret afin de couvrir les dépenses de fonctionnement des services de
-l'exploitation commerciale.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-1033 1956-10-13
-
-	**Anciens textes**:
-
-	  - Loi n°1941-03-22 art. 5
-
-	**Abrogé par**:
-
-	  - Loi n°94-576 du 12 juillet 1994 - art. 16 (Ab) JORF 13 juillet 1994
-
-
 ### Chapitre III : Contrats de transports
 
 ###### Article 189
@@ -5240,48 +5124,13 @@ le directeur de l'office national de la navigation.
 
 ###### Article 190
 
-A peine de nullité absolue, tout contrat de transport par voie de navigation intérieure est constaté par un document écrit.
-
-Les contrats de transport sont de l'un des trois types définis dans le présent texte :
-
-- Contrat au voyage, appelé aussi "convention d'affrètement" ;
-
-- Contrat à temps ;
-
-- Contrat au tonnage.
-
 En outre, la lettre de voiture, accompagnant obligatoirement le chargement, doit être conforme à un type fixé par arrêté du
 ministre de l'équipement et du logement.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-	**Codifié par**:
-
-	  - Décret n°56-1033 1956-10-13
-
-	**Anciens textes**:
-
-	  - Loi n°1941-03-22 art. 7
-
-
-###### Article 191
-
-Le contrat au voyage, qu'il ait pour objet un voyage déterminé (contrat au voyage simple) ou une série de voyages successifs
-effectués par un même bateau (contrat de voyages multiples), est obligatoirement conclu dans un bureau d'affrètement et selon
-des taux de fret fixés comme il est dit à l'article 200 du présent code. Toutefois, lorsqu'un contrat de voyages multiples
-concerne l'exécution d'une partie des transports faisant l'objet d'un contrat au tonnage, les conditions et le taux de fret
-sont ceux qui sont prévus par le contrat au tonnage.
-
-Le contrat au voyage est libellé conformément à des types fixés par arrêté du ministre chargé des transports.
-
-Le contrat au voyage simple doit être conclu suivant le tour de rôle établi par le bureau d'affrètement. Le contrat de
-voyages multiples doit être conclu suivant les modalités d'attribution prévues par le règlement intérieur du bureau
-d'affrètement.
-
-Les règlements intérieurs des bureaux d'affrètement ou des décisions spéciales du directeur de l'office national de la
-navigation peuvent dispenser du tour de rôle ou des modalités d'attribution prévues à l'alinéa précédent et même des frets
-obligatoires les contrats au voyage portant, soit sur des transports exceptionnels, soit sur des transports dont les
-conditions particulières justifient cette dispense, ou les contrats au voyage conclus dans certains bureaux d'affrètement.
+Conformément à l'article 9 de l'ordonnance n° 2010-1307 du 28 octobre 2010, l'article 190 abrogé par l'article 7 de ladite
+ordonnance  est maintenu en vigueur jusqu'à la publication des dispositions réglementaires du code des transports.
 
 **Liens relatifs à cet article**
 
@@ -5291,19 +5140,34 @@ conditions particulières justifient cette dispense, ou les contrats au voyage c
 
 	**Modifié par**:
 
-	  - Loi n°71-422 1971-06-10 art. 2 JORF 11 juin 1971
+	  - Loi n°94-576 du 12 juillet 1994 - art. 16 (Ab) JORF 13 juillet 1994
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Code du domaine public fluvial et de la navigation - art. 200 (Ab)
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+
+###### Article 191
+
+Le contrat au voyage est libellé conformément à des types fixés par arrêté du ministre chargé des transports.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-1033 1956-10-13
+
+	**Modifié par**:
+
+	  - Loi n°94-576 du 12 juillet 1994 - art. 16 (Ab) JORF 13 juillet 1994
+
+	**Abrogé par**:
+
+	  - Décret n°96-855 du 30 septembre 1996 - art. 1 (Ab) JORF 2 octobre 1996
 
 	**Cité par**:
 
 	  - Code du domaine public fluvial et de la navigation - art. 201 (Ab)
-
-	**Anciens textes**:
-
-	  - Loi n°1941-03-22 art. 8
 
 
 ###### Article 192
@@ -5340,106 +5204,36 @@ Le contrat au voyage est dispensé d'enregistrement.
 	  - Loi n°1941-03-22 art. 9
 
 
-###### Article 193
-
-Le contrat à temps est un contrat de transport par lequel un entrepreneur de transport met un bateau dont il est
-propriétaire, conduit par lui-même ou par son personnel, à la disposition d'un expéditeur pour transporter les marchandises
-de ce dernier.
-
-Le contrat à temps ne doit comporter que des prix à l'année, au mois ou à la journée, à l'exception de tout fret à la tonne
-ou au voyage.
-
-Il est libellé conformément à un type fixé par arrêté du ministre de l'équipement et du logement.
-
-Le contrat à temps ne peut pas être conclu entre deux transporteurs publics. Pendant sa durée, le bateau affecté à son
-exécution ne peut être utilisé pour faire des transports en vertu d'un autre contrat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-1033 1956-10-13
-
-	**Anciens textes**:
-
-	  - Loi n°1941-03-22 art. 10
-
-	**Abrogé par**:
-
-	  - Loi n°94-576 du 12 juillet 1994 - art. 16 (Ab) JORF 13 juillet 1994
-
-
-###### Article 194
-
-Le contrat au tonnage est celui par lequel un entrepreneur de transports s'engage à transporter, dans un délai fixé, un
-tonnage déterminé contre le payement d'un fret à la tonne.
-
-Les clauses générales de ce type de contrat sont fixées par arrêté du ministre de l'équipement et du logement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-1033 1956-10-13
-
-	**Anciens textes**:
-
-	  - Loi n°1941-03-22 art. 11
-
-	**Abrogé par**:
-
-	  - Loi n°94-576 du 12 juillet 1994 - art. 16 (Ab) JORF 13 juillet 1994
-
-
-###### Article 195
-
-Les patrons bateliers, tels qu'ils sont définis dans le texte concernant leur statut, ne peuvent traiter des transports que
-par contrats au voyage ou à temps.
-
-Toutefois, ils peuvent traiter autrement pour l'exécution d'un ou de plusieurs contrats lorsqu'ils se groupent dans les
-conditions qui sont fixées par arrêté du ministre de l'équipement et du logement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-1033 1956-10-13
-
-	**Anciens textes**:
-
-	  - Loi n°1941-03-22 art. 15
-
-	**Abrogé par**:
-
-	  - Loi n°94-576 du 12 juillet 1994 - art. 16 (Ab) JORF 13 juillet 1994
-
-
 ###### Article 196
-
-Le transporteur fait constater à l'expéditeur, au destinataire ou à leur mandataire, l'arrivée de son bateau au lieu de
-chargement ou de déchargement ou au garage le plus voisin qui lui est assigné. Cette constatation est valablement faite
-également par les agents de la navigation ou par tous autres agents assermentés, habilités à cet effet par le ministre de
-l'équipement et du logement.
-
-Sauf stipulations contraires dans le contrat, le tonnage transporté est déterminé par les enfoncements aux échelles ou, pour
-les bateaux-citernes, par les hauteurs du liquide dans chaque citerne, les lectures nécessaires étant faites
-contradictoirement au commencement et à la fin de chaque opération et mentionnée sur la lettre de voiture.
-
-Dans le cas de transports rendus obligatoires, la décision prévue à l'article 204 ci-après, fixe, s'il y a lieu, le mode de
-détermination du tonnage transporté.
 
 Le chargement et le déchargement ne sont considérés comme terminés que lorsque le transporteur a reçu à bord la lettre de
 voiture avec ou sans réserve, dûment signée de l'expéditeur ou du destinataire ou de leur mandataire.
 
+**Nota:**
+
+Conformément à l'article 9 de l'ordonnance n° 2010-1307 du 28 octobre 2010, l'article 196 abrogé par l'article 7 de ladite
+ordonnance est maintenu en vigueur jusqu'à la publication des dispositions réglementaires du code des transports. 
+
+Le décret n° 2013-253 du 25 mars 2013 relatif aux dispositions de la    quatrième partie réglementaire du code des transports
+a été publié au    JORF n° 73 du 27 mars 2013.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°56-1033 1956-10-13
+	  - Décret n°56-1033 du 13 octobre 1956
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°1941-03-22 art. 12
+	  - Loi n°94-576 du 12 juillet 1994 - art. 16 (Ab) JORF 13 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. D4451-1 (V)
 
 
 ###### Article 197
@@ -5516,217 +5310,7 @@ Les règlements des diverses chambres sont approuvés par les directeurs des Voi
 	  - Décret n°56-1033 1956-10-13
 
 
-###### Article 200
-
-Les taux de fret obligatoires pour les contrats au voyage sont fixés par le directeur de l'office national de la navigation
-sous réserve de l'observation de la législation relative aux prix. Ce dernier peut également fixer soit des maxima et des
-minima, soit les taux à appliquer pour tous les prix figurant dans les contrats passés à l'occasion des transports par
-navigation intérieure, y compris notamment les tarifs de remorquage, de halage et de pilotage.
-
-Tous les prix visés ci-dessus sont soumis à l'homologation du ministre de l'équipement et du logement qui consulte, s'il le
-juge utile, le conseil supérieur des transports.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-1033 1956-10-13
-
-	**Anciens textes**:
-
-	  - Loi n°1941-03-22 art. 14
-
-	**Abrogé par**:
-
-	  - Loi n°94-576 du 12 juillet 1994 - art. 16 (Ab) JORF 13 juillet 1994
-
-	**Cité par**:
-
-	  - Code du domaine public fluvial et de la navigation - art. 191 (M)
-
-
 ### Chapitre V : Modalités d'exécution des contrats, contrôle et sanctions
-
-###### Article 201
-
-Le ministre de l'équipement et du logement peut prescrire ou donner délégation au directeur de l'office national de la
-navigation à l'effet de prescrire les mesures suivantes :
-
-1° Obligation dans le cas de transports traités par contrat au tonnage, de n'utiliser que des bateaux appartenant au
-transporteur contractant ou mis à sa disposition d'une manière continue pour une durée minima fixée dans la décision ;
-
-2° Interdiction des contrats au tonnage ne comportant pas l'engagement de transporter effectivement un tonnage au moins égal
-au chiffre minima fixé par la décision et dans un délai également fixé par cette décision ;
-
-3° Fixation d'une durée minima pour les contrats à temps ou interdiction de ces contrats ;
-
-4° Privation du droit d'inscription au tour de rôle de bateaux pris en location pendant la durée de ces locations ;
-
-5° Obligation pour tout titulaire d'un contrat de transport autre qu'au voyage de rapporter au tour de rôle prévu à l'article
-191 ci-dessus une fraction des transports prévus à ce contrat ;
-
-6° Interdiction des contrats autres qu'au voyage pour des parcours ou des transports déterminés, ou d'une manière générale ;
-
-7° Réglementation ou interdiction de la mise à disposition continue d'un bateau à un tiers par contrat autre que le contrat à
-temps.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-1033 1956-10-13
-
-	**Abrogé par**:
-
-	  - Loi n°94-576 du 12 juillet 1994 - art. 16 (Ab) JORF 13 juillet 1994
-
-	**Cite**:
-
-	  - Code du domaine public fluvial et de la navigation - art. 191 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°1941-03-22 art. 16
-
-
-###### Article 202
-
-Le ministre de l'équipement et du logement pourra établir un régime de priorités à appliquer, nonobstant toutes autres
-dispositions législatives et réglementaires, aux transports de marchandises effectués par navigation intérieure.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-1033 1956-10-13
-
-	**Anciens textes**:
-
-	  - Loi n°1940-10-16 art. 1
-
-	**Abrogé par**:
-
-	  - Loi n°94-576 du 12 juillet 1994 - art. 16 (Ab) JORF 13 juillet 1994
-
-
-###### Article 203
-
-Les transporteurs publics par navigation intérieure sont tenus d'effectuer, par priorité, les transports qui leur sont
-désignés par le ministre de l'équipement et du logement ou, par délégation, soit par l'office national de la navigation, soit
-par les ingénieurs en chef de la navigation.
-
-Les transporteurs privés par navigation intérieure pourront être tenus, dans les mêmes conditions, d'effectuer par priorité
-certains transports publics.
-
-L'exécution d'office des transports par priorité, en cas de refus, sera effectuée par réquisition du personnel et du
-matériel, étant spécifié qu'en plus des sanctions prévues ci-dessous, la réquisition d'usage gratuite du matériel pour une
-durée de huit jours à un mois peut être prononcée, sans possibilité d'appel, par le directeur de l'office national de la
-navigation ou par l'ingénieur en chef de la navigation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-1033 1956-10-13
-
-	**Anciens textes**:
-
-	  - Loi n°1940-10-16 art. 4
-
-	**Abrogé par**:
-
-	  - Loi n°94-576 du 12 juillet 1994 - art. 16 (Ab) JORF 13 juillet 1994
-
-
-###### Article 204
-
-Sans préjudice des obligations résultant des articles ci-dessus relatifs au régime des priorités à établir sur les transports
-de marchandises, le ministre de l'équipement et du logement peut ordonner ou donner délégation au directeur de l'office
-national de la navigation à l'effet de prescrire les mesures suivantes :
-
-1° Déclaration obligatoire des bateaux vides ;
-
-2° Répartition d'office des bateaux entre les chargeurs avec obligation pour les transporteurs d'effectuer les transports
-désignés ;
-
-3° Interdiction du déplacement des bateaux vides sans autorisation et, s'il y a lieu, envoi de ces bateaux dans certaines
-régions, le remboursement des frais de déplacement des bateaux non compris dans les frets étant effectué dans les conditions
-fixées par le directeur de l'office national de la navigation ;
-
-4° Obligation pour les remorqueurs de tirer les bateaux qui leur sont désignés, création, s'il y a lieu, de bureaux de
-mouvement où doivent se faire inscrire les bateaux, affectation de chaque remorqueur à un bureau de mouvement pour travailler
-sur une section déterminée ;
-
-5° Obligation pour les charretiers professionnels de tirer les bateaux qui leur sont désignés et de travailler sur des
-sections déterminées, création de bureaux de tour ou de mouvement pour la traction animale ou mécanique ;
-
-6° Obligation pour les pilotes de conduire les bateaux qui leur sont désignés et de travailler sur des sections déterminées,
-création, s'il y a lieu, de bureaux de tour de pilotage ;
-
-7° Fixation des heures et des jours pendant lesquels la navigation est obligatoire, cette prescription s'appliquant à toutes
-les entreprises et à tout le personnel dont l'activité est nécessaire ;
-
-8° Fixation des heures et des jours pendant lesquels les entreprises et le personnel de manutention doivent exercer leur
-activité pour le chargement et le déchargement des bateaux ;
-
-9° Institution de toutes mesures de contrôle permettant la surveillance de la bonne et rapide exécution des transports et
-opérations accessoires.
-
-Les mesures qui précèdent sont applicables à toutes les entreprises et à tout le personnel participant aux opérations
-envisagées, qu'il s'agisse de transporteurs publics ou privés, d'entreprises de remorquage, de services de remorquage
-d'industriels ou de commerçants, d'entreprises de manutention et de services de manutention d'industriels ou de commerçants.
-
-Toutefois, il ne pourra être fait appel aux bateaux des flottes privées pour les transports obligatoires qu'après utilisation
-complète des bateaux des entrepreneurs de transports et, le cas échéant, avec l'accord du ou des départements ministériels
-intéressés par l'activité des entreprises propriétaires de ces flottes.
-
-En vue d'accélérer l'exploitation et de faciliter l'application des mesures qui précèdent, des arrêtés pris conjointement par
-le ministre de l'économie et le ministre de l'équipement et du logement peuvent décider l'attribution de primes de rendement,
-l'institution de pénalités, l'allocation de subventions et la perception de surfret ou de taxes destinées à couvrir toutes
-les dépenses d'exploitation avancées par l'office national de la navigation par application du présent article.
-
-Dans le cas où les transports ou les services rendus obligatoires par application du présent article ne sont pas exécutoires
-dans les conditions prescrites, ces services seront exécutés d'office par réquisition du personnel et du matériel prononcée
-par le directeur de l'office national de la navigation qui pourra déléguer ce pouvoir à ses représentants. Cette réquisition
-pourra être étendue à toutes les entreprises et à toutes les personnes participant aux transports et aux opérations
-accessoires. Les lois relatives aux réquisitions militaires sont applicables aux réquisitions ordonnées en exécution du
-présent article en ce qui concerne les sanctions pénales, le règlement des indemnités et les réclamations y afférents.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-1033 1956-10-13
-
-	**Anciens textes**:
-
-	  - Loi n°1941-03-22 art. 17
-
-	**Abrogé par**:
-
-	  - Loi n°94-576 du 12 juillet 1994 - art. 16 (Ab) JORF 13 juillet 1994
-
-
-###### Article 205
-
-Les transports en transit ou ayant leur origine hors de France ne sont pas soumis aux prescriptions qui précèdent.
-
-Un arrêté fixe celles des clauses du présent titre qui sont applicables aux transports d'exportation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-1033 1956-10-13
-
-	**Anciens textes**:
-
-	  - Loi n°1941-03-22 art. 18
-
-	**Abrogé par**:
-
-	  - Loi n°94-576 du 12 juillet 1994 - art. 16 (Ab) JORF 13 juillet 1994
-
 
 ###### Article 206
 
@@ -5772,39 +5356,6 @@ toutes stipulations contenues, soit dans l'écrit lui-même, soit dans un écrit
 	**Anciens textes**:
 
 	  - Loi n°1941-03-22 art. 27
-
-
-###### Article 208
-
-Le contrôle de l'application des frets, des tarifs et de tous les prix réglementés en vertu du présent titre est assuré par
-les fonctionnaires et agents du service de la coordination à la direction générale des transports ainsi que par ceux de
-l'office national de la navigation et les ingénieurs et agents de la navigation.
-
-Les fonctionnaires et agents spécialement mandatés à cet effet dans chaque cas particulier par le directeur général des
-transports ou par le directeur de l'office national de la navigation, disposent des pouvoirs de vérification prévus pour le
-contrôle de l'Etat sur les chemins de fer et les transports par route et par eau.
-
-Des arrêtés du ministre de l'équipement et du logement peuvent fixer des règles générales pour la tenue des comptabilités des
-entreprises participant aux transports par navigation intérieure.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-1033 1956-10-13
-
-	**Cité par**:
-
-	  - Arrêté du 1 décembre 1989 - art. 4 (V)
-	  - Code du domaine public fluvial et de la navigation - art. 209 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°1941-03-22 art. 28
-
-	**Abrogé par**:
-
-	  - Loi n°94-576 du 12 juillet 1994 - art. 16 (Ab) JORF 13 juillet 1994
 
 
 ###### Article 209
@@ -5854,56 +5405,7 @@ faire l'objet, devant le ministre de l'équipement et du logement, d'un appel qu
 	  - Loi n°1941-03-22 art. 29
 
 
-###### Article 210
-
-Toutes modalités d'application des dispositions ci-dessus du présent titre sont prises par arrêté du ministre de l'équipement
-et du logement, après avis du directeur de l'office national de la navigation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-1033 1956-10-13
-
-	**Anciens textes**:
-
-	  - Loi n°1941-03-22 art. 31
-
-	**Abrogé par**:
-
-	  - Loi n°94-576 du 12 juillet 1994 - art. 16 (Ab) JORF 13 juillet 1994
-
-	**Cité par**:
-
-	  - Décret n°2010-389 du 19 avril 2010 - art. 7 (Ab)
-	  - Décret n°2010-389 du 19 avril 2010 - art. 8 (Ab)
-
-
 ### Chapitre VI : Coordination des transports
-
-###### Article 211
-
-Les transports par navigation intérieure sont soumis aux règles de coordination prévues à l'article 7 de la loi du 5 juillet
-1949.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-1033 1956-10-13
-
-	**Anciens textes**:
-
-	  - Loi n°1949-07-05
-
-	**Cite**:
-
-	  - Loi n°1949-07-05 art. 7
-
-	**Abrogé par**:
-
-	  - Loi n°94-576 du 12 juillet 1994 - art. 16 (Ab) JORF 13 juillet 1994
-
 
 ###### Article 212
 
