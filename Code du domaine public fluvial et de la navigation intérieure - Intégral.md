@@ -1,5 +1,5 @@
 # Code du domaine public fluvial et de la navigation intérieure  
-Version Consolidée au 2003-12-20
+Version Consolidée au 2004-06-01
 
 # Livre Ier : Du domaine public fluvial
 
@@ -506,14 +506,22 @@ droits de propriété.
 
 ###### Article 9
 
-A l'embouchure des fleuves ou rivières, la limite de la mer est déterminée conformément aux dispositions de l'article 2 du
-décret du 21 février 1852.
+A l'embouchure des fleuves ou rivières, la limite de la mer est déterminée conformément aux dispositions du décret n°
+2004-309 du 29 mars 2004.
+
+**Nota:**
+
+Nota - Décret 2004-309 2004-03-29 art. 13 : Les dispositions du présent décret entreront en vigueur le premier jour du
+troisième mois suivant le mois de sa publication.
+
+Elles ne sont pas applicables aux délimitations pour lesquelles la décision prescrivant l'enquête publique a été publiée
+avant la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°1852-02-21 art. 2
+	  - Décret n°2004-309 2004-03-26
 
 	**Codifié par**:
 
@@ -521,7 +529,11 @@ décret du 21 février 1852.
 
 	**Modifié par**:
 
-	  - Loi n°64-1245 1964-12-16 art. 30 JORF 18 décembre 1964
+	  - Décret n°2004-309 du 29 mars 2004 - art. 12 () JORF 30 mars 2004 en vigueur le 1er juin 2004 rectificatif JORF 15 mai 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 
 ### Chapitre II : Droits de l'Etat et des riverains.
