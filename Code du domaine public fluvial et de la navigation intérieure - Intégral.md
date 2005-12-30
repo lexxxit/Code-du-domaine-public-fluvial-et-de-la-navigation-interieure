@@ -1,5 +1,5 @@
 # Code du domaine public fluvial et de la navigation intérieure  
-Version Consolidée au 2005-08-03
+Version Consolidée au 2005-12-31
 
 # Livre Ier : Du domaine public fluvial
 
@@ -148,7 +148,8 @@ code.
 Les régions ayant obtenu le transfert des cours d'eau et canaux peuvent déléguer, par convention, tout ou partie de leurs
 compétences à des collectivités territoriales qui en feraient la demande.
 
-Ces transferts sont réalisés à titre gratuit et ne donnent lieu au paiement d'aucune indemnité, droit, taxe ou honoraires.
+Ces transferts sont réalisés à titre gratuit et ne donnent lieu au paiement d'aucune indemnité, droit, taxe, salaire ou
+honoraires.
 
 Toutefois, lorsque avant le 1er janvier 2005, une partie du domaine public fluvial a été concédée à une collectivité
 territoriale, cette dernière est prioritaire pour bénéficier du transfert de propriété.
@@ -169,13 +170,13 @@ territoriale, cette dernière est prioritaire pour bénéficier du transfert de 
 
 	  - Décret n°91-796 du 20 août 1991 - art. 1 (Ab)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 72 () JORF 31 décembre 2005
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Loi n°2004-809 du 13 août 2004 - art. 32 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 
 ###### Article 1-2
