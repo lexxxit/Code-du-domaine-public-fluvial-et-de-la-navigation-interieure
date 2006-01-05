@@ -1,5 +1,5 @@
 # Code du domaine public fluvial et de la navigation intérieure  
-Version Consolidée au 2005-12-31
+Version Consolidée au 2006-01-06
 
 # Livre Ier : Du domaine public fluvial
 
@@ -1498,9 +1498,10 @@ Ces avis devront être donnés dans le délai maximum de six mois à compter du 
 Les titulaires d'autorisations de prise d'eau sur les ports intérieurs, les cours d'eau domaniaux et sur les canaux de
 navigation sont assujettis à payer à l'Etat une redevance calculée d'après les bases fixées par un décret en Conseil d'Etat.
 
-Sur les cours d'eau, sections de cours d'eau, canaux, lacs et plans d'eau et ports intérieurs appartenant à une collectivité
-territoriale ou un groupement, la redevance est perçue à son profit. Elle est établie par délibération de l'assemblée
-délibérante de la collectivité territoriale ou du groupement, dans les limites fixés par décret en Conseil d'Etat.
+Sur les cours d'eau, sections de cours d'eau, canaux, lacs et plans d'eau et ports intérieurs appartenant ou confiés en
+gestion à une collectivité territoriale ou un groupement, la redevance est perçue à son profit. Elle est établie par
+délibération de l'assemblée délibérante de la collectivité territoriale ou du groupement, dans les limites fixés par décret
+en Conseil d'Etat.
 
 Les dispositions du présent article ne sont pas applicables aux cours d'eau domaniaux et aux canaux confiés à l'établissement
 public créé par l'article 67 de la loi du 27 février 1912 portant fixation du budget général des dépenses et des recettes de
@@ -1516,11 +1517,6 @@ l'exercice 1912.
 
 	  - TXT_SOURCE: Décret n°87-1026 du 17 décembre 1987
 	  - TXT_SOURCE: Décret n°87-1026 du 17 décembre 1987 - art. 2 (V)
-	  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
-
-	**Modifié par**:
-
-	  - Loi n°2004-809 du 13 août 2004 - art. 32 () JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
@@ -1530,6 +1526,18 @@ l'exercice 1912.
 	**Cite**:
 
 	  - Loi n°1912-02-27 art. 67
+
+	**Modifié par**:
+
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 29 () JORF 6 janvier 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiqu - art. L2125-7 (V)
 
 	**Anciens textes**:
 
@@ -5825,10 +5833,33 @@ Le contrat de sous-traitance est soumis à l'ensemble des règles applicables au
 
 ###### Article 189-6
 
-Tout contrat de transport public de marchandises par voie navigable doit comporter des clauses précisant la nature et l'objet
-du transport, les modalités d'exécution du service en ce qui concerne le transport proprement dit et les conditions
+I. Tout contrat de transport public de marchandises par voie navigable doit comporter des clauses précisant la nature et
+l'objet du transport, les modalités d'exécution du service en ce qui concerne le transport proprement dit et les conditions
 d'enlèvement et de livraison des objets transportés, les obligations respectives de l'expéditeur, du transporteur et du
-destinataire et le prix du transport ainsi que celui des prestations accessoires prévues.
+destinataire et le prix du transport ainsi que celui des prestations accessoires prévues. Le prix du transport inclut les
+charges de carburant nécessaires à la réalisation du transport.
+
+II. - Lorsque le contrat de transport mentionne les charges de carburant retenues pour l'établissement du prix de l'opération
+de transport, le prix de transport initialement convenu est révisé de plein droit pour prendre en compte la variation des
+charges de carburant liée à la variation du prix du carburant entre la date du contrat et la date de la réalisation de
+l'opération de transport. La facture fait apparaître les charges de carburant supportées par l'entreprise pour la réalisation
+de l'opération de transport.
+
+III. - A défaut d'accord entre les parties sur les modalités de la révision effectuée conformément au II, le prix du
+transport initialement convenu est révisé de plein droit en appliquant aux charges de carburant déterminées dans le contrat
+la variation de l'indice des prix à la consommation du fioul domestique publié par l'Institut national de la statistique et
+des études économiques sur la période allant de la date de la commande de l'opération de transport à sa date de réalisation.
+
+IV. - A défaut de stipulations contractuelles identifiant les charges de carburant dans les conditions définies au II,
+celles-ci sont déterminées au jour de la commande par référence à la part moyenne que représentent les charges de carburant
+dans le prix d'une opération de transport. Le prix du transport initialement convenu est révisé de plein droit en appliquant
+aux charges de carburant ainsi identifiées la variation de l'indice mentionné au III sur la période allant de la date de la
+commande de l'opération de transport à sa date de réalisation. La facture fait apparaître les charges de carburant supportées
+par l'entreprise pour la réalisation de l'opération de transport. Un décret précise les modalités de détermination de la part
+moyenne des charges de carburant intervenant dans l'établissement du prix d'une opération de transport.
+
+Les dispositions du présent article sont applicables aux contrats de commission de transport pour la part relative à
+l'organisation du transport fluvial de marchandises.
 
 **Liens relatifs à cet article**
 
@@ -5836,9 +5867,9 @@ destinataire et le prix du transport ainsi que celui des prestations accessoires
 
 	  - Décret n°56-1033 1956-10-13
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2001-43 du 16 janvier 2001 - art. 21 () JORF 17 janvier 2001
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 31 () JORF 6 janvier 2006
 
 	**Cité par**:
 
@@ -6122,9 +6153,10 @@ transporteurs non résidents aux transports nationaux de marchandises ou de pers
 le tribunal peut, en outre, prononcer la peine complémentaire d'interdiction d'effectuer des opérations de transport sur le
 territoire national pendant une durée d'un an au plus.
 
-II. - Est puni de 7 500 euros d'amende le fait, pour une entreprise de transport de marchandises ou de personnes pour compte
-d'autrui admise à effectuer par voie navigable des transports nationaux de cabotage, de réaliser ces transports avec un
-bateau de navigation intérieure demeurant sur le territoire national plus de quatre-vingt-dix jours consécutifs.
+II. - Est puni de 7 500 euros d'amende le fait, pour une entreprise non résidente de transport de marchandises ou de
+personnes pour compte d'autrui admise à effectuer par voie navigable des transports nationaux de cabotage, de réaliser ces
+transports avec un bateau de navigation intérieure demeurant sur le territoire national plus de quatre-vingt-dix jours
+consécutifs ou plus de cent trente-cinq jours sur une période de douze mois.
 
 III. - Ces infractions sont constatées par les agents mentionnés à l'article 22 de la loi n° 72-1202 du 23 décembre 1972
 relative aux infractions concernant les bateaux, engins et établissements flottants circulant ou stationnant sur les eaux
@@ -6137,21 +6169,33 @@ agents mentionnés au III, jusqu'à ce que cesse l'infraction, dans les conditio
 
 	**Codifié par**:
 
-	  - Décret n°56-1033 1956-10-13
+	  - Décret n°56-1033 du 13 octobre 1956
 
 	**Cite**:
 
-	  - Loi n°72-1202 du 23 décembre 1972 - art. 22 (V)
-	  - Règlement CEE 3921-91 1991-12-16
+	  - Loi n°72-1202 du 23 décembre 1972 - art. 22
+	  - Règlement 3921-91 CEE 1991-12-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2005-882 du 2 août 2005 - art. 91 () JORF 3 août 2005
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 32 () JORF 6 janvier 2006
 
 	**Cité par**:
 
 	  - Décret n°2010-389 du 19 avril 2010 - art. 7 (Ab)
 	  - Décret n°2010-389 du 19 avril 2010 - art. 8 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L4413-1 (V)
+	  - Code des transports - art. L4462-6 (V)
+	  - Code des transports - art. L4462-7 (V)
+	  - Code des transports - art. L4463-4 (V)
+	  - Code des transports - art. L4463-5 (M)
 
 
 ### Chapitre VI : Coordination des transports
@@ -6488,6 +6532,75 @@ les mêmes conditions que les taxes.
 	**Abrogé par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+
+###### Article 224-1
+
+Voies navigables de France peut recourir, pour des projets d'infrastructures destinées à être incorporées au réseau fluvial,
+et pour la rénovation ou la construction de tous ouvrages permettant la navigation, à un contrat de partenariat conclu sur le
+fondement des dispositions de l'ordonnance n° 2004-559 du 17 juin 2004 sur les contrats de partenariats ou à une convention
+de délégation de service public prévue par les articles 38 et suivants de la loi n° 93-122 du 29 janvier 1993 relative à la
+prévention de la corruption et à la transparence de la vie économique et des procédures publiques. Le contrat ou la
+convention peut porter sur la construction, l'entretien et l'exploitation de tout ou partie de l'infrastructure et des
+équipements associés, en particulier les plates-formes portuaires et multimodales et les installations de production
+d'énergie électrique, et sur la gestion du trafic à l'exclusion de la police de la navigation. Le contrat ou la convention
+comporte des stipulations de nature à garantir le respect des impératifs de sécurité et de continuité du service public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-1033 1956-10-13
+
+	**Cite**:
+
+	  - Loi n°93-122 du 29 janvier 1993
+	  - Ordonnance n°2004-559 du 17 juin 2004
+
+	**Créé par**:
+
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 33 () JORF 6 janvier 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L4311-4 (V)
+
+
+###### Article 224-2
+
+L'Etat, lorsqu'il recourt à un contrat ou à une convention mentionnés à l'article L. 224-1, peut demander à Voies navigables
+de France de l'assister pour toute mission à caractère technique, administratif, juridique ou financier intéressant la
+conclusion ou l'exécution du contrat ou de la convention. Les rapports entre l'Etat et Voies navigables de France ne sont pas
+régis par la loi n° 85-704 du 12 juillet 1985 relative à la maîtrise d'ouvrage publique et à ses rapports avec la maîtrise
+d'oeuvre privée. Ils sont définis par un cahier des charges. Un décret en Conseil d'Etat précise les modalités d'application
+du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-1033 du 13 octobre 1956
+
+	**Cite**:
+
+	  - Loi n°85-704 du 12 juillet 1985
+	  - Code du domaine public fluvial et de la navigation intérieure
+
+	**Créé par**:
+
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 33 () JORF 6 janvier 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L4311-5 (V)
 
 
 ###### Article 225
