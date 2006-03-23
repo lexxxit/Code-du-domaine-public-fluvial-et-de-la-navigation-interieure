@@ -1,5 +1,5 @@
 # Code du domaine public fluvial et de la navigation intérieure  
-Version Consolidée au 2006-01-06
+Version Consolidée au 2006-03-24
 
 # Livre Ier : Du domaine public fluvial
 
@@ -2805,7 +2805,7 @@ bateaux non immatriculés en France.
 
 Les bateaux de navigation intérieure demeurent affectés aux dettes que la loi déclare privilégiées pour les meubles.
 
-Jouissent d'un privilège qui prime celui des créances visées aux articles 2101 et 2102 du code civil les créances ci-dessous
+Jouissent d'un privilège qui prime celui des créances visées aux articles 2331 et 2332 du code civil les créances ci-dessous
 énumérées :
 
 1° Les frais de conservation depuis la saisie, les taxes de navigation ainsi que les droits de port et de pilotage ;
@@ -2827,12 +2827,20 @@ antérieurs à l'inscription de l'hypothèque.
 
 	**Codifié par**:
 
-	  - Décret n°56-1033 1956-10-13
+	  - Décret n°56-1033 du 13 octobre 1956
+
+	**Modifié par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 54 (V) JORF 24 mars 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 	**Cite**:
 
-	  - Code civil - art. 2101 (M)
-	  - Code civil - art. 2102 (M)
+	  - Code civil - art. 2331
+	  - Code civil - art. 2332
 
 	**Cité par**:
 
@@ -2863,7 +2871,7 @@ remboursées par préférence dans l'ordre inverse des dates où elles sont née
 
 ###### Article 91
 
-Il n'est rien changé à l'ordre des privilèges des articles 2101 et 2102 du code civil qui ne sont pas compris dans
+Il n'est rien changé à l'ordre des privilèges des articles 2331 et 2332 du code civil qui ne sont pas compris dans
 l'énumération du deuxième alinéa de l'article 89. Toutefois, ces privilèges ne prennent rang avant l'hypothèque que si les
 faits constitutifs de la créance sont antérieurs à l'inscription de l'hypothèque et si, en outre, avant cette inscription, le
 créancier est en possession du bateau ou l'a fait saisir à titre conservatoire.
@@ -2872,13 +2880,21 @@ créancier est en possession du bateau ou l'a fait saisir à titre conservatoire
 
 	**Codifié par**:
 
-	  - Décret n°56-1033 1956-10-13
+	  - Décret n°56-1033 du 13 octobre 1956
+
+	**Modifié par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 54 (V) JORF 24 mars 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 	**Cite**:
 
-	  - Code civil - art. 2101 (M)
-	  - Code civil - art. 2102 (M)
-	  - Code du domaine public fluvial et de la navigation - art. 89 (M)
+	  - Code civil - art. 2331
+	  - Code civil - art. 2332
+	  - Code du domaine public fluvial et de la navigation intérieure - art. 89
 
 
 ###### Article 92
