@@ -1,5 +1,5 @@
 # Code du domaine public fluvial et de la navigation intérieure  
-Version Consolidée au 2008-08-06
+Version Consolidée au 2009-05-14
 
 # Livre Ier : Du domaine public fluvial
 
@@ -389,21 +389,19 @@ tribunal de police, soit sur la réquisition des parties plaignantes, soit sur c
 restitution des sommes indûment perçues et, en outre, à l'amende prévue par le 3° de l'article 131-13 du code pénal pour les
 contravention de la troisième classe.
 
-En cas de récidive, la condamnation sera prononcée par le tribunal correctionnel.
-
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-1033 1956-10-13
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 326 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°2009-526 du 12 mai 2009 - art. 122
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 	**Cite**:
 
-	  - Code pénal - art. 131-13 (M)
+	  - Code pénal - art. 131-13
 
 
 ###### Article 72
@@ -2811,30 +2809,6 @@ seront appliquées à l'auteur de la contravention.
 	  - Loi n°1856-07-21 art. 18
 
 
-###### Article 149
-
-En cas de récidive, l'amende et la durée de l'emprisonnement peuvent être élevées au double du maximum porté dans les
-articles précédents. Le tribunal peut, en outre, ordonner, aux frais du contrevenant, l'affichage du jugement et des
-insertions dans les journaux.
-
-Il y a récidive lorsque le contrevenant a subi, dans les douze mois qui précèdent, une condamnation en vertu du présent
-titre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-1033 1956-10-13
-
-	**Abrogé par**:
-
-	  - Loi n°2009-526 du 12 mai 2009 - art. 122
-
-	**Anciens textes**:
-
-	  - Loi n°1856-07-21 art. 19
-
-
 ###### Article 150
 
 Si les contraventions prévues aux articles précédents ont occasionné des blessures, la peine sera de six mois
@@ -4054,13 +4028,26 @@ obligations résultant pour lui de l'application des II à IV.
 V.-Les II, III, IV et IV bis sont applicables aux contrats de commission de transport pour la part relative à l'organisation
 du transport fluvial de marchandises ainsi qu'aux contrats de location d'un bateau de marchandises avec équipage. 
 
-VI.-Les quatrième à sixième alinéas de l'article 209 s'appliquent aux infractions prévues au présent article.
+VI.-Les deuxième à quatrième alinéas de l'article 209 s'appliquent aux infractions prévues au présent article.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 38
+	  - Loi n°2009-526 du 12 mai 2009 - art. 125
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L4451-3 (V)
+	  - Code des transports - art. L4451-4 (V)
+	  - Code des transports - art. L4451-5 (V)
+	  - Code des transports - art. L4451-6 (V)
+	  - Code des transports - art. L4454-2 (V)
+	  - Code des transports - art. L4463-3 (V)
 
 	**Cité par**:
 
@@ -4068,7 +4055,7 @@ VI.-Les quatrième à sixième alinéas de l'article 209 s'appliquent aux infrac
 
 	**Cite**:
 
-	  - Code du domaine public fluvial et de la navigat... - art. 209 (V)
+	  - Code du domaine public fluvial et de la navigation intérieure - art. 209
 
 
 ###### Article 189-7
@@ -4289,17 +4276,12 @@ auxiliaire de transport ou loueur de bateaux de marchandises avec équipage, d'o
 coût de la prestation qui ne permet pas de couvrir les charges entraînées par les obligations légales et réglementaires,
 notamment en matière sociale et de sécurité, ainsi que les charges de carburant et d'entretien, les amortissements ou les
 loyers des bateaux, les frais de péage, les frais de documents de transport, les timbres fiscaux et, pour les entreprises
-unipersonnelles, la rémunération du chef d'entreprise.
-
-Les personnes morales peuvent être déclarées pénalement responsables, dans les conditions prévues par l'article 121-2 du code
-pénal, de l'infraction prévue au présent article.
-
-La peine encourue par les personnes morales est l'amende suivant les modalités prévues à l'article 131-38 du code pénal.
+unipersonnelles, la rémunération du chef d'entreprise. 
 
 Les infractions sont recherchées et constatées dans les conditions prévues aux articles 45 (premier et troisième alinéas),
 46, 47, 51 et 52 de l'ordonnance n° 86-1243 du 1er décembre 1986 relative à la liberté des prix et de la concurrence. Le
 procureur de la République est préalablement avisé des opérations envisagées. Les procès-verbaux qui font foi jusqu'à preuve
-du contraire lui sont transmis sans délai. Copie en est adressée à l'intéressé.
+du contraire lui sont transmis sans délai. Copie en est adressée à l'intéressé. 
 
 Le transporteur public de marchandises par voie navigable, l'auxiliaire de transport ou le loueur de bateaux de marchandises
 avec équipage évincé en raison d'un prix trop bas, la Chambre nationale de la battellerie artisanale, les organisations
@@ -4310,19 +4292,17 @@ L'action est prescrite dans un délai d'un an à compter de la date de fin d'ex�
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°56-1033 1956-10-13
-
 	**Cite**:
 
-	  - Ordonnance 86-1243 1986-12-01 art. 45, art. 46, art. 47, art. 51, art. 52
-	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 46 (Ab)
-	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 47 (Ab)
-	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 51 (Ab)
-	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 52 (M)
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-38 (M)
+	  - Ordonnance n°86-1243 du 1 décembre 1986
+	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 46
+	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 47
+	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 51
+	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 52
+	  - Code pénal - art. 121-2
+	  - Code pénal - art. 131-38
+	  - Code du domaine public fluvial et de la navigation intérieure - art. 45
+	  - Code du domaine public fluvial et de la navigation intérieure - art. 51
 
 	**Cité par**:
 
@@ -4331,12 +4311,18 @@ L'action est prescrite dans un délai d'un an à compter de la date de fin d'ex�
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2009-526 du 12 mai 2009 - art. 125
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L4462-1 (V)
+	  - Code des transports - art. L4462-2 (V)
+	  - Code des transports - art. L4462-3 (V)
+	  - Code des transports - art. L4463-2 (V)
 
 
 ###### Article 210
