@@ -1,5 +1,5 @@
 # Code du domaine public fluvial et de la navigation intérieure  
-Version Consolidée au 2009-10-01
+Version Consolidée au 2010-07-14
 
 # Livre Ier : Du domaine public fluvial
 
@@ -3799,22 +3799,31 @@ ordonnance est maintenu en vigueur jusqu'à la publication des dispositions rég
 
 # Livre V : De l'exploitation et de la modernisation des voies navigables
 
-## Titre II : Voies ferrées des quais
+## Titre II : Voies ferrées portuaires
 
 ###### Article 182
 
-Le régime des voies ferrées des quais des ports de navigation intérieure est celui fixé par les articles 42 à 44 du code des
-ports maritimes.
+Le régime des voies ferrées portuaires dans les ports autonomes fluviaux est défini par le livre IV du code des ports
+maritimes.
+
+Sans préjudice de la compétence générale des officiers et agents de police judiciaire, les agents de la navigation intérieure
+et les agents des ports autonomes fluviaux, lorsqu'ils ont la qualité de fonctionnaire et sont commissionnés et assermentés à
+cet effet, ont compétence pour constater par procès-verbal les atteintes aux voies ferrées portuaires et les infractions aux
+règlements de police qui leur sont applicables. Ledit procès-verbal est remis au contrevenant.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°56-1033 1956-10-13
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 61
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Code des ports maritimes 42 à 44
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L4321-3 (V)
 
 
 ## Titre III : Régime du travail
