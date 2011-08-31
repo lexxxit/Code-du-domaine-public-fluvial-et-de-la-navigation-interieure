@@ -1,5 +1,5 @@
 # Code du domaine public fluvial et de la navigation intérieure  
-Version Consolidée au 2010-12-01
+Version Consolidée au 2011-09-01
 
 # Livre Ier : Du domaine public fluvial
 
@@ -939,54 +939,60 @@ transports a été publié au     JORF n° 73 du 27 mars 2013.
 
 ###### Article 120
 
-L'huissier énonce dans le procès-verbal de saisie :
+L'huissier énonce dans le procès-verbal de saisie : 
 
-Les nom, prénoms et domicile du créancier pour qui il agit ;
+Les nom, prénoms et domicile du créancier pour qui il agit ; 
 
-Le titre en vertu duquel il procède ;
+Le titre en vertu duquel il procède ; 
 
-La somme dont il poursuit le payement ;
+La somme dont il poursuit le payement ; 
 
-L'élection de domicile faite par le créancier dans le lieu où siège le tribunal devant lequel la vente doit être poursuivie
-et dans le lieu où le bateau saisi est amarré ;
+L'élection de domicile faite par le créancier dans le lieu où siège le juge de l'exécution devant lequel la vente doit être
+poursuivie et dans le lieu où le bateau saisi est amarré ; 
 
-Les noms du propriétaire et du capitaine ou patron ;
+Les noms du propriétaire et du capitaine ou patron ; 
 
-Le nom et la devise, le type, le tonnage du bateau, son numéro et le bureau d'immatriculation.
+Le nom et la devise, le type, le tonnage du bateau, son numéro et le bureau d'immatriculation. 
 
-Il fait l'énonciation et la description des agrès, batelets, ustensiles et approvisionnements.
+Il fait l'énonciation et la description des agrès, batelets, ustensiles et approvisionnements. 
 
 Il établit un gardien.
 
 **Nota:**
 
-Conformément à l'article 9 de l'ordonnance n° 2010-1307 du 28 octobre 2010, l'article 120 abrogé par l'article 7 de ladite
-ordonnance est maintenu en vigueur jusqu'à la publication des dispositions réglementaires du code des transports.
+Loi n° 2010-1609 du 22 décembre 2010 article 43 : l'article 10 de la présente loi entre en vigueur dans les conditions fixées
+par un décret nécessaire à son application et au plus tard le 1er septembre 2011.
+
+Conformément à l'article 9 de l'ordonnance n° 2010-1307 du 28 octobre  2010, l'article 120 abrogé par l'article 7 de ladite
+ordonnance est  maintenu en vigueur jusqu'à la publication des dispositions  réglementaires du code des transports.  
+
+Le décret n° 2013-253 du 25 mars 2013 relatif aux dispositions de la     quatrième partie réglementaire du code des
+transports a été publié au     JORF n° 73 du 27 mars 2013.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°56-1033 1956-10-13
+	  - Décret n°56-1033 du 13 octobre 1956
 
-	**Anciens textes**:
+	**Nouveaux textes**:
 
-	  - Loi n°1917-07-05 art. 35
+	  - Code des transports - art. R4123-4 (V)
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+	  - Loi n°2010-1609 du 22 décembre 2010 - art. 10
 
 
 ###### Article 121
 
 Le saisissant doit, dans le délai de trois jours, notifier au propriétaire copie du procès-verbal de saisie et le faire citer
-devant le tribunal de grande instance du lieu de la saisie pour voir dire qu'il sera procédé à la vente des choses saisies.
+devant le   juge de l'exécution du lieu de la saisie pour voir dire qu'il sera procédé à la vente des choses saisies. 
 
 Si le propriétaire n'est pas domicilié dans l'arrondissement où se trouve le bateau, les significations et citations lui sont
 données en la personne du capitaine ou patron du bateau saisi, ou, en son absence, en la personne de celui qui représente le
 propriétaire ou le capitaine ou patron. Le délai de trois jours est porté à huit jours si le propriétaire est domicilié dans
-le département et à quinze jours s'il est domicilié en France hors du département.
+le département et à quinze jours s'il est domicilié en France hors du département. 
 
 Si le propriétaire est domicilié hors de France et non représenté, les citations et les significations seront données ainsi
 qu'il est prescrit par l'article 69, paragraphe 10, du code de procédure civile, sous réserve de toutes autres dispositions
@@ -994,47 +1000,55 @@ des traités internationaux.
 
 **Nota:**
 
-Conformément à l'article 9 de l'ordonnance n° 2010-1307 du 28 octobre 2010, l'article 121 abrogé par l'article 7 de ladite
-ordonnance est maintenu en vigueur jusqu'à la publication des dispositions réglementaires du code des transports.
+Loi n° 2010-1609 du 22 décembre 2010 article 43 : l'article 10 de la présente loi entre en vigueur dans les conditions fixées
+par un décret nécessaire à son application et au plus tard le 1er septembre 2011.
+
+Conformément à l'article 9 de l'ordonnance n° 2010-1307 du 28 octobre   2010, l'article 121 abrogé par l'article 7 de ladite
+ordonnance est   maintenu en vigueur jusqu'à la publication des dispositions   réglementaires du code des transports.  
+
+Le décret  n° 2013-253 du 25 mars 2013 relatif aux dispositions de la     quatrième  partie réglementaire du code des
+transports a été publié au     JORF n°  73 du 27 mars 2013.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°56-1033 1956-10-13
+	  - Décret n°56-1033 du 13 octobre 1956
 
-	**Anciens textes**:
+	**Nouveaux textes**:
 
-	  - Loi n°1917-07-05 art. 36
+	  - Code des transports - art. R4123-5 (V)
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
-
-	**Cite**:
-
-	  - Code de procédure civile (1807)
+	  - Loi n°2010-1609 du 22 décembre 2010 - art. 10
 
 
 ###### Article 122
 
 Le procès-verbal de saisie est transcrit au greffe du tribunal de commerce du lieu de l'immatriculation ou dans le ressort
 duquel le bateau est en construction, dans le délai de trois jours, huit jours ou quinze jours, selon que le lieu où se
-trouve le tribunal qui doit connaître de la saisie et de ses suites est dans l'arrondissement, dans le département ou hors du
-département.
+trouve la juridiction qui doit connaître de la saisie et de ses suites est dans l'arrondissement, dans le département ou hors
+du département.
 
 Dans la huitaine, le greffe du tribunal de commerce délivre un état des inscriptions et, dans les trois jours qui suivent
 (avec augmentation du délai à raison des distances comme il est dit ci-dessus), la saisie est dénoncée aux créanciers
-inscrits aux domiciles élus dans leurs inscriptions, avec l'indication du jour de la comparution devant le tribunal de grande
-instance.
+inscrits aux domiciles élus dans leurs inscriptions, avec l'indication du jour de la comparution devant le juge de
+l'exécution.
 
 Le délai de comparution est également calculé à raison de trois, huit ou quinze jours selon la distance entre le lieu où le
-bateau est immatriculé et le lieu où siège le tribunal dans le ressort duquel la saisie a été pratiquée.
+bateau est immatriculé et le lieu où siège la juridiction dans le ressort de laquelle la saisie a été pratiquée.
 
 **Nota:**
 
-Conformément à l'article 9 de l'ordonnance n° 2010-1307 du 28 octobre 2010, l'article 122 abrogé par l'article 7 de ladite
-ordonnance est maintenu en vigueur jusqu'à la publication des dispositions réglementaires du code des transports.
+Loi n° 2010-1609 du 22 décembre 2010 article 43 : l'article 10 de la présente loi entre en vigueur dans les conditions fixées
+par un décret nécessaire à son application et au plus tard le 1er septembre 2011.
+
+Conformément à l'article 9 de l'ordonnance n° 2010-1307 du 28 octobre   2010, l'article 122 abrogé par l'article 7 de ladite
+ordonnance est   maintenu en vigueur jusqu'à la publication des dispositions   réglementaires du code des transports.  
+
+Le décret  n° 2013-253 du 25 mars 2013 relatif aux dispositions de la     quatrième  partie réglementaire du code des
+transports a été publié au     JORF n°  73 du 27 mars 2013.
 
 **Liens relatifs à cet article**
 
@@ -1046,11 +1060,15 @@ ordonnance est maintenu en vigueur jusqu'à la publication des dispositions rég
 
 	**Codifié par**:
 
-	  - Décret n°56-1033 1956-10-13
+	  - Décret n°56-1033 du 13 octobre 1956
 
-	**Abrogé par**:
+	**Nouveaux textes**:
 
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+	  - Code des transports - art. R4123-6 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2010-1609 du 22 décembre 2010 - art. 10
 
 
 ###### Article 123
@@ -1058,15 +1076,18 @@ ordonnance est maintenu en vigueur jusqu'à la publication des dispositions rég
 Lorsqu'il est procédé à la saisie d'un bateau immatriculé à l'étranger dans un des pays signataires de la convention de
 Genève, du 9 décembre 1930, concernant l'immatriculation des bateaux de navigation intérieure, les droits réels sur ces
 bateaux et autres matières connexes, la saisie est dénoncée aux créanciers inscrits par lettre recommandée avec accusé de
-réception un mois avant le jour de la comparution devant le tribunal de grande instance. Ces créanciers seront avisés de la
-même manière au moins un mois à l'avance, de la date fixée pour la vente.
+réception un mois avant le jour de la comparution devant le juge de l'exécution. Ces créanciers seront avisés de la même
+manière au moins un mois à l'avance, de la date fixée pour la vente.
 
 La date de la vente sera publiée dans le même délai au lieu d'immatriculation du bateau.
 
 **Nota:**
 
+Loi n° 2010-1609 du 22 décembre 2010 article 43 : l'article 10 de la présente loi entre en vigueur dans les conditions fixées
+par un décret nécessaire à son application et au plus tard le 1er septembre 2011.
+
 Conformément à l'article 9 de l'ordonnance n° 2010-1307 du 28 octobre 2010, l'article 123 abrogé par l'article 7 de ladite
-ordonnance  est maintenu en vigueur jusqu'à la publication des dispositions réglementaires du code des transports.
+ordonnance est maintenu en vigueur jusqu'à la publication des dispositions réglementaires du code des transports.
 
 **Liens relatifs à cet article**
 
@@ -1074,69 +1095,82 @@ ordonnance  est maintenu en vigueur jusqu'à la publication des dispositions ré
 
 	  - Décret n°56-1033 du 13 octobre 1956
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+	  - Loi n°2010-1609 du 22 décembre 2010 - art. 10
 
 
 ###### Article 124
 
-Le tribunal de grande instance fixe par son jugement la mise à prix et les conditions de la vente. Si, au jour fixé pour la
-vente, il n'est pas fait d'offre, le tribunal indique par jugement le jour auquel les enchères auront lieu sur une nouvelle
-mise à prix inférieure à la première et qui est déterminée par jugement.
+Le juge de l'exécution fixe par son jugement la mise à prix et les conditions de la vente. Si, au jour fixé pour la vente, il
+n'est pas fait d'offre, le juge indique par jugement le jour auquel les enchères auront lieu sur une nouvelle mise à prix
+inférieure à la première et qui est déterminée par jugement.
 
 **Nota:**
 
-Conformément à l'article 9 de l'ordonnance n° 2010-1307 du 28 octobre 2010, l'article 124 abrogé par l'article 7 de ladite
-ordonnance est maintenu en vigueur jusqu'à la publication des dispositions réglementaires du code des transports.
+Loi n° 2010-1609 du 22 décembre 2010 article 43 : l'article 10 de la présente loi entre en vigueur dans les conditions fixées
+par un décret nécessaire à son application et au plus tard le 1er septembre 2011.
+
+Conformément à l'article 9 de l'ordonnance n° 2010-1307 du 28 octobre   2010, l'article 124 abrogé par l'article 7 de ladite
+ordonnance est   maintenu en vigueur jusqu'à la publication des dispositions   réglementaires du code des transports.  
+
+Le décret  n° 2013-253 du 25 mars 2013 relatif aux dispositions de la     quatrième  partie réglementaire du code des
+transports a été publié au     JORF n°  73 du 27 mars 2013.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°56-1033 1956-10-13
+	  - Décret n°56-1033 du 13 octobre 1956
 
-	**Anciens textes**:
+	**Nouveaux textes**:
 
-	  - Loi n°1917-07-05 art. 38
+	  - Code des transports - art. R4123-8 (V)
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+	  - Loi n°2010-1609 du 22 décembre 2010 - art. 10
 
 
 ###### Article 125
 
-La vente sur saisie se fait à l'audience des criées du tribunal de grande instance quinze jours après une apposition
-d'affiche et une insertion de cette affiche ;
+La vente sur saisie se fait à l'audience des criées du juge de l'exécution quinze jours après une apposition d'affiche et une
+insertion de cette affiche ;
 
-1° Dans un des journaux désignés pour recevoir les annonces judiciaires du ressort du tribunal ;
+1° Dans un des journaux désignés pour recevoir les annonces judiciaires dans le ressort du tribunal de grande instance où la
+vente a lieu ;
 
 2° Dans un journal spécial de navigation intérieure.
 
-Néanmoins, le tribunal peut ordonner que la vente soit faite ou devant un autre tribunal de grande instance ou en l'étude et
-par le ministère soit d'un notaire, soit d'un autre officier public, au lieu où se trouve le bateau saisi.
+Néanmoins, le juge peut ordonner que la vente soit faite ou devant un autre juge de l'exécution ou en l'étude et par le
+ministère soit d'un notaire, soit d'un autre officier public, au lieu où se trouve le bateau saisi.
 
 Dans ces divers cas, le jugement réglemente la publicité locale.
 
 **Nota:**
 
-Conformément à l'article 9 de l'ordonnance n° 2010-1307 du 28 octobre 2010, l'article 125 abrogé par l'article 7 de ladite
-ordonnance est maintenu en vigueur jusqu'à la publication des dispositions réglementaires du code des transports.
+Loi n° 2010-1609 du 22 décembre 2010 article 43 : l'article 10 de la présente loi entre en vigueur dans les conditions fixées
+par un décret nécessaire à son application et au plus tard le 1er septembre 2011.
+
+Conformément à l'article 9 de l'ordonnance n° 2010-1307 du 28 octobre   2010, l'article 125 abrogé par l'article 7 de ladite
+ordonnance est   maintenu en vigueur jusqu'à la publication des dispositions   réglementaires du code des transports.  
+
+Le décret  n° 2013-253 du 25 mars 2013 relatif aux dispositions de la     quatrième  partie réglementaire du code des
+transports a été publié au     JORF n°  73 du 27 mars 2013.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°56-1033 1956-10-13
+	  - Décret n°56-1033 du 13 octobre 1956
 
-	**Anciens textes**:
+	**Nouveaux textes**:
 
-	  - Loi n°1917-07-05 art. 39
+	  - Code des transports - art. R4123-9 (V)
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+	  - Loi n°2010-1609 du 22 décembre 2010 - art. 10
 
 
 ###### Article 126
@@ -1183,8 +1217,8 @@ Les titres en vertu desquels il agit ;
 
 La somme qui lui est due ;
 
-L'élection de domicile par lui faite dans le lieu où siège le tribunal de grande instance et dans le lieu où le bateau saisi
-est amarré ;
+L'élection de domicile par lui faite dans le lieu où siège le juge de l'exécution et dans le lieu où le bateau saisi est
+amarré ;
 
 Les nom, prénoms, profession et domicile du propriétaire du bateau saisi ;
 
@@ -1198,22 +1232,28 @@ La mise à prix et les conditions de la vente, les jour, lieu et heure de l'adju
 
 **Nota:**
 
-Conformément à l'article 9 de l'ordonnance n° 2010-1307 du 28 octobre 2010, l'article 127 abrogé par l'article 7 de ladite
-ordonnance est maintenu en vigueur jusqu'à la publication des dispositions réglementaires du code des transports.
+Loi n° 2010-1609 du 22 décembre 2010 article 43 : l'article 10 de la présente loi entre en vigueur dans les conditions fixées
+par un décret nécessaire à son application et au plus tard le 1er septembre 2011.
+
+Conformément à l'article 9 de l'ordonnance n° 2010-1307 du 28 octobre   2010, l'article 127 abrogé par l'article 7 de ladite
+ordonnance est   maintenu en vigueur jusqu'à la publication des dispositions   réglementaires du code des transports.  
+
+Le décret  n° 2013-253 du 25 mars 2013 relatif aux dispositions de la     quatrième  partie réglementaire du code des
+transports a été publié au     JORF n°  73 du 27 mars 2013.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°56-1033 1956-10-13
+	  - Décret n°56-1033 du 13 octobre 1956
 
-	**Anciens textes**:
+	**Nouveaux textes**:
 
-	  - Loi n°1917-07-05 art. 41
+	  - Code des transports - art. R4123-11 (V)
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+	  - Loi n°2010-1609 du 22 décembre 2010 - art. 10
 
 
 ###### Article 128
@@ -1221,9 +1261,8 @@ ordonnance est maintenu en vigueur jusqu'à la publication des dispositions rég
 L'adjudicataire est tenu de verser son prix sans frais, à la caisse des dépôts et consignations dans les vingt-quatre heures
 de l'adjudication, à peine de folle enchère.
 
-Il doit dans les cinq jours suivants présenter requête au président du tribunal de grande instance pour faire commettre un
-juge devant lequel il citera les créanciers, par acte signifié aux domiciles élus, à l'effet de s'entendre à l'amiable sur la
-distribution du prix.
+Il doit attraire devant le juge de l'exécution les créanciers, par acte signifié aux domiciles élus, à l'effet de s'entendre
+à l'amiable sur la distribution du prix.
 
 L'acte de convocation est affiché dans l'auditoire du tribunal de grande instance et inséré dans l'un des journaux désignés
 pour recevoir les annonces judiciaires dans le ressort du tribunal et dans un journal spécial de navigation intérieure.
@@ -1232,18 +1271,28 @@ Le délai de convocation est de quinzaine, sans augmentation à raison de la dis
 
 **Nota:**
 
-Conformément à l'article 9 de l'ordonnance n° 2010-1307 du 28 octobre 2010, l'article 128 abrogé par l'article 7 de ladite
-ordonnance est maintenu en vigueur jusqu'à la publication des dispositions réglementaires du code des transports.
+Loi n° 2010-1609 du 22 décembre 2010 article 43 : l'article 10 de la présente loi entre en vigueur dans les conditions fixées
+par un décret nécessaire à son application et au plus tard le 1er septembre 2011.
+
+Conformément à l'article 9 de l'ordonnance n° 2010-1307 du 28 octobre   2010, l'article 128 abrogé par l'article 7 de ladite
+ordonnance est   maintenu en vigueur jusqu'à la publication des dispositions   réglementaires du code des transports.  
+
+Le décret  n° 2013-253 du 25 mars 2013 relatif aux dispositions de la     quatrième  partie réglementaire du code des
+transports a été publié au     JORF n°  73 du 27 mars 2013.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°56-1033 1956-10-13
+	  - Décret n°56-1033 du 13 octobre 1956
 
-	**Abrogé par**:
+	**Nouveaux textes**:
 
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+	  - Code des transports - art. R4123-14 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2010-1609 du 22 décembre 2010 - art. 10
 
 
 ###### Article 129
@@ -1280,16 +1329,19 @@ transports a été publié au     JORF n°  73 du 27 mars 2013.
 Dans le cas où les créanciers ne s'entendraient pas sur la distribution du prix, il sera dressé procès-verbal de leurs
 prétentions et contredits.
 
-Dans la huitaine, chacun des créanciers doit déposer au greffe du tribunal une demande de collocation contenant constitution
-d'avoué avec titre à l'appui.
+Dans la huitaine, chacun des créanciers doit déposer au greffe du juge de l'exécution une demande de collocation contenant
+constitution d'avoué avec titre à l'appui.
 
-A la requête du plus diligent, les créanciers sont, par un simple acte d'avoué, appelés devant le tribunal qui statue à
-l'égard de tous, même des créanciers privilégiés.
+A la requête du plus diligent, les créanciers sont, par un simple acte d'avoué, appelés devant le juge de l'exécution qui
+statue à l'égard de tous, même des créanciers privilégiés.
 
 **Nota:**
 
+Loi n° 2010-1609 du 22 décembre 2010 article 43 : l'article 10 de la présente loi entre en vigueur dans les conditions fixées
+par un décret nécessaire à son application et au plus tard le 1er septembre 2011.
+
 Conformément à l'article 9 de l'ordonnance n° 2010-1307 du 28 octobre 2010, l'article 130 abrogé par l'article 7 de ladite
-ordonnance  est maintenu en vigueur jusqu'à la publication des dispositions réglementaires du code des transports.
+ordonnance est maintenu en vigueur jusqu'à la publication des dispositions réglementaires du code des transports.
 
 **Liens relatifs à cet article**
 
@@ -1297,13 +1349,9 @@ ordonnance  est maintenu en vigueur jusqu'à la publication des dispositions ré
 
 	  - Décret n°56-1033 du 13 octobre 1956
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°1917-07-05 art. 43
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+	  - Loi n°2010-1609 du 22 décembre 2010 - art. 10
 
 
 ###### Article 131
@@ -2033,49 +2081,5 @@ ordonnance  est maintenu en vigueur jusqu'à la publication des dispositions ré
 	**Abrogé par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
-
-
-## Titre II : Dispositions particulières au canal du Midi
-
-### Chapitre III : Des contre-canaux, rigoles et fossés
-
-###### Article 244
-
-Il est interdit de faire aucune plantation dans le lit des rigoles d'entrée ou de sortie, dans les contre-canaux et dans les
-anciens, tels que ruisseaux ou ravins.
-
-Les propriétaires seront responsables des dommages causés par la présence de ces obstacles et auront à supporter les frais
-des curages approfondissements ou élargissements qu'ils auraient rendu nécessaires. Ils seront tenus de procéder à
-l'arrachage des arbres et broussailles dans un délai de huitaine après mise en demeure par le préfet.
-
-**Nota:**
-
-Conformément à l'article 16 de l'ordonnance n° 2010-1307 du 28 octobre 2010, l'article 244 est abrogé à l'exception des
-mots : "par le préfet" qui seront abrogés à compter de la publication des dispositions réglementaires du code général de la
-propriété des personnes publiques.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Date de fin de vigueur indéterminée
-
-	**Codifié par**:
-
-	  - Décret n°56-1033 du 13 octobre 1956
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
-
-	**Cité par**:
-
-	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 8 (V)
-
-	**Nouveaux textes**:
-
-	  - Code général de la propriété des personnes publiqu - art. L2124-24 (V)
-	  - Code général de la propriété des personnes publ... - art. R2124-59 (V)
 
 
