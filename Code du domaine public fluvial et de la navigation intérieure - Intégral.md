@@ -1,5 +1,5 @@
 # Code du domaine public fluvial et de la navigation intérieure  
-Version Consolidée au 2011-09-01
+Version Consolidée au 2011-11-24
 
 # Livre Ier : Du domaine public fluvial
 
