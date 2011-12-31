@@ -1,5 +1,5 @@
 # Code du domaine public fluvial et de la navigation intérieure  
-Version Consolidée au 2011-11-25
+Version Consolidée au 2012-01-01
 
 # Livre II : Des bateaux
 
@@ -594,30 +594,30 @@ distinction des dettes exigibles ou non ;
 4° L'indication du lieu où le bateau se trouve et doit rester amarré jusqu'à l'expiration du délai donné aux créanciers pour
 requérir la mise aux enchères et, en outre, si cette mise aux enchères est requise, jusqu'à l'adjudication qui suivra ;
 
-5° Constitution d'un avoué près le tribunal de grande instance dans le ressort duquel se trouve le bateau.
+5° Constitution d'un avocat près le tribunal de grande instance dans le ressort duquel se trouve le bateau.
 
 **Nota:**
 
 Conformément à l'article 9 de l'ordonnance n° 2010-1307 du 28 octobre 2010, l'article 113 abrogé par l'article 7 de ladite
-ordonnance  est maintenu en vigueur jusqu'à la publication des dispositions réglementaires du code des transports.
+ordonnance est maintenu en vigueur jusqu'à la publication des dispositions réglementaires du code des transports.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°56-1033 1956-10-13
+	  - Décret n°56-1033 du 13 octobre 1956
 
-	**Abrogé par**:
+	**Nouveaux textes**:
 
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+	  - Code des transports - art. R4122-7 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2011-94 du 25 janvier 2011 - art. 31
 
 	**Cite**:
 
 	  - Code du domaine public fluvial et de la navigation intérieure - art. 112
-
-	**Anciens textes**:
-
-	  - Loi n°1917-07-05 art. 28
 
 
 ###### Article 114
@@ -1213,80 +1213,66 @@ Dans le cas où les créanciers ne s'entendraient pas sur la distribution du pri
 prétentions et contredits.
 
 Dans la huitaine, chacun des créanciers doit déposer au greffe du juge de l'exécution une demande de collocation contenant
-constitution d'avoué avec titre à l'appui.
+constitution d'avocat avec titre à l'appui.
 
-A la requête du plus diligent, les créanciers sont, par un simple acte d'avoué, appelés devant le juge de l'exécution qui
+A la requête du plus diligent, les créanciers sont, par un simple acte d'avocat, appelés devant le juge de l'exécution qui
 statue à l'égard de tous, même des créanciers privilégiés.
 
 **Nota:**
-
-Loi n° 2010-1609 du 22 décembre 2010 article 43 : l'article 10 de la présente loi entre en vigueur dans les conditions fixées
-par un décret nécessaire à son application et au plus tard le 1er septembre 2011.
 
 Conformément à l'article 9 de l'ordonnance n° 2010-1307 du 28 octobre 2010, l'article 130 abrogé par l'article 7 de ladite
 ordonnance est maintenu en vigueur jusqu'à la publication des dispositions réglementaires du code des transports.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°56-1033 du 13 octobre 1956
-
 	**Modifié par**:
 
-	  - Loi n°2010-1609 du 22 décembre 2010 - art. 10
+	  - Loi n°2011-94 du 25 janvier 2011 - art. 31
 
 
 ###### Article 131
 
-Le jugement est signifié dans les trente jours de sa date, à avoué seulement pour les parties présentes, et aux domiciles
-élus pour les parties défaillantes ; le jugement n'est pas susceptible d'opposition.
+Le jugement est signifié dans les trente jours de sa date, à avocat seulement pour les parties présentes, et aux domiciles
+élus pour les parties défaillantes ; le jugement n'est pas susceptible d'opposition. 
 
-Le délai d'appel est de dix, quinze ou trente jours à compter de la signification du jugement, selon que le siège du tribunal
-et le domicile élu dans l'inscription sont dans le même arrondissement, dans le même département ou dans des départements
-différents.
+Le délai d'appel est de dix, quinze ou trente jours à compter de la signification du jugement, selon que le siège du juge de
+l'exécution et le domicile élu dans l'inscription sont dans le même arrondissement, dans le même département ou dans des
+départements différents.
 
-L'acte d'appel contient assignation et énonciation des griefs à peine de nullité.
+L'acte d'appel contient assignation et énonciation des griefs à peine de nullité. 
 
-La disposition finale de l'article 762 du code de procédure civile est appliquée, ainsi que les articles 761, 763 et 764 du
-même code relativement à la procédure devant la cour.
+La disposition finale de l'article 762 du code de procédure civile est appliquée, ainsi que les articles 761,763 et 764 du
+même code relativement à la procédure devant la cour. 
 
 Dans les huit jours qui suivent l'expiration du délai d'appel et, s'il y a appel, dans les huit jours de l'arrêt, le juge
 déjà désigné dresse l'état des créances, colloquées en principal, intérêts et frais. Les intérêts des sommes utilement
-colloquées cessent de courir à l'égard de la partie saisie. Les dépens des contestations ne pourront être pris sur les
-deniers à distribuer, sauf les frais de l'avoué le plus ancien.
+colloquées cessent de courir à l'égard de la partie saisie. 
 
-Sur ordonnance par le juge-commissaire, le greffier du tribunal de grande instance délivre les bordereaux de collocation
-exécutoire contre la caisse des dépôts et consignations dans les termes de l'article 770 du code de procédure civile. La même
-ordonnance autorise la radiation, par le greffier du tribunal de commerce, des inscriptions des créanciers non colloqués. Il
-est procédé à cette radiation sur la demande de toute partie intéressée.
+Sur ordonnance du juge de l'exécution, le greffier délivre les bordereaux de collocation exécutoire contre la caisse des
+dépôts et consignations dans les termes de l'article 770 du code de procédure civile. La même ordonnance autorise la
+radiation, par le greffier du tribunal de commerce, des inscriptions des créanciers non colloqués. Il est procédé à cette
+radiation sur la demande de toute partie intéressée.
 
 **Nota:**
+
+Loi n° 2010-1609 du 22 décembre 2010 article 43 : l'article 10 de la présente loi entre en vigueur dans les conditions fixées
+par un décret nécessaire à son application et au plus tard le 1er septembre 2011.
 
 Conformément à l'article 9 de l'ordonnance n° 2010-1307 du 28 octobre 2010, l'article 131 abrogé par l'article 7 de ladite
 ordonnance est maintenu en vigueur jusqu'à la publication des dispositions réglementaires du code des transports.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°56-1033 du 13 octobre 1956
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+	  - Loi n°2011-94 du 25 janvier 2011 - art. 31
+	  - Loi n°2011-94 du 25 janvier 2011 - art. 32
 
 	**Cite**:
 
-	  - Code de procédure civile (1807) - art. 761
-	  - Code de procédure civile (1807) - art. 762
-	  - Code de procédure civile (1807) - art. 763
-	  - Code de procédure civile (1807) - art. 764
-	  - Code de procédure civile (1807) - art. 770
-
-	**Anciens textes**:
-
-	  - Loi n°1917-07-15 art. 44
+	  - Code de procédure civile - art. 761
+	  - Code de procédure civile - art. 762
+	  - Code de procédure civile - art. 763
 
 
 # Livre III : Des mariniers
